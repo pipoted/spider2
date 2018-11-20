@@ -1,0 +1,314 @@
+project_opened	vscode/.ropeproject/config.py	/^def project_opened(project):$/;"	f
+set_prefs	vscode/.ropeproject/config.py	/^def set_prefs(prefs):$/;"	f
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+h	baidu.html	/^function h(obj){$/;"	f
+ime_hw	baidu.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="8844bf980002bae6"><input type="hidden" name="rsv_t" value="5cdfPyG9PHeV+YlX0yQAtmw5rcwwlB6oUv9mOBaloIeLkG8vFgRdbm9AliM"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+h	baidu_01.html	/^function h(obj){$/;"	f
+ime_hw	baidu_01.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="fad99f1d0003b60e"><input type="hidden" name="rsv_t" value="c80cT\/VsjjpFHhXSouwz3\/8ymU5ewz7mDxouvVxsLkFTeHwFoP4bcMxaXT4"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+handler	learn/python3/agency.py	/^handler = urllib.request.ProxyHandler({$/;"	v
+headers	learn/python3/agency.py	/^headers = {$/;"	v
+opener	learn/python3/agency.py	/^opener = urllib.request.build_opener(handler)$/;"	v
+parse	learn/python3/agency.py	/^import urllib.parse$/;"	i
+request	learn/python3/agency.py	/^import urllib.request$/;"	i
+request	learn/python3/agency.py	/^request = urllib.request.Request(url, headers=headers)$/;"	v
+response	learn/python3/agency.py	/^response = opener.open(request)$/;"	v
+urllib	learn/python3/agency.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/agency.py	/^import urllib.request$/;"	i
+data	learn/python3/ajax_get.py	/^data = {$/;"	v
+headers	learn/python3/ajax_get.py	/^headers = {$/;"	v
+number	learn/python3/ajax_get.py	/^number = 20$/;"	v
+page	learn/python3/ajax_get.py	/^page = int(input('请输入想要第几页的数据:'))$/;"	v
+parse	learn/python3/ajax_get.py	/^import urllib.parse$/;"	i
+query_string	learn/python3/ajax_get.py	/^query_string = urllib.parse.urlencode(data)$/;"	v
+request	learn/python3/ajax_get.py	/^import urllib.request$/;"	i
+request	learn/python3/ajax_get.py	/^request = urllib.request.Request(url=url, headers=headers)$/;"	v
+response	learn/python3/ajax_get.py	/^response = urllib.request.urlopen(request)$/;"	v
+urllib	learn/python3/ajax_get.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/ajax_get.py	/^import urllib.request$/;"	i
+city	learn/python3/ajax_post.py	/^city = input('城市：')$/;"	v
+form_data	learn/python3/ajax_post.py	/^form_data = urllib.parse.urlencode(form_data).encode()$/;"	v
+form_data	learn/python3/ajax_post.py	/^form_data = {$/;"	v
+headers	learn/python3/ajax_post.py	/^headers = {$/;"	v
+parse	learn/python3/ajax_post.py	/^import urllib.parse$/;"	i
+request	learn/python3/ajax_post.py	/^import urllib.request$/;"	i
+request	learn/python3/ajax_post.py	/^request = urllib.request.Request(url=post_url, headers=headers)$/;"	v
+response	learn/python3/ajax_post.py	/^response = urllib.request.urlopen(request, data=form_data)$/;"	v
+urllib	learn/python3/ajax_post.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/ajax_post.py	/^import urllib.request$/;"	i
+parse	learn/python3/day01/urllib_learn/demo_urllib.py	/^from urllib import parse$/;"	i
+request	learn/python3/day01/urllib_learn/demo_urllib.py	/^from urllib import request$/;"	i
+h	learn/python3/day01/urllib_learn/download/baidu.html	/^function h(obj){$/;"	f
+ime_hw	learn/python3/day01/urllib_learn/download/baidu.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="97ab45af00005747"><input type="hidden" name="rsv_t" value="ab25e92+cXzTXGUra4Rr7mcz2etLXHe4jDtfC+RwTvC\/0grsPPpppHFYFEg"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+goPAGE	learn/python3/day01/urllib_learn/download/my_renren.html	/^function goPAGE() {$/;"	f
+sendStats	learn/python3/day01/urllib_learn/download/my_renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
+goPAGE	learn/python3/day01/urllib_learn/download/renren.html	/^function goPAGE() {$/;"	f
+sendStats	learn/python3/day01/urllib_learn/download/renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
+form_data	learn/python3/day01/urllib_learn/lagou_request.py	/^form_data = parse.urlencode(form_data).encode()$/;"	v
+form_data	learn/python3/day01/urllib_learn/lagou_request.py	/^form_data = {$/;"	v
+headers	learn/python3/day01/urllib_learn/lagou_request.py	/^headers = {$/;"	v
+parse	learn/python3/day01/urllib_learn/lagou_request.py	/^from urllib import parse$/;"	i
+req	learn/python3/day01/urllib_learn/lagou_request.py	/^req = request.Request(post_url, headers=headers, data=form_data, method='post')$/;"	v
+request	learn/python3/day01/urllib_learn/lagou_request.py	/^from urllib import request$/;"	i
+response	learn/python3/day01/urllib_learn/lagou_request.py	/^response = request.urlopen(req)$/;"	v
+MozillaCookieJar	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^from http.cookiejar import MozillaCookieJar$/;"	i
+cookiejar	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^cookiejar = MozillaCookieJar('cookies.txt')$/;"	v
+handler	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^handler = request.HTTPCookieProcessor(cookiejar)$/;"	v
+opener	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^opener = request.build_opener(handler)$/;"	v
+request	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^from urllib import request$/;"	i
+response	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^response = opener.open('http:\/\/httpbin.org\/cookies')$/;"	v
+handler	learn/python3/day01/urllib_learn/nehan_homework.py	/^handler = request.ProxyHandler({$/;"	v
+opener	learn/python3/day01/urllib_learn/nehan_homework.py	/^opener = request.build_opener(handler)$/;"	v
+request	learn/python3/day01/urllib_learn/nehan_homework.py	/^from urllib import request$/;"	i
+response	learn/python3/day01/urllib_learn/nehan_homework.py	/^response = opener.open(url)$/;"	v
+url	learn/python3/day01/urllib_learn/nehan_homework.py	/^url = 'http:\/\/httpbin.org\/ip'$/;"	v
+headers	learn/python3/day01/urllib_learn/renren_cookies.py	/^headers = {$/;"	v
+req	learn/python3/day01/urllib_learn/renren_cookies.py	/^req = request.Request(url, headers=headers)$/;"	v
+request	learn/python3/day01/urllib_learn/renren_cookies.py	/^from urllib import request$/;"	i
+response	learn/python3/day01/urllib_learn/renren_cookies.py	/^response = request.urlopen(req)$/;"	v
+url	learn/python3/day01/urllib_learn/renren_cookies.py	/^url = 'http:\/\/www.renren.com\/968661159'$/;"	v
+CookieJar	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from http.cookiejar import CookieJar$/;"	i
+cookiejar	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^cookiejar = CookieJar()$/;"	v
+data	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^data = parse.urlencode(data).encode()$/;"	v
+data	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^data = {$/;"	v
+handler	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^handler = request.HTTPCookieProcessor(cookiejar)$/;"	v
+headers	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^headers = {$/;"	v
+login_url	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^login_url = 'http:\/\/www.renren.com\/relogin.do'$/;"	v
+my_home_url	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^my_home_url = 'http:\/\/www.renren.com\/968662672'$/;"	v
+opener	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^opener = request.build_opener(handler)$/;"	v
+parse	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from urllib import parse$/;"	i
+req	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^req = request.Request(my_home_url, headers=headers)$/;"	v
+req	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^req = request.Request(url=login_url,data=data,headers=headers)$/;"	v
+request	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from urllib import request$/;"	i
+response	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^response = opener.open(req)$/;"	v
+headers	learn/python3/day02/request/demo01.py	/^headers = {$/;"	v
+params	learn/python3/day02/request/demo01.py	/^params = {$/;"	v
+requests	learn/python3/day02/request/demo01.py	/^import requests$/;"	i
+response	learn/python3/day02/request/demo01.py	/^response = requests.get(url=url, params=params,headers=headers)$/;"	v
+url	learn/python3/day02/request/demo01.py	/^url = 'https:\/\/www.baidu.com\/'$/;"	v
+h	learn/python3/day02/request/download/baidu.html	/^function h(obj){$/;"	f
+ime_hw	learn/python3/day02/request/download/baidu.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="e2d41d790000dc40"><input type="hidden" name="rsv_t" value="3e76FwucG5PJoUTAodYSPubk7QuocHqxA5dqApJwMYrkdEEqrtz+\/Ye8TBw"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+goPAGE	learn/python3/day02/request/download/renren.html	/^function goPAGE() {$/;"	f
+sendStats	learn/python3/day02/request/download/renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
+proxy	learn/python3/day02/request/proxy_requests_test.py	/^proxy = {$/;"	v
+requests	learn/python3/day02/request/proxy_requests_test.py	/^import requests$/;"	i
+response	learn/python3/day02/request/proxy_requests_test.py	/^response = requests.get('http:\/\/httpbin.org\/ip') $/;"	v
+response	learn/python3/day02/request/proxy_requests_test.py	/^response = requests.get('http:\/\/httpbin.org\/ip', proxies=proxy)$/;"	v
+requests	learn/python3/day02/request/request_cookies.py	/^import requests$/;"	i
+response	learn/python3/day02/request/request_cookies.py	/^response = requests.get('http:\/\/www.baidu.com\/')$/;"	v
+data	learn/python3/day02/request/request_pose_lagou.py	/^data = {$/;"	v
+headers	learn/python3/day02/request/request_pose_lagou.py	/^headers = {$/;"	v
+requests	learn/python3/day02/request/request_pose_lagou.py	/^import requests$/;"	i
+response	learn/python3/day02/request/request_pose_lagou.py	/^response = requests.post(url=lagou_url, data=data, headers=headers)$/;"	v
+data	learn/python3/day02/request/session_renren.py	/^data = {$/;"	v
+headers	learn/python3/day02/request/session_renren.py	/^headers = {$/;"	v
+requests	learn/python3/day02/request/session_renren.py	/^import requests$/;"	i
+response	learn/python3/day02/request/session_renren.py	/^response = session.get('http:\/\/www.renren.com\/880151247\/profile')$/;"	v
+session	learn/python3/day02/request/session_renren.py	/^session = requests.Session()$/;"	v
+url	learn/python3/day02/request/session_renren.py	/^url = 'http:\/\/www.baidu.com\/PLogin.do'$/;"	v
+etree	learn/python3/day03/数据提取/xpath/lxml_test.py	/^from lxml import etree$/;"	i
+parse_lagou_file	learn/python3/day03/数据提取/xpath/lxml_test.py	/^def parse_lagou_file():$/;"	f
+a	learn/python3/day03/数据提取/xpath/tenxun.html	/^    	<a name="a" id="a"><\/a>$/;"	a
+a_list	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^a_list = html.xpath('\/\/a\/@href')$/;"	v
+address	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    address = tr.xpath('.\/td[4]\/text()')$/;"	v
+category	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    category = tr.xpath('.\/td[2]\/text()')$/;"	v
+etree	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^from lxml import etree$/;"	i
+fullurl	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    fullurl = 'http:\/\/tr.tencent.com\/' + href$/;"	v
+href	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    href = tr.xpath('.\/\/a\/@href')[0]$/;"	v
+html	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^html = etree.parse('tenxun.html', parser=parser)$/;"	v
+nums	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    nums = tr.xpath('.\/td[3]\/text()')$/;"	v
+parser	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^parser = etree.HTMLParser(encoding='utf-8')$/;"	v
+position	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    position = {$/;"	v
+positions	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^positions = []$/;"	v
+pub_time	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    pub_time = tr.xpath('.\/td[5]\/text()')$/;"	v
+title	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    title = tr.xpath('.\/td[1]\/\/text()')[0]$/;"	v
+trs	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^trs = html.xpath('\/\/tr[position() > 1]')$/;"	v
+BeautifulSoup	learn/python3/day04/bs4_test.py	/^from bs4 import BeautifulSoup$/;"	i
+infos	learn/python3/day04/bs4_test.py	/^    infos = list(tr.stripped_strings)$/;"	v
+soup	learn/python3/day04/bs4_test.py	/^soup = BeautifulSoup(html, 'lxml')$/;"	v
+trs	learn/python3/day04/bs4_test.py	/^trs = soup.select('tr')$/;"	v
+main	learn/python3/day04/goushi_re.py	/^def main():$/;"	f
+parse_page	learn/python3/day04/goushi_re.py	/^def parse_page(url):$/;"	f
+re	learn/python3/day04/goushi_re.py	/^import re$/;"	i
+requests	learn/python3/day04/goushi_re.py	/^import requests$/;"	i
+re	learn/python3/day04/re_learn.py	/^import re$/;"	i
+ret	learn/python3/day04/re_learn.py	/^ret = re.search('.*(\\$\\d+).*(\\$\\d+)', text)$/;"	v
+text	learn/python3/day04/re_learn.py	/^text = 'apple`s price $99, orange`s price is $10'$/;"	v
+r	learn/python3/day04/re_method.py	/^r = re.compile('\\d+\\.?\\d*')$/;"	v
+re	learn/python3/day04/re_method.py	/^import re$/;"	i
+ret	learn/python3/day04/re_method.py	/^ret = re.search(r, text)$/;"	v
+text	learn/python3/day04/re_method.py	/^text = 'apple`s price , orange`s price is 10.20'$/;"	v
+re	learn/python3/day04/re_test.py	/^import re$/;"	i
+ret	learn/python3/day04/re_test.py	/^ret = re.match('[1-9]\\d?$|100$', text)$/;"	v
+text	learn/python3/day04/re_test.py	/^text = '1001'$/;"	v
+re	learn/python3/day04/re_test_demo.py	/^import re$/;"	i
+ret	learn/python3/day04/re_test_demo.py	/^ret = re.match('\\\\\\\\n', text)$/;"	v
+text	learn/python3/day04/re_test_demo.py	/^text = '\\\\n'$/;"	v
+a	learn/python3/day04/tencent.html	/^  <a id="a" name="a">$/;"	a
+ALL_DATA	learn/python3/day04/weather_spider.py	/^ALL_DATA = []$/;"	v
+Bar	learn/python3/day04/weather_spider.py	/^from pyecharts import Bar$/;"	i
+BeautifulSoup	learn/python3/day04/weather_spider.py	/^from bs4 import BeautifulSoup$/;"	i
+main	learn/python3/day04/weather_spider.py	/^def main():$/;"	f
+parse_page	learn/python3/day04/weather_spider.py	/^def parse_page(url):$/;"	f
+requests	learn/python3/day04/weather_spider.py	/^import requests$/;"	i
+json	learn/python3/day05/json_test.py	/^import json$/;"	i
+json_str	learn/python3/day05/json_test.py	/^json_str = json.dumps(persons)$/;"	v
+persons	learn/python3/day05/json_test.py	/^persons = [$/;"	v
+error	learn/python3/error.py	/^import urllib.error$/;"	i
+parse	learn/python3/error.py	/^import urllib.parse$/;"	i
+request	learn/python3/error.py	/^import urllib.request$/;"	i
+response	learn/python3/error.py	/^    response = urllib.request.urlopen(url)$/;"	v
+url	learn/python3/error.py	/^url = 'http:\/\/www.google.com'$/;"	v
+urllib	learn/python3/error.py	/^import urllib.error$/;"	i
+urllib	learn/python3/error.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/error.py	/^import urllib.request$/;"	i
+data	learn/python3/get.py	/^data = {$/;"	v
+filename	learn/python3/get.py	/^filename = word + '.html'$/;"	v
+parse	learn/python3/get.py	/^import urllib.parse$/;"	i
+request	learn/python3/get.py	/^import urllib.request$/;"	i
+response	learn/python3/get.py	/^response = urllib.request.test(url)$/;"	v
+url	learn/python3/get.py	/^url = 'http:\/\/www.baidu.com\/s?'$/;"	v
+urllib	learn/python3/get.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/get.py	/^import urllib.request$/;"	i
+word	learn/python3/get.py	/^word = input('您想要搜索的内容：')$/;"	v
+handler	learn/python3/handler.py	/^handler = urllib.request.HTTPHandler()$/;"	v
+headers	learn/python3/handler.py	/^headers = {$/;"	v
+opener	learn/python3/handler.py	/^opener = urllib.request.build_opener(handler)$/;"	v
+parse	learn/python3/handler.py	/^import urllib.parse$/;"	i
+request	learn/python3/handler.py	/^import urllib.request$/;"	i
+request	learn/python3/handler.py	/^request = urllib.request.Request(url, headers=headers)$/;"	v
+response	learn/python3/handler.py	/^response = opener.open(request)$/;"	v
+url	learn/python3/handler.py	/^url = 'http:\/\/www.baidu.com\/'$/;"	v
+urllib	learn/python3/handler.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/handler.py	/^import urllib.request$/;"	i
+headers	learn/python3/head.py	/^headers = {$/;"	v
+parse	learn/python3/head.py	/^import urllib.parse$/;"	i
+request	learn/python3/head.py	/^import urllib.request$/;"	i
+request	learn/python3/head.py	/^request = urllib.request.Request(url=url, headers=headers)$/;"	v
+response	learn/python3/head.py	/^response = urllib.request.urlopen(request)$/;"	v
+url	learn/python3/head.py	/^url = 'http:\/\/www.baidu.com\/'$/;"	v
+urllib	learn/python3/head.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/head.py	/^import urllib.request$/;"	i
+parse	learn/python3/parse.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/parse.py	/^import urllib.parse$/;"	i
+wd	learn/python3/parse.py	/^wd = urllib.parse.unquote(word)$/;"	v
+word	learn/python3/parse.py	/^word = urllib.parse.quote(str(word))$/;"	v
+word	learn/python3/parse.py	/^word = {$/;"	v
+from_data	learn/python3/post.py	/^from_data = urllib.parse.urlencode(from_data).encode()$/;"	v
+from_data	learn/python3/post.py	/^from_data = {$/;"	v
+headers	learn/python3/post.py	/^headers = {$/;"	v
+parse	learn/python3/post.py	/^import urllib.parse$/;"	i
+post_url	learn/python3/post.py	/^post_url = 'https:\/\/fanyi.baidu.com\/sug'$/;"	v
+request	learn/python3/post.py	/^import urllib.request$/;"	i
+request	learn/python3/post.py	/^request = urllib.request.Request(url=post_url, headers=headers)$/;"	v
+response	learn/python3/post.py	/^response = urllib.request.urlopen(request, data=from_data)$/;"	v
+urllib	learn/python3/post.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/post.py	/^import urllib.request$/;"	i
+word	learn/python3/post.py	/^word = input('请输入要查询的英文单词：')$/;"	v
+form_data	learn/python3/post_test.py	/^form_data = urllib.parse.urlencode(form_data).encode()$/;"	v
+form_data	learn/python3/post_test.py	/^form_data = {$/;"	v
+headers	learn/python3/post_test.py	/^headers = {$/;"	v
+parse	learn/python3/post_test.py	/^import urllib.parse$/;"	i
+post_url	learn/python3/post_test.py	/^post_url = 'https:\/\/fanyi.baidu.com\/v2transapi'$/;"	v
+request	learn/python3/post_test.py	/^import urllib.request$/;"	i
+request	learn/python3/post_test.py	/^request = urllib.request.Request(url=post_url, headers=headers)$/;"	v
+response	learn/python3/post_test.py	/^response = urllib.request.urlopen(url=post_url, data=form_data)$/;"	v
+urllib	learn/python3/post_test.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/post_test.py	/^import urllib.request$/;"	i
+word	learn/python3/post_test.py	/^word = 'hello'$/;"	v
+ba_name	learn/python3/tieba.py	/^ba_name = input('吧名:')$/;"	v
+data	learn/python3/tieba.py	/^    data = urllib.parse.urlencode(data)$/;"	v
+data	learn/python3/tieba.py	/^    data = {$/;"	v
+end_page	learn/python3/tieba.py	/^end_page = int(input('结束页码:'))$/;"	v
+filename	learn/python3/tieba.py	/^    filename = ba_name + '_' + str(page) + '.html'  # 拼接文件名$/;"	v
+filepath	learn/python3/tieba.py	/^    filepath = ba_name + '\/' + filename  # 拼接文件路径$/;"	v
+headers	learn/python3/tieba.py	/^headers = {$/;"	v
+os	learn/python3/tieba.py	/^import os$/;"	i
+parse	learn/python3/tieba.py	/^import urllib.parse$/;"	i
+request	learn/python3/tieba.py	/^    request = urllib.request.Request(url=url_temp, headers=headers)$/;"	v
+request	learn/python3/tieba.py	/^import urllib.request$/;"	i
+response	learn/python3/tieba.py	/^    response = urllib.request.urlopen(request)$/;"	v
+start_page	learn/python3/tieba.py	/^start_page = int(input('起始页码：'))$/;"	v
+url	learn/python3/tieba.py	/^url = 'https:\/\/tieba.baidu.com\/f?'$/;"	v
+url_temp	learn/python3/tieba.py	/^    url_temp = url + url$/;"	v
+urllib	learn/python3/tieba.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/tieba.py	/^import urllib.request$/;"	i
+data	learn/python3/urlencode.py	/^data = {$/;"	v
+parse	learn/python3/urlencode.py	/^import urllib.parse$/;"	i
+query_string	learn/python3/urlencode.py	/^query_string = urllib.parse.urlencode(query=data)$/;"	v
+url	learn/python3/urlencode.py	/^url = 'http:\/\/www.baidu.com\/index.html'$/;"	v
+urllib	learn/python3/urlencode.py	/^import urllib.parse$/;"	i
+image_url	learn/python3/urlopen.py	/^image_url = 'http:\/\/pic29.nipic.com\/20130511\/9252150_174018365301_2.jpg'$/;"	v
+request	learn/python3/urlopen.py	/^import urllib.request$/;"	i
+response	learn/python3/urlopen.py	/^response = urllib.request.test(image_url)$/;"	v
+response	learn/python3/urlopen.py	/^response = urllib.request.test(url=url)$/;"	v
+url	learn/python3/urlopen.py	/^url = 'http:\/\/www.baidu.com'$/;"	v
+urllib	learn/python3/urlopen.py	/^import urllib.request$/;"	i
+get_proxies	learn/python3/xici_proxy.py	/^def get_proxies():$/;"	f
+get_user_agent	learn/python3/xici_proxy.py	/^def get_user_agent():$/;"	f
+headers	learn/python3/xici_proxy.py	/^headers = {'User-Agent': 'Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.3'$/;"	v
+init_proxies	learn/python3/xici_proxy.py	/^    init_proxies = get_proxies()  # 获取原始代理IP$/;"	v
+random	learn/python3/xici_proxy.py	/^import random$/;"	i
+re	learn/python3/xici_proxy.py	/^import re$/;"	i
+requests	learn/python3/xici_proxy.py	/^import requests$/;"	i
+test_proxy	learn/python3/xici_proxy.py	/^def test_proxy(ip):$/;"	f
+tmp_proxies	learn/python3/xici_proxy.py	/^    tmp_proxies = []$/;"	v
+tmp_proxy	learn/python3/xici_proxy.py	/^        tmp_proxy = test_proxy(i)  # 逐个验证$/;"	v
+url	learn/python3/xici_proxy.py	/^url = 'http:\/\/www.xicidaili.com\/nn'$/;"	v
+etree	tencent/hr/tencent_hr.py	/^from lxml import etree$/;"	i
+get_detail_urls	tencent/hr/tencent_hr.py	/^def get_detail_urls():$/;"	f
+get_url	tencent/hr/tencent_hr.py	/^def get_url():$/;"	f
+requests	tencent/hr/tencent_hr.py	/^import requests$/;"	i
+spider	tencent/hr/tencent_hr.py	/^def spider():$/;"	f
+crc32	北京.html	/^    function crc32 (str) {$/;"	f
+fail_ie7	北京.html	/^    function fail_ie7(){$/;"	f
+filter	北京.html	/^            function filter(img){$/;"	f
+ime_hw	北京.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129"><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="北京" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="oq" value="北京"><input type="hidden" name="rsv_pq" value="da73173c00034fca"><input type="hidden" name="rsv_t" value="edb6Cez3WYlBftBxOM8s9WgFxxVCru2nE8npQjMdRO3Vcu2kAhPcS0D3w+8"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+setSrc	北京.html	/^    function setSrc(img,data){$/;"	f
+BASE_DOMAIN	电影天堂/movie_list.py	/^BASE_DOMAIN = 'https:\/\/www.dytt8.net'$/;"	v
+HEADERS	电影天堂/movie_list.py	/^HEADERS = {$/;"	v
+etree	电影天堂/movie_list.py	/^from lxml import etree$/;"	i
+get_detail_urls	电影天堂/movie_list.py	/^def get_detail_urls(url):$/;"	f
+parse_detail_page	电影天堂/movie_list.py	/^def parse_detail_page(url):$/;"	f
+requests	电影天堂/movie_list.py	/^import requests$/;"	i
+spider	电影天堂/movie_list.py	/^def spider():$/;"	f
+url	电影天堂/movie_list.py	/^url = 'https:\/\/www.dytt8.net\/html\/gndy\/dyzz\/list_23_1.html'$/;"	v
+div	豆瓣/douban_showing_soon.py	/^div = html.xpath('\/\/*[@id="showing-soon"]')[0]$/;"	v
+divs	豆瓣/douban_showing_soon.py	/^divs = div.xpath('\/\/div[@class="item mod "]')$/;"	v
+divs_odd	豆瓣/douban_showing_soon.py	/^divs_odd = div.xpath('\/\/div[@class="item mod odd"]')$/;"	v
+etree	豆瓣/douban_showing_soon.py	/^from lxml import etree$/;"	i
+headers	豆瓣/douban_showing_soon.py	/^headers = {$/;"	v
+html	豆瓣/douban_showing_soon.py	/^html = etree.HTML(text)$/;"	v
+kind	豆瓣/douban_showing_soon.py	/^    kind = div.xpath('.\/\/ul\/li[2]\/text()')[0]$/;"	v
+movies	豆瓣/douban_showing_soon.py	/^movies = []$/;"	v
+region	豆瓣/douban_showing_soon.py	/^    region = div.xpath('.\/\/ul\/li[3]\/text()')[0]$/;"	v
+requests	豆瓣/douban_showing_soon.py	/^import requests$/;"	i
+response	豆瓣/douban_showing_soon.py	/^response = requests.get(url, headers=headers)$/;"	v
+show_date	豆瓣/douban_showing_soon.py	/^    show_date = div.xpath('.\/\/ul\/li[1]\/text()')[0]$/;"	v
+show_soon_movie	豆瓣/douban_showing_soon.py	/^    show_soon_movie = {$/;"	v
+text	豆瓣/douban_showing_soon.py	/^text = response.text$/;"	v
+thumbnail	豆瓣/douban_showing_soon.py	/^    thumbnail = div.xpath('.\/\/img\/@src')$/;"	v
+title	豆瓣/douban_showing_soon.py	/^    title = div.xpath('.\/\/a[@class=""]')[0].text$/;"	v
+url	豆瓣/douban_showing_soon.py	/^url = 'https:\/\/movie.douban.com\/cinema\/later\/jian\/'$/;"	v
+actors	豆瓣/douban_spider.py	/^    actors = li.xpath('@data-actors')$/;"	v
+director	豆瓣/douban_spider.py	/^    director = li.xpath('@data-director')$/;"	v
+duration	豆瓣/douban_spider.py	/^    duration = li.xpath('@data-duration')$/;"	v
+etree	豆瓣/douban_spider.py	/^from lxml import etree$/;"	i
+headers	豆瓣/douban_spider.py	/^headers = {$/;"	v
+html	豆瓣/douban_spider.py	/^html = etree.HTML(text)$/;"	v
+lis	豆瓣/douban_spider.py	/^lis = ul.xpath('.\/\/li')$/;"	v
+movie	豆瓣/douban_spider.py	/^    movie = {$/;"	v
+movies	豆瓣/douban_spider.py	/^movies = []$/;"	v
+region	豆瓣/douban_spider.py	/^    region = li.xpath('@data-region')$/;"	v
+requests	豆瓣/douban_spider.py	/^import requests$/;"	i
+response	豆瓣/douban_spider.py	/^response = requests.get(url, headers=headers)$/;"	v
+score	豆瓣/douban_spider.py	/^    score = li.xpath('@data-score')$/;"	v
+text	豆瓣/douban_spider.py	/^text = response.text$/;"	v
+thumbnail	豆瓣/douban_spider.py	/^    thumbnail = li.xpath('.\/\/img\/@src')$/;"	v
+title	豆瓣/douban_spider.py	/^    title = li.xpath('@data-title')$/;"	v
+ul	豆瓣/douban_spider.py	/^ul = html.xpath('\/\/ul[@class="lists"]')[0]$/;"	v
+url	豆瓣/douban_spider.py	/^url = 'https:\/\/movie.douban.com\/cinema\/nowplaying\/jian\/'$/;"	v

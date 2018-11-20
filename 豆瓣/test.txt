@@ -1,0 +1,382 @@
+<ul class="lists">
+                    <li id="3168101" class="list-item" data-title="毒液：致命守护者" data-score="7.4" data-star="40" data-release="2018" data-duration="107分钟(中国大陆)" data-region="美国 中国大陆" data-director="鲁本·弗雷斯彻" data-actors="汤姆·哈迪 / 米歇尔·威廉姆斯 / 里兹·阿迈德" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="141019" data-subject="3168101">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/3168101/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537158013.jpg" alt="毒液：致命守护者" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/3168101/?from=playing_poster" class="ticket-btn" target="_blank" title="毒液：致命守护者" data-psource="title">
+                                    毒液：致命守护...
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar40"/>
+                                        <span class="subject-rate">7.4</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F42964%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="27615233" class="list-item" data-title="你好，之华" data-score="7.2" data-star="35" data-release="2018" data-duration="114分钟" data-region="中国大陆" data-director="岩井俊二" data-actors="周迅 / 秦昊 / 杜江" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="43173" data-subject="27615233">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/27615233/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538345957.jpg" alt="你好，之华" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/27615233/?from=playing_poster" class="ticket-btn" target="_blank" title="你好，之华" data-psource="title">
+                                    你好，之华
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar35"/>
+                                        <span class="subject-rate">7.2</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1216326%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="27110363" class="list-item" data-title="名侦探柯南：零的执行人" data-score="5.9" data-star="30" data-release="2018" data-duration="110分钟" data-region="日本" data-director="立川让" data-actors="高山南 / 山口胜平 / 山崎和佳奈" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="27698" data-subject="27110363">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/27110363/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2537694239.jpg" alt="名侦探柯南：零的执行人" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/27110363/?from=playing_poster" class="ticket-btn" target="_blank" title="名侦探柯南：零的执行人" data-psource="title">
+                                    名侦探柯南：零...
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar30"/>
+                                        <span class="subject-rate">5.9</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1225632%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="26793385" class="list-item" data-title="飓风奇劫" data-score="5.9" data-star="30" data-release="2018" data-duration="103分钟" data-region="美国" data-director="罗伯·科恩" data-actors="托比·凯贝尔 / 玛姬·格蕾斯 / 瑞恩·柯万腾" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="7010" data-subject="26793385">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/26793385/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537693782.jpg" alt="飓风奇劫" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/26793385/?from=playing_poster" class="ticket-btn" target="_blank" title="飓风奇劫" data-psource="title">
+                                    飓风奇劫
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar30"/>
+                                        <span class="subject-rate">5.9</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F345493%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="26741061" class="list-item" data-title="胡桃夹子和四个王国" data-score="6.1" data-star="30" data-release="2018" data-duration="99分钟" data-region="美国" data-director="拉斯·霍尔斯道姆 乔·庄斯顿" data-actors="麦肯吉·弗依 / 摩根·弗里曼 / 凯拉·奈特莉" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="25100" data-subject="26741061">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/26741061/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537214991.jpg" alt="胡桃夹子和四个王国" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/26741061/?from=playing_poster" class="ticket-btn" target="_blank" title="胡桃夹子和四个王国" data-psource="title">
+                                    胡桃夹子和四个...
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar30"/>
+                                        <span class="subject-rate">6.1</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F346015%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="26425063" class="list-item" data-title="无双" data-score="8.2" data-star="40" data-release="2018" data-duration="130分钟" data-region="中国大陆 香港" data-director="庄文强" data-actors="周润发 / 郭富城 / 张静初" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="261428" data-subject="26425063">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/26425063/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535096871.jpg" alt="无双" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/26425063/?from=playing_poster" class="ticket-btn" target="_blank" title="无双" data-psource="title">
+                                    无双
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar40"/>
+                                        <span class="subject-rate">8.2</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F342166%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="30323188" class="list-item" data-title="恐龙王" data-score="0" data-star="00" data-release="2018" data-duration="95分钟" data-region="中国大陆" data-director="施雅雅" data-actors="吕佩玉 / 王衡 / 孙晔" data-category="nowplaying" data-enough="False" data-showed="True" data-votecount="160" data-subject="30323188">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/30323188/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2539170936.jpg" alt="恐龙王" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/30323188/?from=playing_poster" class="ticket-btn" target="_blank" title="恐龙王" data-psource="title">
+                                    恐龙王
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1234403%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="26290410" class="list-item" data-title="昨日青空" data-score="6.1" data-star="30" data-release="2018" data-duration="82分钟" data-region="中国大陆" data-director="奚超" data-actors="苏尚卿 / 王一博 / 段艺璇" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="17677" data-subject="26290410">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/26290410/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533173724.jpg" alt="昨日青空" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/26290410/?from=playing_poster" class="ticket-btn" target="_blank" title="昨日青空" data-psource="title">
+                                    昨日青空
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar30"/>
+                                        <span class="subject-rate">6.1</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F246596%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="27140071" class="list-item" data-title="找到你" data-score="7.5" data-star="40" data-release="2018" data-duration="102分钟" data-region="中国大陆" data-director="吕乐" data-actors="姚晨 / 马伊琍 / 袁文康" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="52580" data-subject="27140071">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/27140071/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2534471408.jpg" alt="找到你" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/27140071/?from=playing_poster" class="ticket-btn" target="_blank" title="找到你" data-psource="title">
+                                    找到你
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar40"/>
+                                        <span class="subject-rate">7.5</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1209159%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="25857301" class="list-item" data-title="三国杀·幻" data-score="0" data-star="00" data-release="2018" data-duration="94分钟" data-region="中国大陆" data-director="吕柯憬" data-actors="郑伊健 / 于荣光 / 谢天华" data-category="nowplaying" data-enough="False" data-showed="True" data-votecount="266" data-subject="25857301">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/25857301/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2539105836.jpg" alt="三国杀·幻" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/25857301/?from=playing_poster" class="ticket-btn" target="_blank" title="三国杀·幻" data-psource="title">
+                                    三国杀·幻
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1194411%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="25300674" class="list-item" data-title="冰封侠：时空行者" data-score="2.7" data-star="15" data-release="2018" data-duration="87分钟" data-region="中国大陆 香港" data-director="叶伟民" data-actors="甄子丹 / 黄圣依 / 王宝强" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="2723" data-subject="25300674">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/25300674/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537133715.jpg" alt="冰封侠：时空行者" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/25300674/?from=playing_poster" class="ticket-btn" target="_blank" title="冰封侠：时空行者" data-psource="title">
+                                    冰封侠：时空行...
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar15"/>
+                                        <span class="subject-rate">2.7</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F78490%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="26685451" class="list-item" data-title="流浪猫鲍勃" data-score="8.0" data-star="40" data-release="2016" data-duration="103分钟" data-region="英国" data-director="罗杰·斯波蒂斯伍德" data-actors="卢克·崔德威 / 猫鲍勃 / 露塔·格德米纳斯" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="68876" data-subject="26685451">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/26685451/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535524955.jpg" alt="流浪猫鲍勃" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/26685451/?from=playing_poster" class="ticket-btn" target="_blank" title="流浪猫鲍勃" data-psource="title">
+                                    流浪猫鲍勃
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar40"/>
+                                        <span class="subject-rate">8.0</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F343667%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="27079337" class="list-item" data-title="台仙魔咒" data-score="0" data-star="00" data-release="2018" data-duration="88分钟" data-region="中国大陆" data-director="宋睿" data-actors="罗翔 / 刘书含  / 叶常清" data-category="nowplaying" data-enough="False" data-showed="True" data-votecount="22" data-subject="27079337">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/27079337/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2538072547.jpg" alt="台仙魔咒" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/27079337/?from=playing_poster" class="ticket-btn" target="_blank" title="台仙魔咒" data-psource="title">
+                                    台仙魔咒
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1209068%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="27102569" class="list-item" data-title="悲伤逆流成河" data-score="5.9" data-star="30" data-release="2018" data-duration="104分钟" data-region="中国大陆" data-director="落落" data-actors="赵英博 / 任敏 / 辛云来" data-category="nowplaying" data-enough="True" data-showed="True" data-votecount="42873" data-subject="27102569">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/27102569/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2529701498.jpg" alt="悲伤逆流成河" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/27102569/?from=playing_poster" class="ticket-btn" target="_blank" title="悲伤逆流成河" data-psource="title">
+                                    悲伤逆流成河
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                        <span class="rating-star allstar30"/>
+                                        <span class="subject-rate">5.9</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1217236%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li id="26774001" class="list-item" data-title="开学悸" data-score="0" data-star="00" data-release="2018" data-duration="86分钟" data-region="中国大陆" data-director="高朋 刘鼎业" data-actors="秦语 / 曾淇 / 赵艺" data-category="nowplaying" data-enough="False" data-showed="True" data-votecount="47" data-subject="26774001">
+                        <ul class="">
+                            <li class="poster">
+                                <a href="https://movie.douban.com/subject/26774001/?from=playing_poster" class="ticket-btn" target="_blank" data-psource="poster">
+                                    <img src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2539069876.jpg" alt="开学悸" rel="nofollow" class=""/>
+                                </a>
+                            </li>
+                            <li class="stitle">
+                                <a href="https://movie.douban.com/subject/26774001/?from=playing_poster" class="ticket-btn" target="_blank" title="开学悸" data-psource="title">
+                                    开学悸
+                                </a>
+                            </li>
+
+
+                            <li class="srating">
+                                    
+
+                                        <span class="text-tip">暂无评分</span>
+                            </li>
+                                <li class="sbtn">
+                                    <a class="ticket-btn" href="https://movie.douban.com/ticket/redirect/?url=https%3A%2F%2Fm.maoyan.com%2Fcinema%2Fmovie%2F1206209%3F_v_%3Dyes%26merCode%3D1000011" target="_blank">
+                                        选座购票
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+            </ul>
+        

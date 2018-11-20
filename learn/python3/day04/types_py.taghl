@@ -1,0 +1,4 @@
+syn keyword CTagsImport requests re BeautifulSoup Bar
+syn keyword CTagsGlobalVariable infos soup ALL_DATA ret trs text
+syn keyword CTagsFunction main parse_page
+

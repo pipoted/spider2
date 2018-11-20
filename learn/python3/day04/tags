@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALL_DATA	weather_spider.py	/^ALL_DATA = []$/;"	v
+Bar	weather_spider.py	/^from pyecharts import Bar$/;"	i
+BeautifulSoup	bs4_test.py	/^from bs4 import BeautifulSoup$/;"	i
+BeautifulSoup	weather_spider.py	/^from bs4 import BeautifulSoup$/;"	i
+infos	bs4_test.py	/^    infos = list(tr.stripped_strings)$/;"	v
+main	weather_spider.py	/^def main():$/;"	f
+parse_page	weather_spider.py	/^def parse_page(url):$/;"	f
+re	re_test.py	/^import re$/;"	i
+requests	weather_spider.py	/^import requests$/;"	i
+ret	re_test.py	/^ret = re.match('he', text)$/;"	v
+soup	bs4_test.py	/^soup = BeautifulSoup(html, 'lxml')$/;"	v
+text	re_test.py	/^text = 'hello'$/;"	v
+trs	bs4_test.py	/^trs = soup.select('tr')$/;"	v

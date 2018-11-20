@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e5e4a4c-ecba-48b8-be7f-90ab8dfbba4d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spider$response.coverage" NAME="response Coverage Results" MODIFIED="1541584928673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/python2" />
+    <SUITE FILE_PATH="coverage/spider$movie_list.coverage" NAME="movie_list Coverage Results" MODIFIED="1542187532585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/电影天堂" />
+    <SUITE FILE_PATH="coverage/spider$urlopen.coverage" NAME="urlopen Coverage Results" MODIFIED="1541668996423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn/python3" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="237730965">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="489" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="489" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/电影天堂/movie_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learn/python2/根据连接抓取数量.py" />
+        <option value="$PROJECT_DIR$/learn/python2/response.py" />
+        <option value="$PROJECT_DIR$/learn/python3/urlopen.py" />
+        <option value="$PROJECT_DIR$/电影天堂/movie_list.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="07-11-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="false" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="false" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="07-11-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="false" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="false" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="3.0" />
+        <observation name="false" value="6.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="4.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="2.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="3.0" />
+        <observation name="false" value="9.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="6.0" />
+        <observation name="true" value="4.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="1.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="3.0" />
+        <observation name="false" value="9.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="6.0" />
+        <observation name="true" value="4.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="1.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="3.0" />
+        <observation name="false" value="15.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="10.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="3.0" />
+        <observation name="false" value="6.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="false" value="4.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="2.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="07-11-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="false" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="false" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="07-11-2018">
+        <observation name="cancelled" value="73.0" />
+        <observation name="explicitSelect" value="16.0" />
+        <observation name="typedSelect" value="2.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="cancelled" value="24.0" />
+        <observation name="explicitSelect" value="11.0" />
+        <observation name="typedSelect" value="1.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="cancelled" value="11.0" />
+        <observation name="explicitSelect" value="1.0" />
+        <observation name="typedSelect" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="07-11-2018">
+        <observation name="BASIC" value="25.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="BASIC" value="14.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="BASIC" value="6.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="07-11-2018">
+        <observation name="count" value="91.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="count" value="36.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="count" value="15.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="0.057143" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.036163" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="0.086956" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.048349" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="0.057143" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.045682" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="0.260869" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.235132" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="-1152.114286" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="-1152.0" />
+        <observation name="min" value="-1153.0" />
+        <observation name="variance" value="0.081212" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="-1152.086956" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="-1152.0" />
+        <observation name="min" value="-1153.0" />
+        <observation name="variance" value="0.045663" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="-1152.714286" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="-1152.0" />
+        <observation name="min" value="-1153.0" />
+        <observation name="variance" value="0.090748" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="0.434783" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="1.141581" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="3.0" />
+        <observation name="average" value="1.172414" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.618966" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="2.0" />
+        <observation name="average" value="1.368421" />
+        <observation name="count" value="19.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.49378" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="1.2" />
+        <observation name="count" value="5.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.337778" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="6.057143" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="3.0" />
+        <observation name="variance" value="1.903534" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="6.0" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="3.0" />
+        <observation name="variance" value="1.276911" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="4.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="0.366667" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="07-11-2018">
+        <observation name="UNDEFINED" value="18.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="UNDEFINED" value="12.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="UNDEFINED" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="7044.742857" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="14103643.380717" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="9112.739131" />
+        <observation name="count" value="23.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="4816361.751842" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="2856.857143" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="9999.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="9073015.056735" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="07-11-2018">
+        <observation name="0" value="15.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="0" value="9.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="0" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="07-11-2018">
+        <observation name="total" value="16.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="total" value="11.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="total" value="1.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="07-11-2018">
+        <observation name="2" value="6.0" />
+        <observation name="3" value="9.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="2" value="3.0" />
+        <observation name="3" value="7.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="3" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="07-11-2018">
+        <observation name="average" value="261.15" />
+        <observation name="count" value="20.0" />
+      </dailyData>
+      <dailyData date="08-11-2018">
+        <observation name="average" value="147.533333" />
+        <observation name="count" value="15.0" />
+      </dailyData>
+      <dailyData date="14-11-2018">
+        <observation name="average" value="248.142857" />
+        <observation name="count" value="7.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="电影天堂" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="电影天堂" type="462c0819:PsiDirectoryNode" />
+              <item name="movie_list.py" type="8704e2dd:PyFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.movie_list">
+    <configuration name="movie_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/电影天堂" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/电影天堂/movie_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="response" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/python2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/python2/response.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urlopen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn/python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/python3/urlopen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.response" />
+      <item itemvalue="Python.urlopen" />
+      <item itemvalue="Python.movie_list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.movie_list" />
+        <item itemvalue="Python.urlopen" />
+        <item itemvalue="Python.response" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5e4a4c-ecba-48b8-be7f-90ab8dfbba4d" name="Default Changelist" comment="" />
+      <created>1541584522729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541584522729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41805556" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.22590837" />
+      <window_info x="1063" y="436" width="120" height="50" id="Python Console" order="2" sideWeight="0.5389105" side_tool="true" type="WINDOWED" weight="0.4599303" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32985073" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" x="1" y="535" width="805" height="203" id="Run" order="2" sideWeight="0.46129543" weight="0.33888888" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988889" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.5187166" weight="0.6828423" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5387046" side_tool="true" weight="0.23289473" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" sideWeight="0.49805447" weight="0.35006973" />
+      <window_info anchor="bottom" id="运行" order="11" sideWeight="0.41828793" weight="0.32775453" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32775453" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="bottom" x="0" y="554" width="806" height="346" id="Terminal" order="14" sideWeight="0.71789885" type="WINDOWED" weight="0.25581396" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.17331022" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learn/python2/根据连接抓取数量.py" />
+    <entry file="file://$PROJECT_DIR$/learn/python2/response.py" />
+    <entry file="file://$PROJECT_DIR$/learn/python3/urlopen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/电影天堂/movie_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

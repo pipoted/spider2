@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/Users/xiaozhixin/Desktop/spider/learn/python3/day04/re_test.py': [{'sign_idx': 9500, 'line_nr': 81, 'content': '', 'annotation': 'regex'},{'sign_idx': 9501, 'line_nr': 53, 'content': '# text = ''abcd''', 'annotation': 'test again'},],}}
+let l:bm_current_session = 'default'
