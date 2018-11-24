@@ -9,20 +9,58 @@ BASE_DOMAIN	电影天堂/movie_list.py	/^BASE_DOMAIN = 'https:\/\/www.dytt8.net'
 Bar	learn/python3/day04/weather_spider.py	/^from pyecharts import Bar$/;"	i
 BeautifulSoup	learn/python3/day04/bs4_test.py	/^from bs4 import BeautifulSoup$/;"	i
 BeautifulSoup	learn/python3/day04/weather_spider.py	/^from bs4 import BeautifulSoup$/;"	i
+CodingThread	learn/python3/day06/thread_class.py	/^class CodingThread(threading.Thread):$/;"	c
+Consumer	learn/python3/day06/pc_condition.py	/^class Consumer(threading.Thread):$/;"	c
+Consumer	learn/python3/day06/produce_consumer.py	/^class Consumer(threading.Thread):$/;"	c
+Consumer	learn/python3/day07/doutu_threading.py	/^class Consumer(threading.Thread):$/;"	c
 CookieJar	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from http.cookiejar import CookieJar$/;"	i
+DrawingThread	learn/python3/day06/thread_class.py	/^class DrawingThread(threading.Thread):$/;"	c
+G_CONDITION	learn/python3/day06/pc_condition.py	/^G_CONDITION = threading.Condition()$/;"	v
+G_LOCK	learn/python3/day06/produce_consumer.py	/^G_LOCK = threading.Lock()$/;"	v
+G_MONEY	learn/python3/day06/pc_condition.py	/^G_MONEY = 1000$/;"	v
+G_MONEY	learn/python3/day06/produce_consumer.py	/^G_MONEY = 1000$/;"	v
+G_TIMES	learn/python3/day06/pc_condition.py	/^G_TIMES = 0$/;"	v
+G_TIMES	learn/python3/day06/produce_consumer.py	/^G_TIMES = 0$/;"	v
+G_TOTAL_TIMES	learn/python3/day06/pc_condition.py	/^G_TOTAL_TIMES = 10$/;"	v
+G_TOTAL_TIMES	learn/python3/day06/produce_consumer.py	/^G_TOTAL_TIMES = 10$/;"	v
 HEADERS	电影天堂/movie_list.py	/^HEADERS = {$/;"	v
 MozillaCookieJar	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^from http.cookiejar import MozillaCookieJar$/;"	i
+Person	learn/python3/day05/json_test.py	/^class Person(object):$/;"	c
+Producer	learn/python3/day06/pc_condition.py	/^class Producer(threading.Thread):$/;"	c
+Producer	learn/python3/day06/produce_consumer.py	/^class Producer(threading.Thread):$/;"	c
+Producer	learn/python3/day07/doutu_threading.py	/^class Producer(threading.Thread):$/;"	c
+Queue	learn/python3/day07/doutu_threading.py	/^from queue import Queue$/;"	i
+Queue	learn/python3/day07/queue_test.py	/^from queue import Queue$/;"	i
+VALUE	learn/python3/day06/threading_lock.py	/^VALUE = 0$/;"	v
+__init__	learn/python3/day07/doutu_threading.py	/^    def __init__(self, page_queue, img_queue,  *args, **kwargs):$/;"	m	class:Producer
 a	learn/python3/day03/数据提取/xpath/tenxun.html	/^    	<a name="a" id="a"><\/a>$/;"	a
 a	learn/python3/day04/tencent.html	/^  <a id="a" name="a">$/;"	a
+a	learn/python3/day05/json_test.py	/^a = {$/;"	v
 a_list	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^a_list = html.xpath('\/\/a\/@href')$/;"	v
 actors	豆瓣/douban_spider.py	/^    actors = li.xpath('@data-actors')$/;"	v
+add_value	learn/python3/day06/threading_lock.py	/^def add_value():$/;"	f
 address	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    address = tr.xpath('.\/td[4]\/text()')$/;"	v
+age	learn/python3/day05/pymysql_insert.py	/^age = 21$/;"	v
 ba_name	learn/python3/tieba.py	/^ba_name = input('吧名:')$/;"	v
 category	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    category = tr.xpath('.\/td[2]\/text()')$/;"	v
 city	learn/python3/ajax_post.py	/^city = input('城市：')$/;"	v
+client	learn/python3/day06/pymongo_test.py	/^client = pymongo.MongoClient('127.0.0.1', port=27017)$/;"	v
+coding	learn/python3/day06/threading_normal.py	/^def coding():$/;"	f
+collection	learn/python3/day06/pymongo_test.py	/^collection = db.qa$/;"	v
+conn	learn/python3/day05/pymysql_delete.py	/^conn = pymysql.connect($/;"	v
+conn	learn/python3/day05/pymysql_insert.py	/^conn = pymysql.connect($/;"	v
+conn	learn/python3/day05/pymysql_search.py	/^conn = pymysql.connect($/;"	v
+conn	learn/python3/day05/pymysql_test.py	/^conn = pymysql.connect($/;"	v
 cookiejar	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^cookiejar = MozillaCookieJar('cookies.txt')$/;"	v
 cookiejar	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^cookiejar = CookieJar()$/;"	v
+country	learn/python3/day05/json_test.py	/^    country = 'china'$/;"	v	class:Person
 crc32	北京.html	/^    function crc32 (str) {$/;"	f
+csv	learn/python3/day05/csv_test.py	/^import csv$/;"	i
+csv	learn/python3/day05/csv_write.py	/^import csv$/;"	i
+cursor	learn/python3/day05/pymysql_delete.py	/^cursor = conn.cursor()$/;"	v
+cursor	learn/python3/day05/pymysql_insert.py	/^cursor = conn.cursor()$/;"	v
+cursor	learn/python3/day05/pymysql_search.py	/^cursor = conn.cursor()$/;"	v
+cursor	learn/python3/day05/pymysql_test.py	/^cursor = conn.cursor()$/;"	v
 data	learn/python3/ajax_get.py	/^data = {$/;"	v
 data	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^data = parse.urlencode(data).encode()$/;"	v
 data	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^data = {$/;"	v
@@ -32,15 +70,23 @@ data	learn/python3/get.py	/^data = {$/;"	v
 data	learn/python3/tieba.py	/^    data = urllib.parse.urlencode(data)$/;"	v
 data	learn/python3/tieba.py	/^    data = {$/;"	v
 data	learn/python3/urlencode.py	/^data = {$/;"	v
+database	learn/python3/day05/pymysql_delete.py	/^    database='spider',$/;"	v
+database	learn/python3/day05/pymysql_insert.py	/^    database='spider',$/;"	v
+database	learn/python3/day05/pymysql_search.py	/^    database='spider',$/;"	v
+database	learn/python3/day05/pymysql_test.py	/^    database='spider',$/;"	v
+db	learn/python3/day06/pymongo_test.py	/^db = client.zhihu$/;"	v
 director	豆瓣/douban_spider.py	/^    director = li.xpath('@data-director')$/;"	v
 div	豆瓣/douban_showing_soon.py	/^div = html.xpath('\/\/*[@id="showing-soon"]')[0]$/;"	v
 divs	豆瓣/douban_showing_soon.py	/^divs = div.xpath('\/\/div[@class="item mod "]')$/;"	v
 divs_odd	豆瓣/douban_showing_soon.py	/^divs_odd = div.xpath('\/\/div[@class="item mod odd"]')$/;"	v
+draw	learn/python3/day06/threading_normal.py	/^def draw():$/;"	f
 duration	豆瓣/douban_spider.py	/^    duration = li.xpath('@data-duration')$/;"	v
 end_page	learn/python3/tieba.py	/^end_page = int(input('结束页码:'))$/;"	v
 error	learn/python3/error.py	/^import urllib.error$/;"	i
 etree	learn/python3/day03/数据提取/xpath/lxml_test.py	/^from lxml import etree$/;"	i
 etree	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^from lxml import etree$/;"	i
+etree	learn/python3/day07/doutu_spider.py	/^from lxml import etree$/;"	i
+etree	learn/python3/day07/doutu_threading.py	/^from lxml import etree$/;"	i
 etree	tencent/hr/tencent_hr.py	/^from lxml import etree$/;"	i
 etree	电影天堂/movie_list.py	/^from lxml import etree$/;"	i
 etree	豆瓣/douban_showing_soon.py	/^from lxml import etree$/;"	i
@@ -59,11 +105,13 @@ form_data	learn/python3/post_test.py	/^form_data = {$/;"	v
 from_data	learn/python3/post.py	/^from_data = urllib.parse.urlencode(from_data).encode()$/;"	v
 from_data	learn/python3/post.py	/^from_data = {$/;"	v
 fullurl	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    fullurl = 'http:\/\/tr.tencent.com\/' + href$/;"	v
+gLock	learn/python3/day06/threading_lock.py	/^gLock = threading.Lock()$/;"	v
 get_detail_urls	tencent/hr/tencent_hr.py	/^def get_detail_urls():$/;"	f
 get_detail_urls	电影天堂/movie_list.py	/^def get_detail_urls(url):$/;"	f
 get_proxies	learn/python3/xici_proxy.py	/^def get_proxies():$/;"	f
 get_url	tencent/hr/tencent_hr.py	/^def get_url():$/;"	f
 get_user_agent	learn/python3/xici_proxy.py	/^def get_user_agent():$/;"	f
+get_value	learn/python3/day07/queue_test.py	/^def get_value(q):$/;"	f
 goPAGE	learn/python3/day01/urllib_learn/download/my_renren.html	/^function goPAGE() {$/;"	f
 goPAGE	learn/python3/day01/urllib_learn/download/renren.html	/^function goPAGE() {$/;"	f
 goPAGE	learn/python3/day02/request/download/renren.html	/^function goPAGE() {$/;"	f
@@ -85,6 +133,7 @@ headers	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^headers 
 headers	learn/python3/day02/request/demo01.py	/^headers = {$/;"	v
 headers	learn/python3/day02/request/request_pose_lagou.py	/^headers = {$/;"	v
 headers	learn/python3/day02/request/session_renren.py	/^headers = {$/;"	v
+headers	learn/python3/day07/doutu_threading.py	/^    headers = {$/;"	v	class:Producer
 headers	learn/python3/handler.py	/^headers = {$/;"	v
 headers	learn/python3/head.py	/^headers = {$/;"	v
 headers	learn/python3/post.py	/^headers = {$/;"	v
@@ -93,6 +142,10 @@ headers	learn/python3/tieba.py	/^headers = {$/;"	v
 headers	learn/python3/xici_proxy.py	/^headers = {'User-Agent': 'Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.3'$/;"	v
 headers	豆瓣/douban_showing_soon.py	/^headers = {$/;"	v
 headers	豆瓣/douban_spider.py	/^headers = {$/;"	v
+host	learn/python3/day05/pymysql_delete.py	/^    host='localhost',$/;"	v
+host	learn/python3/day05/pymysql_insert.py	/^    host='localhost',$/;"	v
+host	learn/python3/day05/pymysql_search.py	/^    host='localhost',$/;"	v
+host	learn/python3/day05/pymysql_test.py	/^    host='localhost',$/;"	v
 href	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    href = tr.xpath('.\/\/a\/@href')[0]$/;"	v
 html	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^html = etree.parse('tenxun.html', parser=parser)$/;"	v
 html	豆瓣/douban_showing_soon.py	/^html = etree.HTML(text)$/;"	v
@@ -105,13 +158,21 @@ ime_hw	learn/python3/day02/request/download/baidu.html	/^<script>if(window.bds&&
 ime_hw	北京.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129"><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="北京" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="oq" value="北京"><input type="hidden" name="rsv_pq" value="da73173c00034fca"><input type="hidden" name="rsv_t" value="edb6Cez3WYlBftBxOM8s9WgFxxVCru2nE8npQjMdRO3Vcu2kAhPcS0D3w+8"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
 infos	learn/python3/day04/bs4_test.py	/^    infos = list(tr.stripped_strings)$/;"	v
 init_proxies	learn/python3/xici_proxy.py	/^    init_proxies = get_proxies()  # 获取原始代理IP$/;"	v
+json	learn/python3/day05/json_load.py	/^import json$/;"	i
 json	learn/python3/day05/json_test.py	/^import json$/;"	i
-json_str	learn/python3/day05/json_test.py	/^json_str = json.dumps(persons)$/;"	v
 kind	豆瓣/douban_showing_soon.py	/^    kind = div.xpath('.\/\/ul\/li[2]\/text()')[0]$/;"	v
 lis	豆瓣/douban_spider.py	/^lis = ul.xpath('.\/\/li')$/;"	v
 login_url	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^login_url = 'http:\/\/www.renren.com\/relogin.do'$/;"	v
 main	learn/python3/day04/goushi_re.py	/^def main():$/;"	f
 main	learn/python3/day04/weather_spider.py	/^def main():$/;"	f
+main	learn/python3/day06/pc_condition.py	/^def main():$/;"	f
+main	learn/python3/day06/produce_consumer.py	/^def main():$/;"	f
+main	learn/python3/day06/thread_class.py	/^def main():$/;"	f
+main	learn/python3/day06/threading_lock.py	/^def main():$/;"	f
+main	learn/python3/day06/threading_normal.py	/^def main():$/;"	f
+main	learn/python3/day07/doutu_spider.py	/^def main():$/;"	f
+main	learn/python3/day07/doutu_threading.py	/^def main():$/;"	f
+main	learn/python3/day07/queue_test.py	/^def main():$/;"	f
 movie	豆瓣/douban_spider.py	/^    movie = {$/;"	v
 movies	豆瓣/douban_showing_soon.py	/^movies = []$/;"	v
 movies	豆瓣/douban_spider.py	/^movies = []$/;"	v
@@ -123,6 +184,8 @@ opener	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^opener = request.bu
 opener	learn/python3/day01/urllib_learn/nehan_homework.py	/^opener = request.build_opener(handler)$/;"	v
 opener	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^opener = request.build_opener(handler)$/;"	v
 opener	learn/python3/handler.py	/^opener = urllib.request.build_opener(handler)$/;"	v
+os	learn/python3/day07/doutu_spider.py	/^import os$/;"	i
+os	learn/python3/day07/doutu_threading.py	/^import os$/;"	i
 os	learn/python3/tieba.py	/^import os$/;"	i
 page	learn/python3/ajax_get.py	/^page = int(input('请输入想要第几页的数据:'))$/;"	v
 params	learn/python3/day02/request/demo01.py	/^params = {$/;"	v
@@ -145,8 +208,20 @@ parse_detail_page	电影天堂/movie_list.py	/^def parse_detail_page(url):$/;"	f
 parse_lagou_file	learn/python3/day03/数据提取/xpath/lxml_test.py	/^def parse_lagou_file():$/;"	f
 parse_page	learn/python3/day04/goushi_re.py	/^def parse_page(url):$/;"	f
 parse_page	learn/python3/day04/weather_spider.py	/^def parse_page(url):$/;"	f
+parse_page	learn/python3/day07/doutu_spider.py	/^def parse_page(url):$/;"	f
+parse_page	learn/python3/day07/doutu_threading.py	/^    def parse_page(self, url):$/;"	m	class:Producer
 parser	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^parser = etree.HTMLParser(encoding='utf-8')$/;"	v
+password	learn/python3/day05/pymysql_delete.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_insert.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_insert.py	/^password = '199110'$/;"	v
+password	learn/python3/day05/pymysql_search.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_test.py	/^    password='xzx199110',$/;"	v
+persons	learn/python3/day05/json_load.py	/^    persons = json.load(fp)$/;"	v
 persons	learn/python3/day05/json_test.py	/^persons = [$/;"	v
+port	learn/python3/day05/pymysql_delete.py	/^    port=3306,$/;"	v
+port	learn/python3/day05/pymysql_insert.py	/^    port=3306,$/;"	v
+port	learn/python3/day05/pymysql_search.py	/^    port=3306,$/;"	v
+port	learn/python3/day05/pymysql_test.py	/^    port=3306,$/;"	v
 position	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    position = {$/;"	v
 positions	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^positions = []$/;"	v
 post_url	learn/python3/post.py	/^post_url = 'https:\/\/fanyi.baidu.com\/sug'$/;"	v
@@ -154,9 +229,16 @@ post_url	learn/python3/post_test.py	/^post_url = 'https:\/\/fanyi.baidu.com\/v2t
 project_opened	.vscode/.ropeproject/config.py	/^def project_opened(project):$/;"	f
 proxy	learn/python3/day02/request/proxy_requests_test.py	/^proxy = {$/;"	v
 pub_time	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    pub_time = tr.xpath('.\/td[5]\/text()')$/;"	v
+pymongo	learn/python3/day06/pymongo_test.py	/^import pymongo$/;"	i
+pymysql	learn/python3/day05/pymysql_delete.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day05/pymysql_insert.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day05/pymysql_search.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day05/pymysql_test.py	/^import pymysql$/;"	i
 query_string	learn/python3/ajax_get.py	/^query_string = urllib.parse.urlencode(data)$/;"	v
 query_string	learn/python3/urlencode.py	/^query_string = urllib.parse.urlencode(query=data)$/;"	v
 r	learn/python3/day04/re_method.py	/^r = re.compile('\\d+\\.?\\d*')$/;"	v
+random	learn/python3/day06/pc_condition.py	/^import random$/;"	i
+random	learn/python3/day06/produce_consumer.py	/^import random$/;"	i
 random	learn/python3/xici_proxy.py	/^import random$/;"	i
 re	learn/python3/day04/goushi_re.py	/^import re$/;"	i
 re	learn/python3/day04/re_learn.py	/^import re$/;"	i
@@ -164,6 +246,8 @@ re	learn/python3/day04/re_method.py	/^import re$/;"	i
 re	learn/python3/day04/re_test.py	/^import re$/;"	i
 re	learn/python3/day04/re_test_demo.py	/^import re$/;"	i
 re	learn/python3/xici_proxy.py	/^import re$/;"	i
+read_csv_demo1	learn/python3/day05/csv_test.py	/^def read_csv_demo1():$/;"	f
+read_csv_demo2	learn/python3/day05/csv_test.py	/^def read_csv_demo2():$/;"	f
 region	豆瓣/douban_showing_soon.py	/^    region = div.xpath('.\/\/ul\/li[3]\/text()')[0]$/;"	v
 region	豆瓣/douban_spider.py	/^    region = li.xpath('@data-region')$/;"	v
 req	learn/python3/day01/urllib_learn/lagou_request.py	/^req = request.Request(post_url, headers=headers, data=form_data, method='post')$/;"	v
@@ -182,6 +266,8 @@ request	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^from urllib import
 request	learn/python3/day01/urllib_learn/nehan_homework.py	/^from urllib import request$/;"	i
 request	learn/python3/day01/urllib_learn/renren_cookies.py	/^from urllib import request$/;"	i
 request	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from urllib import request$/;"	i
+request	learn/python3/day07/doutu_spider.py	/^from urllib import request$/;"	i
+request	learn/python3/day07/doutu_threading.py	/^from urllib import request$/;"	i
 request	learn/python3/error.py	/^import urllib.request$/;"	i
 request	learn/python3/get.py	/^import urllib.request$/;"	i
 request	learn/python3/handler.py	/^import urllib.request$/;"	i
@@ -202,6 +288,8 @@ requests	learn/python3/day02/request/request_pose_lagou.py	/^import requests$/;"
 requests	learn/python3/day02/request/session_renren.py	/^import requests$/;"	i
 requests	learn/python3/day04/goushi_re.py	/^import requests$/;"	i
 requests	learn/python3/day04/weather_spider.py	/^import requests$/;"	i
+requests	learn/python3/day07/doutu_spider.py	/^import requests$/;"	i
+requests	learn/python3/day07/doutu_threading.py	/^import requests$/;"	i
 requests	learn/python3/xici_proxy.py	/^import requests$/;"	i
 requests	tencent/hr/tencent_hr.py	/^import requests$/;"	i
 requests	电影天堂/movie_list.py	/^import requests$/;"	i
@@ -232,10 +320,19 @@ response	learn/python3/urlopen.py	/^response = urllib.request.test(image_url)$/;
 response	learn/python3/urlopen.py	/^response = urllib.request.test(url=url)$/;"	v
 response	豆瓣/douban_showing_soon.py	/^response = requests.get(url, headers=headers)$/;"	v
 response	豆瓣/douban_spider.py	/^response = requests.get(url, headers=headers)$/;"	v
+result	learn/python3/day05/pymysql_test.py	/^result = cursor.fetchone()$/;"	v
+results	learn/python3/day05/pymysql_search.py	/^results = cursor.fetchall()$/;"	v
 ret	learn/python3/day04/re_learn.py	/^ret = re.search('.*(\\$\\d+).*(\\$\\d+)', text)$/;"	v
 ret	learn/python3/day04/re_method.py	/^ret = re.search(r, text)$/;"	v
 ret	learn/python3/day04/re_test.py	/^ret = re.match('[1-9]\\d?$|100$', text)$/;"	v
 ret	learn/python3/day04/re_test_demo.py	/^ret = re.match('\\\\\\\\n', text)$/;"	v
+run	learn/python3/day06/pc_condition.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day06/pc_condition.py	/^    def run(self):$/;"	m	class:Producer
+run	learn/python3/day06/produce_consumer.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day06/produce_consumer.py	/^    def run(self):$/;"	m	class:Producer
+run	learn/python3/day06/thread_class.py	/^    def run(self):$/;"	m	class:CodingThread
+run	learn/python3/day06/thread_class.py	/^    def run(self):$/;"	m	class:DrawingThread
+run	learn/python3/day07/doutu_threading.py	/^    def run(self):$/;"	m	class:Producer
 score	豆瓣/douban_spider.py	/^    score = li.xpath('@data-score')$/;"	v
 sendStats	learn/python3/day01/urllib_learn/download/my_renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
 sendStats	learn/python3/day01/urllib_learn/download/renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
@@ -243,6 +340,7 @@ sendStats	learn/python3/day02/request/download/renren.html	/^function sendStats(
 session	learn/python3/day02/request/session_renren.py	/^session = requests.Session()$/;"	v
 setSrc	北京.html	/^    function setSrc(img,data){$/;"	f
 set_prefs	.vscode/.ropeproject/config.py	/^def set_prefs(prefs):$/;"	f
+set_value	learn/python3/day07/queue_test.py	/^def set_value(q):$/;"	f
 show_date	豆瓣/douban_showing_soon.py	/^    show_date = div.xpath('.\/\/ul\/li[1]\/text()')[0]$/;"	v
 show_soon_movie	豆瓣/douban_showing_soon.py	/^    show_soon_movie = {$/;"	v
 soup	learn/python3/day04/bs4_test.py	/^soup = BeautifulSoup(html, 'lxml')$/;"	v
@@ -256,8 +354,20 @@ text	learn/python3/day04/re_test.py	/^text = '1001'$/;"	v
 text	learn/python3/day04/re_test_demo.py	/^text = '\\\\n'$/;"	v
 text	豆瓣/douban_showing_soon.py	/^text = response.text$/;"	v
 text	豆瓣/douban_spider.py	/^text = response.text$/;"	v
+threading	learn/python3/day06/pc_condition.py	/^import threading$/;"	i
+threading	learn/python3/day06/produce_consumer.py	/^import threading$/;"	i
+threading	learn/python3/day06/thread_class.py	/^import threading$/;"	i
+threading	learn/python3/day06/threading_lock.py	/^import threading$/;"	i
+threading	learn/python3/day06/threading_normal.py	/^import threading$/;"	i
+threading	learn/python3/day07/doutu_threading.py	/^import threading$/;"	i
+threading	learn/python3/day07/queue_test.py	/^import threading$/;"	i
 thumbnail	豆瓣/douban_showing_soon.py	/^    thumbnail = div.xpath('.\/\/img\/@src')$/;"	v
 thumbnail	豆瓣/douban_spider.py	/^    thumbnail = li.xpath('.\/\/img\/@src')$/;"	v
+time	learn/python3/day06/pc_condition.py	/^import time$/;"	i
+time	learn/python3/day06/produce_consumer.py	/^import time$/;"	i
+time	learn/python3/day06/thread_class.py	/^import time$/;"	i
+time	learn/python3/day06/threading_normal.py	/^import time$/;"	i
+time	learn/python3/day07/queue_test.py	/^import time$/;"	i
 title	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    title = tr.xpath('.\/td[1]\/\/text()')[0]$/;"	v
 title	豆瓣/douban_showing_soon.py	/^    title = div.xpath('.\/\/a[@class=""]')[0].text$/;"	v
 title	豆瓣/douban_spider.py	/^    title = li.xpath('@data-title')$/;"	v
@@ -306,9 +416,16 @@ urllib	learn/python3/tieba.py	/^import urllib.parse$/;"	i
 urllib	learn/python3/tieba.py	/^import urllib.request$/;"	i
 urllib	learn/python3/urlencode.py	/^import urllib.parse$/;"	i
 urllib	learn/python3/urlopen.py	/^import urllib.request$/;"	i
+user	learn/python3/day05/pymysql_delete.py	/^    user='root',$/;"	v
+user	learn/python3/day05/pymysql_insert.py	/^    user='root',$/;"	v
+user	learn/python3/day05/pymysql_search.py	/^    user='root',$/;"	v
+user	learn/python3/day05/pymysql_test.py	/^    user='root',$/;"	v
+username	learn/python3/day05/pymysql_insert.py	/^username = 'xiaojianjian'$/;"	v
 wd	learn/python3/parse.py	/^wd = urllib.parse.unquote(word)$/;"	v
 word	learn/python3/get.py	/^word = input('您想要搜索的内容：')$/;"	v
 word	learn/python3/parse.py	/^word = urllib.parse.quote(str(word))$/;"	v
 word	learn/python3/parse.py	/^word = {$/;"	v
 word	learn/python3/post.py	/^word = input('请输入要查询的英文单词：')$/;"	v
 word	learn/python3/post_test.py	/^word = 'hello'$/;"	v
+write_csv_demo1	learn/python3/day05/csv_write.py	/^def write_csv_demo1():$/;"	f
+write_csv_demo2	learn/python3/day05/csv_write.py	/^def write_csv_demo2():$/;"	f

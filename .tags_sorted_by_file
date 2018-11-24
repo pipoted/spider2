@@ -155,9 +155,126 @@ BeautifulSoup	learn/python3/day04/weather_spider.py	/^from bs4 import BeautifulS
 main	learn/python3/day04/weather_spider.py	/^def main():$/;"	f
 parse_page	learn/python3/day04/weather_spider.py	/^def parse_page(url):$/;"	f
 requests	learn/python3/day04/weather_spider.py	/^import requests$/;"	i
+csv	learn/python3/day05/csv_test.py	/^import csv$/;"	i
+read_csv_demo1	learn/python3/day05/csv_test.py	/^def read_csv_demo1():$/;"	f
+read_csv_demo2	learn/python3/day05/csv_test.py	/^def read_csv_demo2():$/;"	f
+csv	learn/python3/day05/csv_write.py	/^import csv$/;"	i
+write_csv_demo1	learn/python3/day05/csv_write.py	/^def write_csv_demo1():$/;"	f
+write_csv_demo2	learn/python3/day05/csv_write.py	/^def write_csv_demo2():$/;"	f
+json	learn/python3/day05/json_load.py	/^import json$/;"	i
+persons	learn/python3/day05/json_load.py	/^    persons = json.load(fp)$/;"	v
+Person	learn/python3/day05/json_test.py	/^class Person(object):$/;"	c
+a	learn/python3/day05/json_test.py	/^a = {$/;"	v
+country	learn/python3/day05/json_test.py	/^    country = 'china'$/;"	v	class:Person
 json	learn/python3/day05/json_test.py	/^import json$/;"	i
-json_str	learn/python3/day05/json_test.py	/^json_str = json.dumps(persons)$/;"	v
 persons	learn/python3/day05/json_test.py	/^persons = [$/;"	v
+conn	learn/python3/day05/pymysql_delete.py	/^conn = pymysql.connect($/;"	v
+cursor	learn/python3/day05/pymysql_delete.py	/^cursor = conn.cursor()$/;"	v
+database	learn/python3/day05/pymysql_delete.py	/^    database='spider',$/;"	v
+host	learn/python3/day05/pymysql_delete.py	/^    host='localhost',$/;"	v
+password	learn/python3/day05/pymysql_delete.py	/^    password='xzx199110',$/;"	v
+port	learn/python3/day05/pymysql_delete.py	/^    port=3306,$/;"	v
+pymysql	learn/python3/day05/pymysql_delete.py	/^import pymysql$/;"	i
+user	learn/python3/day05/pymysql_delete.py	/^    user='root',$/;"	v
+age	learn/python3/day05/pymysql_insert.py	/^age = 21$/;"	v
+conn	learn/python3/day05/pymysql_insert.py	/^conn = pymysql.connect($/;"	v
+cursor	learn/python3/day05/pymysql_insert.py	/^cursor = conn.cursor()$/;"	v
+database	learn/python3/day05/pymysql_insert.py	/^    database='spider',$/;"	v
+host	learn/python3/day05/pymysql_insert.py	/^    host='localhost',$/;"	v
+password	learn/python3/day05/pymysql_insert.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_insert.py	/^password = '199110'$/;"	v
+port	learn/python3/day05/pymysql_insert.py	/^    port=3306,$/;"	v
+pymysql	learn/python3/day05/pymysql_insert.py	/^import pymysql$/;"	i
+user	learn/python3/day05/pymysql_insert.py	/^    user='root',$/;"	v
+username	learn/python3/day05/pymysql_insert.py	/^username = 'xiaojianjian'$/;"	v
+conn	learn/python3/day05/pymysql_search.py	/^conn = pymysql.connect($/;"	v
+cursor	learn/python3/day05/pymysql_search.py	/^cursor = conn.cursor()$/;"	v
+database	learn/python3/day05/pymysql_search.py	/^    database='spider',$/;"	v
+host	learn/python3/day05/pymysql_search.py	/^    host='localhost',$/;"	v
+password	learn/python3/day05/pymysql_search.py	/^    password='xzx199110',$/;"	v
+port	learn/python3/day05/pymysql_search.py	/^    port=3306,$/;"	v
+pymysql	learn/python3/day05/pymysql_search.py	/^import pymysql$/;"	i
+results	learn/python3/day05/pymysql_search.py	/^results = cursor.fetchall()$/;"	v
+user	learn/python3/day05/pymysql_search.py	/^    user='root',$/;"	v
+conn	learn/python3/day05/pymysql_test.py	/^conn = pymysql.connect($/;"	v
+cursor	learn/python3/day05/pymysql_test.py	/^cursor = conn.cursor()$/;"	v
+database	learn/python3/day05/pymysql_test.py	/^    database='spider',$/;"	v
+host	learn/python3/day05/pymysql_test.py	/^    host='localhost',$/;"	v
+password	learn/python3/day05/pymysql_test.py	/^    password='xzx199110',$/;"	v
+port	learn/python3/day05/pymysql_test.py	/^    port=3306,$/;"	v
+pymysql	learn/python3/day05/pymysql_test.py	/^import pymysql$/;"	i
+result	learn/python3/day05/pymysql_test.py	/^result = cursor.fetchone()$/;"	v
+user	learn/python3/day05/pymysql_test.py	/^    user='root',$/;"	v
+Consumer	learn/python3/day06/pc_condition.py	/^class Consumer(threading.Thread):$/;"	c
+G_CONDITION	learn/python3/day06/pc_condition.py	/^G_CONDITION = threading.Condition()$/;"	v
+G_MONEY	learn/python3/day06/pc_condition.py	/^G_MONEY = 1000$/;"	v
+G_TIMES	learn/python3/day06/pc_condition.py	/^G_TIMES = 0$/;"	v
+G_TOTAL_TIMES	learn/python3/day06/pc_condition.py	/^G_TOTAL_TIMES = 10$/;"	v
+Producer	learn/python3/day06/pc_condition.py	/^class Producer(threading.Thread):$/;"	c
+main	learn/python3/day06/pc_condition.py	/^def main():$/;"	f
+random	learn/python3/day06/pc_condition.py	/^import random$/;"	i
+run	learn/python3/day06/pc_condition.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day06/pc_condition.py	/^    def run(self):$/;"	m	class:Producer
+threading	learn/python3/day06/pc_condition.py	/^import threading$/;"	i
+time	learn/python3/day06/pc_condition.py	/^import time$/;"	i
+Consumer	learn/python3/day06/produce_consumer.py	/^class Consumer(threading.Thread):$/;"	c
+G_LOCK	learn/python3/day06/produce_consumer.py	/^G_LOCK = threading.Lock()$/;"	v
+G_MONEY	learn/python3/day06/produce_consumer.py	/^G_MONEY = 1000$/;"	v
+G_TIMES	learn/python3/day06/produce_consumer.py	/^G_TIMES = 0$/;"	v
+G_TOTAL_TIMES	learn/python3/day06/produce_consumer.py	/^G_TOTAL_TIMES = 10$/;"	v
+Producer	learn/python3/day06/produce_consumer.py	/^class Producer(threading.Thread):$/;"	c
+main	learn/python3/day06/produce_consumer.py	/^def main():$/;"	f
+random	learn/python3/day06/produce_consumer.py	/^import random$/;"	i
+run	learn/python3/day06/produce_consumer.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day06/produce_consumer.py	/^    def run(self):$/;"	m	class:Producer
+threading	learn/python3/day06/produce_consumer.py	/^import threading$/;"	i
+time	learn/python3/day06/produce_consumer.py	/^import time$/;"	i
+client	learn/python3/day06/pymongo_test.py	/^client = pymongo.MongoClient('127.0.0.1', port=27017)$/;"	v
+collection	learn/python3/day06/pymongo_test.py	/^collection = db.qa$/;"	v
+db	learn/python3/day06/pymongo_test.py	/^db = client.zhihu$/;"	v
+pymongo	learn/python3/day06/pymongo_test.py	/^import pymongo$/;"	i
+CodingThread	learn/python3/day06/thread_class.py	/^class CodingThread(threading.Thread):$/;"	c
+DrawingThread	learn/python3/day06/thread_class.py	/^class DrawingThread(threading.Thread):$/;"	c
+main	learn/python3/day06/thread_class.py	/^def main():$/;"	f
+run	learn/python3/day06/thread_class.py	/^    def run(self):$/;"	m	class:CodingThread
+run	learn/python3/day06/thread_class.py	/^    def run(self):$/;"	m	class:DrawingThread
+threading	learn/python3/day06/thread_class.py	/^import threading$/;"	i
+time	learn/python3/day06/thread_class.py	/^import time$/;"	i
+VALUE	learn/python3/day06/threading_lock.py	/^VALUE = 0$/;"	v
+add_value	learn/python3/day06/threading_lock.py	/^def add_value():$/;"	f
+gLock	learn/python3/day06/threading_lock.py	/^gLock = threading.Lock()$/;"	v
+main	learn/python3/day06/threading_lock.py	/^def main():$/;"	f
+threading	learn/python3/day06/threading_lock.py	/^import threading$/;"	i
+coding	learn/python3/day06/threading_normal.py	/^def coding():$/;"	f
+draw	learn/python3/day06/threading_normal.py	/^def draw():$/;"	f
+main	learn/python3/day06/threading_normal.py	/^def main():$/;"	f
+threading	learn/python3/day06/threading_normal.py	/^import threading$/;"	i
+time	learn/python3/day06/threading_normal.py	/^import time$/;"	i
+etree	learn/python3/day07/doutu_spider.py	/^from lxml import etree$/;"	i
+main	learn/python3/day07/doutu_spider.py	/^def main():$/;"	f
+os	learn/python3/day07/doutu_spider.py	/^import os$/;"	i
+parse_page	learn/python3/day07/doutu_spider.py	/^def parse_page(url):$/;"	f
+request	learn/python3/day07/doutu_spider.py	/^from urllib import request$/;"	i
+requests	learn/python3/day07/doutu_spider.py	/^import requests$/;"	i
+Consumer	learn/python3/day07/doutu_threading.py	/^class Consumer(threading.Thread):$/;"	c
+Producer	learn/python3/day07/doutu_threading.py	/^class Producer(threading.Thread):$/;"	c
+Queue	learn/python3/day07/doutu_threading.py	/^from queue import Queue$/;"	i
+__init__	learn/python3/day07/doutu_threading.py	/^    def __init__(self, page_queue, img_queue,  *args, **kwargs):$/;"	m	class:Producer
+etree	learn/python3/day07/doutu_threading.py	/^from lxml import etree$/;"	i
+headers	learn/python3/day07/doutu_threading.py	/^    headers = {$/;"	v	class:Producer
+main	learn/python3/day07/doutu_threading.py	/^def main():$/;"	f
+os	learn/python3/day07/doutu_threading.py	/^import os$/;"	i
+parse_page	learn/python3/day07/doutu_threading.py	/^    def parse_page(self, url):$/;"	m	class:Producer
+request	learn/python3/day07/doutu_threading.py	/^from urllib import request$/;"	i
+requests	learn/python3/day07/doutu_threading.py	/^import requests$/;"	i
+run	learn/python3/day07/doutu_threading.py	/^    def run(self):$/;"	m	class:Producer
+threading	learn/python3/day07/doutu_threading.py	/^import threading$/;"	i
+Queue	learn/python3/day07/queue_test.py	/^from queue import Queue$/;"	i
+get_value	learn/python3/day07/queue_test.py	/^def get_value(q):$/;"	f
+main	learn/python3/day07/queue_test.py	/^def main():$/;"	f
+set_value	learn/python3/day07/queue_test.py	/^def set_value(q):$/;"	f
+threading	learn/python3/day07/queue_test.py	/^import threading$/;"	i
+time	learn/python3/day07/queue_test.py	/^import time$/;"	i
 error	learn/python3/error.py	/^import urllib.error$/;"	i
 parse	learn/python3/error.py	/^import urllib.parse$/;"	i
 request	learn/python3/error.py	/^import urllib.request$/;"	i
