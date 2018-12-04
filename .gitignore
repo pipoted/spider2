@@ -6,7 +6,6 @@
 .idea
 .gif
 .tags
-*.iml
 out
 gen
 learn/python3/day02/request/dowmload/
@@ -84,3 +83,19 @@ learn/python3/day07/tags
 learn/python3/day07/text.py
 learn/python3/day07/types_py.taghl
 /learn/python3/day07/img_download/3D柴犬.gif
+/xiao.jpg
+.vscode/
+baidu.png
+lagou_detail.txt
+learn/python3/day08/2.png
+learn/python3/day08/3.png
+learn/python3/day08/captcha.png
+learn/python3/day08/hello.jpg
+learn/python3/day08/index.jpg
+learn/python3/day08/te.png
+learn/python3/day09/douban_login/
+learn/python3/day09/qsbk_spider/
+learn/python3/day09/renren_login/renren_login/
+learn/python3/day09/renren_login/scrapy.cfg
+learn/python3/day09/wxapp/
+/.vscode/
