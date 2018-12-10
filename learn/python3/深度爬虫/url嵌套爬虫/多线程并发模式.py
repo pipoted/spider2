@@ -1,11 +1,13 @@
 # coding=utf-8
+
 __author__ = 'xiao'
 __date__ = '2018-12-05 11:26'
 
+import time
 import re
-from queue import Queue
+import threading
+import multiprocessing
 from urllib import request
-
 
 def get_data(url):
     try:
@@ -17,7 +19,8 @@ def get_data(url):
 
 def get_email(data):
     try:
-        mail_regex = re.compile(r'[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}', re.IGNORECASE)
+        mail_regex = re.compile(
+            r'[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}', re.IGNORECASE)
         my_list = mail_regex.findall(data)
         return my_list
     except:
@@ -78,29 +81,71 @@ def get_all_http(data):
         return []
 
 
-def BFS(url):
+def save_mail():
+    global email_queue
+    mail_file = open('mail.txt', 'ab')
+    while True:
+        time.sleep(3)
+        while not email_queue.empty():
+            data: str = email_queue.get()
+            mail_file.write((data + '\r\n').encode())
+            mail_file.flush()
+
+    mail_file.close()
+
+
+def BFS(url, email_queue, url_queue):
     """
     广度遍历url
     """
-    queue = Queue()
-    queue.put(url)
-    while not queue.empty():
-        url = queue.get()
-        print('抓取', url)
-        page_data = get_data(url)
-        email_list = get_email(page_data)
-        if len(email_list) != 0:
-            for email in email_list:
-                print(email)
+    url_queue.put(url)
+    page_data = get_data(url)
+    print('抓取', url)
+    email_list = get_email(page_data)
+    if len(email_list) != 0:
+        for email in email_list:
+            print(email)
+            email_queue.put(email)
 
-        url_list = get_every_url(page_data)  # 提取url压入到队列中
-        if len(url_list) != 0:
-            for url in url_list:
-                queue.put(url)
-                print(url)
+    url_list = get_every_url(page_data)  # 提取url压入到队列中
+    if len(url_list) != 0:
+        for url in url_list:
+            print(url)
+            url_queue.put(url)
+            # with sem:
+            #     threading.Thread(target=BFS, args=(url, email_queue, url_queue)).start()
+    print(threading.current_thread().name, 'exit')
 
 
-BFS('http://bbs.tianya.cn/m/post-140-393974-4.shtml')
+def BFSgo(url: str, maemail_queue, url_queue):
+    url_queue.put(url)
+    while True:
+        time.sleep(5)
+        url_list = []
+        for i in range(10):
+            if not url_queue.empty():
+                url_list.append(url_queue.get())
 
-# print(get_email(get_data('http://bbs.tianya.cn/m/post-140-393974-1.shtml')))
-# print(get_every_url(get_data('http://bbs.tianya.cn/m/post-140-393974-1.shtml')))
+    my_list = []
+    for url in url_list:
+        my_list.append((url, email_queue, url_queue))
+
+    pool = multiprocessing.Pool(processes=10)
+    pool_outputs = pool.map(BFS, my_list)
+    pool.close()
+    pool.join()
+
+
+if __name__ == "__main__":
+    email_queue = multiprocessing.managers.queue()
+    url_queue = multiprocessing.managers.queue()
+    sem = threading.Semaphore(100)
+    time_thread = threading.Timer(5, save_mail)
+    time_thread.start()
+
+    BFSgo('http://bbs.tianya.cn/m/post-140-393974-1.shtml', email_queue, url_queue)
+
+    # BFS('http://bbs.tianya.cn/m/post-140-393974-4.shtml')
+
+    # print(get_email(get_data('http://bbs.tianya.cn/m/post-140-393974-1.shtml')))
+    # print(get_every_url(get_data('http://bbs.tianya.cn/m/post-140-393974-1.shtml')))
