@@ -1,0 +1,9 @@
+{'email': 'purepurehero@yahoo.com.cn',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'ilikesofa@yeah.net',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'summermemetea@yahoo.com.cn',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'zfchang@email.com',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'mmunni-@HOTMAIL.COM',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'liyouke@263.net',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'he@21cn.com',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}{'email': 'li001686@vip.sina.com',
+ 'url': 'http://bbs.tianya.cn/m/post-140-393974-1.shtml'}

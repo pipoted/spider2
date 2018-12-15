@@ -1,0 +1,52 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BFS	多线程并发模式.py	/^def BFS(url, email_queue, url_queue):$/;"	f
+BFS	邮箱爬虫协程版.py	/^def BFS(url):$/;"	f
+BFSgo	多线程并发模式.py	/^def BFSgo(url: str, maemail_queue, url_queue):$/;"	f
+BFSgo	邮箱爬虫协程版.py	/^def BFSgo(url):$/;"	f
+List	CSDN讲师.py	/^from typing import List$/;"	i
+MY_LIST	CSDN讲师.py	/^MY_LIST = get_url_list(START_URL)$/;"	v
+Queue	邮箱爬虫协程版.py	/^from queue import Queue$/;"	i
+__author__	多线程并发模式.py	/^__author__ = 'xiao'$/;"	v
+__date__	多线程并发模式.py	/^__date__ = '2018-12-05 11:26'$/;"	v
+email_queue	多线程并发模式.py	/^    email_queue = multiprocessing.managers.queue()$/;"	v
+email_queue	邮箱爬虫协程版.py	/^email_queue = Queue()$/;"	v
+etree	CSDN讲师.py	/^from lxml import etree$/;"	i
+get_abs_url	多线程并发模式.py	/^def get_abs_url(url, data):$/;"	f
+get_abs_url	邮箱爬虫协程版.py	/^def get_abs_url(url, data):$/;"	f
+get_all_email	邮箱爬虫协程版.py	/^def get_all_email(data):$/;"	f
+get_all_http	多线程并发模式.py	/^def get_all_http(data):$/;"	f
+get_all_http	邮箱爬虫协程版.py	/^def get_all_http(data):$/;"	f
+get_data	多线程并发模式.py	/^def get_data(url):$/;"	f
+get_data	邮箱爬虫协程版.py	/^def get_data(url):$/;"	f
+get_email	多线程并发模式.py	/^def get_email(data):$/;"	f
+get_every_url	多线程并发模式.py	/^def get_every_url(data):$/;"	f
+get_every_url	邮箱爬虫协程版.py	/^def get_every_url(data):$/;"	f
+get_host_name	多线程并发模式.py	/^def get_host_name(httpstr):$/;"	f
+get_host_name	邮箱爬虫协程版.py	/^def get_host_name(httpstr):$/;"	f
+get_page	CSDN讲师.py	/^def get_page(url: str) -> str:$/;"	f
+get_url_list	CSDN讲师.py	/^def get_url_list(url: str) -> List[str]:$/;"	f
+gevent	邮箱爬虫协程版.py	/^import gevent$/;"	i
+monkey	邮箱爬虫协程版.py	/^from gevent import monkey$/;"	i
+multiprocessing	多线程并发模式.py	/^import multiprocessing$/;"	i
+os	邮箱爬虫协程版.py	/^import os$/;"	i
+queue	邮箱爬虫协程版.py	/^import queue$/;"	i
+re	CSDN讲师.py	/^import re$/;"	i
+re	多线程并发模式.py	/^import re$/;"	i
+re	邮箱爬虫协程版.py	/^import re$/;"	i
+request	CSDN讲师.py	/^from urllib import request$/;"	i
+request	多线程并发模式.py	/^from urllib import request$/;"	i
+request	邮箱爬虫协程版.py	/^from urllib import request$/;"	i
+save_mail	多线程并发模式.py	/^def save_mail():$/;"	f
+save_mail	邮箱爬虫协程版.py	/^def save_mail():$/;"	f
+sem	多线程并发模式.py	/^    sem = threading.Semaphore(100)$/;"	v
+threading	多线程并发模式.py	/^import threading$/;"	i
+time_thread	多线程并发模式.py	/^    time_thread = threading.Timer(5, save_mail)$/;"	v
+time	多线程并发模式.py	/^import time$/;"	i
+time	邮箱爬虫协程版.py	/^import time$/;"	i
+url_queue	多线程并发模式.py	/^    url_queue = multiprocessing.managers.queue()$/;"	v
+url_queue	邮箱爬虫协程版.py	/^url_queue = Queue()$/;"	v

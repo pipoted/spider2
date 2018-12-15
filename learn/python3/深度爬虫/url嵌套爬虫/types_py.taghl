@@ -1,0 +1,4 @@
+syn keyword CTagsImport monkey etree threading queue gevent time re os request multiprocessing List Queue
+syn keyword CTagsGlobalVariable __date__ __author__ MY_LIST url_queue sem email_queue time_thread
+syn keyword CTagsFunction save_mail get_host_name get_data get_email get_every_url BFS BFSgo get_abs_url get_page get_all_email get_url_list get_all_http
+

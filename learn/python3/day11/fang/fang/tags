@@ -1,0 +1,62 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOT_NAME	settings.py	/^BOT_NAME = 'fang'$/;"	v
+DEFAULT_REQUEST_HEADERS	settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DOWNLOAD_DELAY	settings.py	/^DOWNLOAD_DELAY = 3$/;"	v
+ESFHouseItem	items.py	/^class ESFHouseItem(scrapy.Item):$/;"	c
+FangDownloaderMiddleware	middlewares.py	/^class FangDownloaderMiddleware(object):$/;"	c
+FangPipeline	pipelines.py	/^class FangPipeline(object):$/;"	c
+FangSpiderMiddleware	middlewares.py	/^class FangSpiderMiddleware(object):$/;"	c
+NEWSPIDER_MODULE	settings.py	/^NEWSPIDER_MODULE = 'fang.spiders'$/;"	v
+NewHouseItem	items.py	/^class NewHouseItem(scrapy.Item):$/;"	c
+NewHouseItem	spiders/sfw.py	/^from fang.items import NewHouseItem$/;"	i
+ROBOTSTXT_OBEY	settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+SPIDER_MODULES	settings.py	/^SPIDER_MODULES = ['fang.spiders']$/;"	v
+SfwSpider	spiders/sfw.py	/^class SfwSpider(scrapy.Spider):$/;"	c
+address	items.py	/^    address = scrapy.Field()$/;"	v	class:ESFHouseItem
+address	items.py	/^    address = scrapy.Field()$/;"	v	class:NewHouseItem
+allowed_domains	spiders/sfw.py	/^    allowed_domains = ['fang.com']$/;"	v	class:SfwSpider
+area	items.py	/^    area = scrapy.Field()$/;"	v	class:ESFHouseItem
+callback	spiders/sfw.py	/^from _cffi_backend import callback$/;"	i
+city	items.py	/^    city = scrapy.Field()$/;"	v	class:ESFHouseItem
+city	items.py	/^    city = scrapy.Field()$/;"	v	class:NewHouseItem
+floor	items.py	/^    floor = scrapy.Field()$/;"	v	class:ESFHouseItem
+from_crawler	middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:FangDownloaderMiddleware
+from_crawler	middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:FangSpiderMiddleware
+name	items.py	/^    name = scrapy.Field()  # 小区名$/;"	v	class:NewHouseItem
+name	items.py	/^    name = scrapy.Field()$/;"	v	class:ESFHouseItem
+name	spiders/sfw.py	/^    name = 'sfw'$/;"	v	class:SfwSpider
+origin_url	items.py	/^    origin_url = scrapy.Field()  # 详情url$/;"	v	class:NewHouseItem
+origin_url	items.py	/^    origin_url = scrapy.Field()$/;"	v	class:ESFHouseItem
+parse_esf	spiders/sfw.py	/^    def parse_esf(self, response):$/;"	m	class:SfwSpider
+parse_newhouse	spiders/sfw.py	/^    def parse_newhouse(self, response):$/;"	m	class:SfwSpider
+parse	spiders/sfw.py	/^    def parse(self, response):$/;"	m	class:SfwSpider
+price	items.py	/^    price = scrapy.Field()  # 总价$/;"	v	class:ESFHouseItem
+price	items.py	/^    price = scrapy.Field()$/;"	v	class:NewHouseItem
+process_exception	middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:FangDownloaderMiddleware
+process_item	pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:FangPipeline
+process_request	middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:FangDownloaderMiddleware
+process_response	middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:FangDownloaderMiddleware
+process_spider_exception	middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:FangSpiderMiddleware
+process_spider_input	middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:FangSpiderMiddleware
+process_spider_output	middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:FangSpiderMiddleware
+process_start_requests	middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:FangSpiderMiddleware
+province	items.py	/^    province = scrapy.Field()$/;"	v	class:ESFHouseItem
+province	items.py	/^    province = scrapy.Field()$/;"	v	class:NewHouseItem
+re	spiders/sfw.py	/^import re$/;"	i
+rooms	items.py	/^    rooms = scrapy.Field()  # 居室数（列表）$/;"	v	class:NewHouseItem
+rooms	items.py	/^    rooms = scrapy.Field()$/;"	v	class:ESFHouseItem
+sale	items.py	/^    sale = scrapy.Field()  # 是否在售$/;"	v	class:NewHouseItem
+scrapy	items.py	/^import scrapy$/;"	i
+scrapy	spiders/sfw.py	/^import scrapy$/;"	i
+signals	middlewares.py	/^from scrapy import signals$/;"	i
+spider_opened	middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:FangDownloaderMiddleware
+spider_opened	middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:FangSpiderMiddleware
+start_urls	spiders/sfw.py	/^    start_urls = ['http:\/\/www.fang.com\/SoufunFamily.htm']$/;"	v	class:SfwSpider
+toward	items.py	/^    toward = scrapy.Field()  # 朝向$/;"	v	class:ESFHouseItem
+unit	items.py	/^    unit = scrapy.Field()  # 单价$/;"	v	class:ESFHouseItem
+year	items.py	/^    year = scrapy.Field()$/;"	v	class:ESFHouseItem

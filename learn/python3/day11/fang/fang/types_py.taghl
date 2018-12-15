@@ -1,0 +1,5 @@
+syn keyword CTagsImport scrapy re signals NewHouseItem callback
+syn keyword CTagsMember process_response from_crawler process_item process_spider_exception process_spider_input parse_esf process_start_requests parse process_request process_exception process_spider_output spider_opened parse_newhouse
+syn keyword CTagsGlobalVariable province price origin_url area year NEWSPIDER_MODULE ROBOTSTXT_OBEY unit DEFAULT_REQUEST_HEADERS toward BOT_NAME city floor sale start_urls address allowed_domains name rooms SPIDER_MODULES DOWNLOAD_DELAY
+syn keyword CTagsClass SfwSpider ESFHouseItem FangPipeline FangDownloaderMiddleware NewHouseItem FangSpiderMiddleware
+

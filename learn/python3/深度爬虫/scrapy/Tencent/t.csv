@@ -1,0 +1,133 @@
+detail_link,name,people_number,position_info,publish_time,work_location
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46271&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='25924-机器学习高级研究员（深圳）'>],[<Selector xpath='./td[3]/text()' data='2'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='深圳'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46272&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='SA-腾讯社交广告联盟广告应用开发高级工程师（上海）'>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='上海'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46267&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='CSIG15-叮当语音合成后台高级工程师'>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='深圳'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46268&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='TEG17-语音识别/合成研究员（北京）'>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='北京'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46269&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='TEG17-语音识别/合成研究员（深圳）'>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='深圳'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46246&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='TEG09-高级系统测试工程师（深圳）'>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='深圳'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46240&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='22989-腾讯云DNSPod域名服务PHP开发工程师'>],[<Selector xpath='./td[3]/text()' data='2'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='深圳'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46239&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='22989-DNSPod域名产品研发leader'>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='深圳'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46224&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='CSIG16-腾讯地图导航引擎开发工程师（北京）'>],[<Selector xpath='./td[3]/text()' data='3'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='北京'>]
+[<Selector xpath='./td[1]/a/@href' data='position_detail.php?id=46225&keywords=py'>],[<Selector xpath='./td[1]/a/text()' data='CSIG16-腾讯地图自然语言处理工程师 '>],[<Selector xpath='./td[3]/text()' data='1'>],[<Selector xpath='./td[2]/text()' data='技术类'>],[<Selector xpath='./td[5]/text()' data='2018-12-10'>],[<Selector xpath='./td[4]/text()' data='北京'>]
+detail_link,name,people_number,position_info,publish_time,work_location
+position_detail.php?id=46271&keywords=python&tid=0&lid=0,25924-机器学习高级研究员（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=46272&keywords=python&tid=0&lid=0,SA-腾讯社交广告联盟广告应用开发高级工程师（上海）,1,技术类,2018-12-10,上海
+position_detail.php?id=46267&keywords=python&tid=0&lid=0,CSIG15-叮当语音合成后台高级工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=46268&keywords=python&tid=0&lid=0,TEG17-语音识别/合成研究员（北京）,1,技术类,2018-12-10,北京
+position_detail.php?id=46269&keywords=python&tid=0&lid=0,TEG17-语音识别/合成研究员（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46246&keywords=python&tid=0&lid=0,TEG09-高级系统测试工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46240&keywords=python&tid=0&lid=0,22989-腾讯云DNSPod域名服务PHP开发工程师,2,技术类,2018-12-10,深圳
+position_detail.php?id=46239&keywords=python&tid=0&lid=0,22989-DNSPod域名产品研发leader,1,技术类,2018-12-10,深圳
+position_detail.php?id=46224&keywords=python&tid=0&lid=0,CSIG16-腾讯地图导航引擎开发工程师（北京）,3,技术类,2018-12-10,北京
+position_detail.php?id=46225&keywords=python&tid=0&lid=0,CSIG16-腾讯地图自然语言处理工程师 ,1,技术类,2018-12-10,北京
+detail_link,name,people_number,position_info,publish_time,work_location
+position_detail.php?id=46271&keywords=python&tid=0&lid=0,25924-机器学习高级研究员（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=46272&keywords=python&tid=0&lid=0,SA-腾讯社交广告联盟广告应用开发高级工程师（上海）,1,技术类,2018-12-10,上海
+position_detail.php?id=46267&keywords=python&tid=0&lid=0,CSIG15-叮当语音合成后台高级工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=46268&keywords=python&tid=0&lid=0,TEG17-语音识别/合成研究员（北京）,1,技术类,2018-12-10,北京
+position_detail.php?id=46269&keywords=python&tid=0&lid=0,TEG17-语音识别/合成研究员（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46246&keywords=python&tid=0&lid=0,TEG09-高级系统测试工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46240&keywords=python&tid=0&lid=0,22989-腾讯云DNSPod域名服务PHP开发工程师,2,技术类,2018-12-10,深圳
+position_detail.php?id=46239&keywords=python&tid=0&lid=0,22989-DNSPod域名产品研发leader,1,技术类,2018-12-10,深圳
+position_detail.php?id=46224&keywords=python&tid=0&lid=0,CSIG16-腾讯地图导航引擎开发工程师（北京）,3,技术类,2018-12-10,北京
+position_detail.php?id=46225&keywords=python&tid=0&lid=0,CSIG16-腾讯地图自然语言处理工程师 ,1,技术类,2018-12-10,北京
+position_detail.php?id=46226&keywords=python&tid=0&lid=0,CSIG16-腾讯地图搜索高级算法工程师 ,1,技术类,2018-12-10,北京
+position_detail.php?id=46198&keywords=python&tid=0&lid=0,TEG11-游戏AI高级系统工程师(深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=46189&keywords=python&tid=0&lid=0,WXG08-122 微信推荐机器学习算法工程师（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=46189&keywords=python&tid=0&lid=0,WXG08-122 微信推荐机器学习算法工程师（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=46185&keywords=python&tid=0&lid=0,29777-金融云区块链高级研发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46173&keywords=python&tid=0&lid=0,CSIG18-人工智能研究员（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46174&keywords=python&tid=0&lid=0,CSIG18-腾讯云安全运营开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46161&keywords=python&tid=0&lid=0,22989-腾讯云域名产品WEB开发工程师,2,技术类,2018-12-10,深圳
+position_detail.php?id=46153&keywords=python&tid=0&lid=0,TEG05-高级运营开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46150&keywords=python&tid=0&lid=0,TME-高级研究员（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46137&keywords=python&tid=0&lid=0,TEG14-运营开发工程师（深圳）,3,技术类,2018-12-10,深圳
+position_detail.php?id=46120&keywords=python&tid=0&lid=0,TEG03-后台开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46121&keywords=python&tid=0&lid=0,SA-腾讯社交广告联盟广告应用开发高级工程师（上海）,1,技术类,2018-12-10,上海
+position_detail.php?id=46122&keywords=python&tid=0&lid=0,18428-金融运维（运维安全方向）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46108&keywords=python&tid=0&lid=0,CSIG02-腾讯云解决方案架构师（成都）,1,技术类,2018-12-10,成都
+position_detail.php?id=46100&keywords=python&tid=0&lid=0,TME-腾讯音乐python开发工程师,2,技术类,2018-12-10,深圳
+position_detail.php?id=46096&keywords=python&tid=0&lid=0,18425-金融人工智能高级研究员,1,技术类,2018-12-10,深圳
+position_detail.php?id=46087&keywords=python&tid=0&lid=0,CSIG18-运营开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46086&keywords=python&tid=0&lid=0,CSIG18-高级业务运维工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46068&keywords=python&tid=0&lid=0,CSIG18-高级业务运维工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=46050&keywords=python&tid=0&lid=0,TEG02-服务器OS应用工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=46051&keywords=python&tid=0&lid=0,TEG02-服务器装备工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=46045&keywords=python&tid=0&lid=0,29912-短视频社区高级后台开发工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=46013&keywords=python&tid=0&lid=0,25928-后台开发工程师,2,技术类,2018-12-10,深圳
+position_detail.php?id=46007&keywords=python&tid=0&lid=0,25923-Python高级工程师,1,技术类,2018-12-10,上海
+position_detail.php?id=45995&keywords=python&tid=0&lid=0,TEG02-网络运营开发工程师,2,技术类,2018-12-10,深圳
+position_detail.php?id=45997&keywords=python&tid=0&lid=0,WXG02-116 微信后台测试开发工程师（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=45997&keywords=python&tid=0&lid=0,WXG02-116 微信后台测试开发工程师（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=45998&keywords=python&tid=0&lid=0,WXG02-116 微信VOIP测试开发工程师（深圳）,1,技术类,2018-12-10,广州
+position_detail.php?id=45991&keywords=python&tid=0&lid=0,22989-大数据后台开发工程师,1,技术类,2018-12-10,北京
+position_detail.php?id=45994&keywords=python&tid=0&lid=0,22989-大数据和人工智能高级开发工程师（北京）,1,技术类,2018-12-10,北京
+position_detail.php?id=45971&keywords=python&tid=0&lid=0,22989-云计算后台开发工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45972&keywords=python&tid=0&lid=0,22989-云计算后台开发工程师,1,技术类,2018-12-10,北京
+position_detail.php?id=45977&keywords=python&tid=0&lid=0,29912-后台架构工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45967&keywords=python&tid=0&lid=0,22989-腾讯云容器技术专家（北京）,2,技术类,2018-12-10,北京
+position_detail.php?id=45968&keywords=python&tid=0&lid=0,22989-计算产品中心Web前端高级工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45959&keywords=python&tid=0&lid=0,25923-高级工具开发工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45961&keywords=python&tid=0&lid=0,CSIG02-腾讯云行业方案架构师（北京/上海/深圳/成都）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45951&keywords=python&tid=0&lid=0,TME-Moo音乐系统测试工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45957&keywords=python&tid=0&lid=0,TEG13-运营开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45945&keywords=python&tid=0&lid=0,22989-腾讯云加速中心C++高级工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45944&keywords=python&tid=0&lid=0,22989-腾讯云加速中心PHP高级工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45912&keywords=python&tid=0&lid=0,22086-体育产品后台开发（北京）,1,技术类,2018-12-10,北京
+position_detail.php?id=45906&keywords=python&tid=0&lid=0,TEG15-智能运维算法高级工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45902&keywords=python&tid=0&lid=0,TME-腾讯音乐系统测试工程师（深圳）（专场招聘会）（深圳）,5,技术类,2018-12-10,深圳
+position_detail.php?id=45887&keywords=python&tid=0&lid=0,21882-算法工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45883&keywords=python&tid=0&lid=0,27553-腾讯音乐测试开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45866&keywords=python&tid=0&lid=0,PCG10-搜索高级算法工程师-图像方向,1,技术类,2018-12-10,深圳
+position_detail.php?id=45867&keywords=python&tid=0&lid=0,TEG11-搜索后台开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45868&keywords=python&tid=0&lid=0,CSIG02-腾讯云行业交付架构师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45844&keywords=python&tid=0&lid=0,25927-高级测试开发工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45823&keywords=python&tid=0&lid=0,22090-推荐引擎开发工程师,1,技术类,2018-12-10,北京
+position_detail.php?id=45781&keywords=python&tid=0&lid=0,23674-新闻推荐算法高级工程师（北京）,1,技术类,2018-12-10,北京
+position_detail.php?id=45765&keywords=python&tid=0&lid=0,TEG02-JAVA开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45746&keywords=python&tid=0&lid=0,PCG10-QQ浏览器大资讯高级后台开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45730&keywords=python&tid=0&lid=0,TEG11-数据挖掘研究员(深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45717&keywords=python&tid=0&lid=0,29777-金融云区块链高级研发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45720&keywords=python&tid=0&lid=0,29777-金融云区块链高级研发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45671&keywords=python&tid=0&lid=0,PCG04-后台开发工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45665&keywords=python&tid=0&lid=0,GY0-测试工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45655&keywords=python&tid=0&lid=0,CSIG16-地图众包python研发工程师,1,技术类,2018-12-10,北京
+position_detail.php?id=45653&keywords=python&tid=0&lid=0,CSIG16-道路数据融合算法高级工程师,1,技术类,2018-12-10,北京
+position_detail.php?id=45639&keywords=python&tid=0&lid=0,WXG08-122 微信搜索算法工程师PW（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=45641&keywords=python&tid=0&lid=0,TEG05-高级网络安全工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45637&keywords=python&tid=0&lid=0,WXG08-121 微信机器学习算法工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45638&keywords=python&tid=0&lid=0,WXG08-121 微信推荐数据挖掘工程师PW（广州/深圳）,1,技术类,2018-12-10,广州
+position_detail.php?id=45617&keywords=python&tid=0&lid=0,25924-营销平台测试工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45609&keywords=python&tid=0&lid=0,TEG11-数据挖掘工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45614&keywords=python&tid=0&lid=0,TEG11-语音前端工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45605&keywords=python&tid=0&lid=0,PCG04-测试开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45595&keywords=python&tid=0&lid=0,GY0-高级数据分析工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45599&keywords=python&tid=0&lid=0,CSIG15-腾讯叮当TVS后台开发高级工程师,1,技术类,2018-12-10,深圳
+position_detail.php?id=45578&keywords=python&tid=0&lid=0,TEG15-结算系统运维工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45581&keywords=python&tid=0&lid=0,TEG15-计费后台开发工程师（深圳）,3,技术类,2018-12-10,深圳
+position_detail.php?id=45576&keywords=python&tid=0&lid=0,CSIG18-高级业务运维工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45563&keywords=python&tid=0&lid=0,CSIG07-桌面安全产品部-设计中心-C++后台开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45545&keywords=python&tid=0&lid=0,TEG13-高级系统测试工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45533&keywords=python&tid=0&lid=0,22989-音频算法工程师（上海/深圳）,2,技术类,2018-12-10,上海
+position_detail.php?id=45534&keywords=python&tid=0&lid=0,22989-高级AI后台开发工程师（上海/深圳）,2,技术类,2018-12-10,上海
+position_detail.php?id=45535&keywords=python&tid=0&lid=0,22989-高级AI前端研发工程师（上海/深圳）,2,技术类,2018-12-10,上海
+position_detail.php?id=45529&keywords=python&tid=0&lid=0,22989-计算机视觉工程师（上海/深圳）,2,技术类,2018-12-10,上海
+position_detail.php?id=45530&keywords=python&tid=0&lid=0,22989-自然语言处理工程师,2,技术类,2018-12-10,上海
+position_detail.php?id=45532&keywords=python&tid=0&lid=0,22989-机器学习/数据挖掘工程师（上海/深圳）,2,技术类,2018-12-10,上海
+position_detail.php?id=45518&keywords=python&tid=0&lid=0,28603-113 微信支付智慧营销开发工程师（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=45513&keywords=python&tid=0&lid=0,WXG10-116 企业微信测试开发工程师（广州）,1,技术类,2018-12-10,广州
+position_detail.php?id=45515&keywords=python&tid=0&lid=0,28603-113 微信支付智慧营销开发工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45499&keywords=python&tid=0&lid=0,22989-腾讯云计算机视觉后台开发工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45501&keywords=python&tid=0&lid=0,27092-广告算法工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45502&keywords=python&tid=0&lid=0,CSIG16-后台开发高级工程师（架构方向）,1,技术类,2018-12-10,北京
+position_detail.php?id=45504&keywords=python&tid=0&lid=0,22989-云网络后台开发工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45493&keywords=python&tid=0&lid=0,腾讯云解决方案架构师-容器服务（上海/北京/深圳/成都）,3,技术类,2018-12-10,深圳
+position_detail.php?id=45500&keywords=python&tid=0&lid=0,27092-高级算法工程师（深圳）,2,技术类,2018-12-10,深圳
+position_detail.php?id=45488&keywords=python&tid=0&lid=0,22989-腾讯云数据库研发高级工程师(北京/深圳/成都),1,技术类,2018-12-10,深圳
+position_detail.php?id=45489&keywords=python&tid=0&lid=0,22989-腾讯云数据库研发高级工程师(北京/深圳/成都),1,技术类,2018-12-10,北京
+position_detail.php?id=45490&keywords=python&tid=0&lid=0,22989-腾讯云数据库研发高级工程师(北京/深圳/成都),1,技术类,2018-12-10,成都
+position_detail.php?id=45484&keywords=python&tid=0&lid=0,PCG04-测试开发工程师（上海）,1,技术类,2018-12-10,上海
+position_detail.php?id=45481&keywords=python&tid=0&lid=0,CSIG02-腾讯云高级后台开发工程师（昆明）,1,技术类,2018-12-10,昆明
+position_detail.php?id=45470&keywords=python&tid=0&lid=0,28607-111 微信支付高级数据分析师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45462&keywords=python&tid=0&lid=0,CSIG18-云集群运维工程师（深圳）,1,技术类,2018-12-10,深圳
+position_detail.php?id=45466&keywords=python&tid=0&lid=0,22989-云网络后台开发工程师,2,技术类,2018-12-10,深圳

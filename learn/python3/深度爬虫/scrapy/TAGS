@@ -1,0 +1,52 @@
+
+Tencent/Tencent/spiders/__init__.py,0
+
+Tencent/Tencent/spiders/tencent_hr.py,310
+import scrapyscrapy2,24
+from Tencent.items import TencentItemTencentItem4,39
+class TencentHrSpider(scrapy.Spider):TencentHrSpider6,78
+    name = 'tencent_hr'name7,116
+    offset = 0offset8,140
+    allowed_domains = ['hr.tencent.com']allowed_domains9,155
+    def parse(self, response):parse12,280
+
+Tencent/Tencent/__init__.py,0
+
+Tencent/Tencent/middlewares.py,1034
+from scrapy import signalssignals8,169
+class TencentSpiderMiddleware(object):TencentSpiderMiddleware11,198
+    def from_crawler(cls, crawler):from_crawler17,413
+    def process_spider_input(self, response, spider):process_spider_input23,628
+    def process_spider_output(self, response, result, spider):process_spider_output30,862
+    def process_spider_exception(self, response, exception, spider):process_spider_exception38,1147
+    def process_start_requests(self, start_requests, spider):process_start_requests46,1453
+    def spider_opened(self, spider):spider_opened55,1807
+class TencentDownloaderMiddleware(object):TencentDownloaderMiddleware59,1908
+    def from_crawler(cls, crawler):from_crawler65,2131
+    def process_request(self, request, spider):process_request71,2346
+    def process_response(self, request, response, spider):process_response83,2791
+    def process_exception(self, request, exception, spider):process_exception92,3072
+    def spider_opened(self, spider):spider_opened102,3500
+
+Tencent/Tencent/settings.py,244
+BOT_NAME = 'Tencent'BOT_NAME12,419
+SPIDER_MODULES = ['Tencent.spiders']SPIDER_MODULES14,441
+NEWSPIDER_MODULE = 'Tencent.spiders'NEWSPIDER_MODULE15,478
+ROBOTSTXT_OBEY = FalseROBOTSTXT_OBEY22,676
+ITEM_PIPELINES = {ITEM_PIPELINES67,2115
+
+Tencent/Tencent/items.py,390
+import scrapyscrapy8,153
+class TencentItem(scrapy.Item):TencentItem11,169
+    name = scrapy.Field()name12,201
+    detail_link = scrapy.Field()detail_link13,227
+    position_info = scrapy.Field()position_info14,260
+    people_number = scrapy.Field()people_number15,295
+    work_location = scrapy.Field()work_location16,330
+    publish_time = scrapy.Field()publish_time17,365
+
+Tencent/Tencent/pipelines.py,193
+class TencentPipeline(object):TencentPipeline9,195
+    def __init__(self):__init__10,226
+    def process_item(self, item, spider):process_item13,288
+    def __del__(self):__del__19,437

@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOT_NAME	tianyaspider/settings.py	/^BOT_NAME = 'tianyaspider'$/;"	v
+EmailSpiderItem	tianyaspider/items.py	/^class EmailSpiderItem(scrapy.Item):$/;"	c
+EmailSpiderItem	tianyaspider/spiders/tianya.py	/^from tianyaspider.items import EmailSpiderItem$/;"	i
+ITEM_PIPELINES	tianyaspider/settings.py	/^ITEM_PIPELINES = {$/;"	v
+NEWSPIDER_MODULE	tianyaspider/settings.py	/^NEWSPIDER_MODULE = 'tianyaspider.spiders'$/;"	v
+ROBOTSTXT_OBEY	tianyaspider/settings.py	/^ROBOTSTXT_OBEY = True$/;"	v
+SPIDER_MODULES	tianyaspider/settings.py	/^SPIDER_MODULES = ['tianyaspider.spiders']$/;"	v
+TianyaSpider	tianyaspider/spiders/tianya.py	/^class TianyaSpider(scrapy.Spider):$/;"	c
+TianyaspiderDownloaderMiddleware	tianyaspider/middlewares.py	/^class TianyaspiderDownloaderMiddleware(object):$/;"	c
+TianyaspiderItem	tianyaspider/items.py	/^class TianyaspiderItem(scrapy.Item):$/;"	c
+TianyaspiderPipeline	tianyaspider/pipelines.py	/^class TianyaspiderPipeline(object):$/;"	c
+TianyaspiderSpiderMiddleware	tianyaspider/middlewares.py	/^class TianyaspiderSpiderMiddleware(object):$/;"	c
+__del__	tianyaspider/pipelines.py	/^    def __del__(self):$/;"	m	class:TianyaspiderPipeline	file:
+__init__	tianyaspider/pipelines.py	/^    def __init__(self):$/;"	m	class:TianyaspiderPipeline
+allowed_domains	tianyaspider/spiders/tianya.py	/^    allowed_domains = ['tianya.com']$/;"	v	class:TianyaSpider
+cmdline	start.py	/^from scrapy import cmdline$/;"	i
+email	tianyaspider/items.py	/^    email = scrapy.Field()$/;"	v	class:EmailSpiderItem
+from_crawler	tianyaspider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:TianyaspiderDownloaderMiddleware
+from_crawler	tianyaspider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:TianyaspiderSpiderMiddleware
+name	tianyaspider/spiders/tianya.py	/^    name = 'tianya'$/;"	v	class:TianyaSpider
+parse	tianyaspider/spiders/tianya.py	/^    def parse(self, response):$/;"	m	class:TianyaSpider
+process_exception	tianyaspider/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+process_item	tianyaspider/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:TianyaspiderPipeline
+process_request	tianyaspider/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+process_response	tianyaspider/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+process_spider_exception	tianyaspider/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+process_spider_input	tianyaspider/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+process_spider_output	tianyaspider/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+process_start_requests	tianyaspider/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+re	tianyaspider/spiders/tianya.py	/^import re$/;"	i
+scrapy	tianyaspider/items.py	/^import scrapy$/;"	i
+scrapy	tianyaspider/spiders/tianya.py	/^import scrapy$/;"	i
+signals	tianyaspider/middlewares.py	/^from scrapy import signals$/;"	i
+spider_opened	tianyaspider/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+spider_opened	tianyaspider/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+start_urls	tianyaspider/spiders/tianya.py	/^    start_urls = ['http:\/\/bbs.tianya.cn\/m\/post-140-393974-1.shtml']$/;"	v	class:TianyaSpider
+url	tianyaspider/items.py	/^    url = scrapy.Field()$/;"	v	class:EmailSpiderItem

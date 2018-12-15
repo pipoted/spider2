@@ -1,0 +1,5 @@
+syn keyword CTagsImport re signals scrapy EmailSpiderItem cmdline
+syn keyword CTagsMember process_item from_crawler parse spider_opened process_exception __del__ process_response process_spider_exception process_request process_spider_input process_spider_output __init__ process_start_requests
+syn keyword CTagsGlobalVariable BOT_NAME allowed_domains NEWSPIDER_MODULE name url ITEM_PIPELINES email start_urls ROBOTSTXT_OBEY SPIDER_MODULES
+syn keyword CTagsClass TianyaspiderSpiderMiddleware TianyaspiderItem TianyaspiderDownloaderMiddleware TianyaSpider EmailSpiderItem TianyaspiderPipeline
+
