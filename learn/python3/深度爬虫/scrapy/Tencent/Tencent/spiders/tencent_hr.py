@@ -3,6 +3,7 @@ import scrapy
 
 from Tencent.items import TencentItem
 
+
 class TencentHrSpider(scrapy.Spider):
     name = 'tencent_hr'
     offset = 0
@@ -10,6 +11,7 @@ class TencentHrSpider(scrapy.Spider):
     start_urls = ['https://hr.tencent.com/position.php?keywords=python&start=0#a']
 
     def parse(self, response):
+        
         for every_data in response.xpath('//tr[@class="even"] | //tr[@class="odd"]'):
             tencent_item = TencentItem()
 
@@ -21,20 +23,10 @@ class TencentHrSpider(scrapy.Spider):
             tencent_item['publish_time'] = every_data.xpath('./td[5]/text()').extract()
 
             yield tencent_item
+            print()
 
         if self.offset < 200:
             self.offset += 10
 
         new_url = 'https://hr.tencent.com/position.php?keywords=python&start='+str(self.offset)+'#a'
         yield scrapy.Request(new_url, self.parse)
-
-        
-
-
-
-
-
-        
-
-
-

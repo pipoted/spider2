@@ -143,6 +143,7 @@ if __name__ == "__main__":
     time_thread = threading.Timer(5, save_mail)
     time_thread.start()
 
+
     BFSgo('http://bbs.tianya.cn/m/post-140-393974-1.shtml', email_queue, url_queue)
 
     # BFS('http://bbs.tianya.cn/m/post-140-393974-4.shtml')

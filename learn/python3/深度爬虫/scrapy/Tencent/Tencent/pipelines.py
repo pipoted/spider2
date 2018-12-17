@@ -17,4 +17,4 @@ class TencentPipeline(object):
         return item
 
     def __del__(self):
-        pelf.fp.close()
+        self.fp.close()

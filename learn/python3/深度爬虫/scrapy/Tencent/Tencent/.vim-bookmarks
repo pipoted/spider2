@@ -1,3 +1,3 @@
 let l:bm_file_version = 1
-let l:bm_sessions = {'default': {'/Users/xiaozhixin/.vimrc': [{'sign_idx': 9500, 'line_nr': 152, 'content': 'Plug ''terryma/vim-smooth-scroll''', 'annotation': 'plug'},{'sign_idx': 9501, 'line_nr': 340, 'content': 'let g:airline_powerline_fonts = 1', 'annotation': 'test'},],}}
+let l:bm_sessions = {'default': {'/Users/xiaozhixin/.vimrc': [{'sign_idx': 9501, 'line_nr': 350, 'content': 'let g:airline_right_alt_sep = ''''', 'annotation': 'test'},{'sign_idx': 9500, 'line_nr': 162, 'content': 'Plug ''junegunn/limelight.vim''', 'annotation': 'plug'},],}}
 let l:bm_current_session = 'default'
