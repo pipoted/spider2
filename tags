@@ -1,0 +1,1150 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^    class A:$/;"	c
+A	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^    class A:$/;"	c
+A	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^    class A:$/;"	c
+ALL_DATA	learn/python3/day04/weather_spider.py	/^ALL_DATA = []$/;"	v
+BASE_DOMAIN	电影天堂/movie_list.py	/^BASE_DOMAIN = 'https:\/\/www.dytt8.net'$/;"	v
+BFS	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def BFS(url, email_queue, url_queue):$/;"	f
+BFS	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def BFS(url):$/;"	f
+BFSgo	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def BFSgo(url: str, maemail_queue, url_queue):$/;"	f
+BFSgo	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def BFSgo(url):$/;"	f
+BMWImagesPipeline	learn/python3/day09/bmw/bmw/pipelines.py	/^class BMWImagesPipeline(ImagesPipeline):$/;"	c
+BOT_NAME	learn/python3/day09/bmw/bmw/settings.py	/^BOT_NAME = 'bmw'$/;"	v
+BOT_NAME	learn/python3/day09/douban_login/douban_login/settings.py	/^BOT_NAME = 'douban_login'$/;"	v
+BOT_NAME	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^BOT_NAME = 'qsbk_spider'$/;"	v
+BOT_NAME	learn/python3/day09/renren_login/renren_login/settings.py	/^BOT_NAME = 'renren_login'$/;"	v
+BOT_NAME	learn/python3/day09/wxapp/wxapp/settings.py	/^BOT_NAME = 'wxapp'$/;"	v
+BOT_NAME	learn/python3/day10/boss/boss/settings.py	/^BOT_NAME = 'boss'$/;"	v
+BOT_NAME	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^BOT_NAME = 'jianshu_spider'$/;"	v
+BOT_NAME	learn/python3/day11/fang/fang/settings.py	/^BOT_NAME = 'fang'$/;"	v
+BOT_NAME	learn/python3/深度爬虫/scrapy/Tencent/Tencent/settings.py	/^BOT_NAME = 'Tencent'$/;"	v
+BOT_NAME	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/settings.py	/^BOT_NAME = 'baidubaike'$/;"	v
+BOT_NAME	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/settings.py	/^BOT_NAME = 'tianyaspider'$/;"	v
+BaidubaikeDownloaderMiddleware	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^class BaidubaikeDownloaderMiddleware(object):$/;"	c
+BaidubaikeItem	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/items.py	/^class BaidubaikeItem(scrapy.Item):$/;"	c
+BaidubaikeItem	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^from baidubaike.items import BaidubaikeItem$/;"	i
+BaidubaikePipeline	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/pipelines.py	/^class BaidubaikePipeline(object):$/;"	c
+BaidubaikeSpiderMiddleware	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^class BaidubaikeSpiderMiddleware(object):$/;"	c
+BaikeSpider	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^class BaikeSpider(CrawlSpider):$/;"	c
+BaikeSpider	learn/python3/深度爬虫/scrapy/baike.py	/^class BaikeSpider(scrapy.Spider):$/;"	c
+Bar	learn/python3/day04/weather_spider.py	/^from pyecharts import Bar$/;"	i
+BeautifulSoup	learn/python3/day04/bs4_test.py	/^from bs4 import BeautifulSoup$/;"	i
+BeautifulSoup	learn/python3/day04/weather_spider.py	/^from bs4 import BeautifulSoup$/;"	i
+BeautifulSoup	learn/python3/day12/协程/project/test.py	/^from bs4 import BeautifulSoup$/;"	i
+BeautifulSoup	learn/python3/day12/协程/project/协程.py	/^from bs4 import BeautifulSoup$/;"	i
+BeautifulSoup	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^from bs4 import BeautifulSoup$/;"	i
+BeautifulSoup	learn/python3/深度爬虫/scrapy/baike.py	/^from bs4 import BeautifulSoup$/;"	i
+Bmw5Spider	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^class Bmw5Spider(scrapy.Spider):$/;"	c
+BmwDownloaderMiddleware	learn/python3/day09/bmw/bmw/middlewares.py	/^class BmwDownloaderMiddleware(object):$/;"	c
+BmwItem	learn/python3/day09/bmw/bmw/items.py	/^class BmwItem(scrapy.Item):$/;"	c
+BmwItem	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^from bmw.items import BmwItem$/;"	i
+BmwPipeline	learn/python3/day09/bmw/bmw/pipelines.py	/^class BmwPipeline(object):$/;"	c
+BmwSpiderMiddleware	learn/python3/day09/bmw/bmw/middlewares.py	/^class BmwSpiderMiddleware(object):$/;"	c
+BossItem	learn/python3/day10/boss/boss/items.py	/^class BossItem(scrapy.Item):$/;"	c
+BossItem	learn/python3/day10/boss/boss/spiders/zhiping.py	/^from boss.items import BossItem$/;"	i
+BossPipeline	learn/python3/day10/boss/boss/pipelines.py	/^class BossPipeline(object):$/;"	c
+By	learn/python3/day07/selenium_wait.py	/^from selenium.webdriver.common.by import By$/;"	i
+CodingThread	learn/python3/day06/thread_class.py	/^class CodingThread(threading.Thread):$/;"	c
+Consumer	learn/python3/day06/pc_condition.py	/^class Consumer(threading.Thread):$/;"	c
+Consumer	learn/python3/day06/produce_consumer.py	/^class Consumer(threading.Thread):$/;"	c
+Consumer	learn/python3/day07/doutu_threading.py	/^class Consumer(threading.Thread):$/;"	c
+CookieJar	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from http.cookiejar import CookieJar$/;"	i
+CrawlSpider	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^from scrapy.spiders import CrawlSpider, Rule$/;"	i
+CrawlSpider	learn/python3/day10/boss/boss/spiders/zhiping.py	/^from scrapy.spiders import CrawlSpider, Rule$/;"	i
+CrawlSpider	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^from scrapy.spiders import CrawlSpider, Rule$/;"	i
+CrawlSpider	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^from scrapy.spider import CrawlSpider, Rule$/;"	i
+DEFAULT_REQUEST_HEADERS	learn/python3/day09/bmw/bmw/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day09/douban_login/douban_login/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day09/renren_login/renren_login/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day09/wxapp/wxapp/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day10/boss/boss/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DEFAULT_REQUEST_HEADERS	learn/python3/day11/fang/fang/settings.py	/^DEFAULT_REQUEST_HEADERS = {$/;"	v
+DOWNLOADER_MIDDLEWARES	learn/python3/day10/boss/boss/settings.py	/^DOWNLOADER_MIDDLEWARES = {$/;"	v
+DOWNLOADER_MIDDLEWARES	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^DOWNLOADER_MIDDLEWARES = {$/;"	v
+DOWNLOAD_DELAY	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^DOWNLOAD_DELAY = 1$/;"	v
+DOWNLOAD_DELAY	learn/python3/day09/renren_login/renren_login/settings.py	/^DOWNLOAD_DELAY = 1$/;"	v
+DOWNLOAD_DELAY	learn/python3/day09/wxapp/wxapp/settings.py	/^DOWNLOAD_DELAY = 1$/;"	v
+DOWNLOAD_DELAY	learn/python3/day11/fang/fang/settings.py	/^DOWNLOAD_DELAY = 3$/;"	v
+Dict	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^from typing import Dict$/;"	i
+Dict	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^from typing import Dict$/;"	i
+Dict	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^from typing import Dict$/;"	i
+DoubanLoginDownloaderMiddleware	learn/python3/day09/douban_login/douban_login/middlewares.py	/^class DoubanLoginDownloaderMiddleware(object):$/;"	c
+DoubanLoginItem	learn/python3/day09/douban_login/douban_login/items.py	/^class DoubanLoginItem(scrapy.Item):$/;"	c
+DoubanLoginPipeline	learn/python3/day09/douban_login/douban_login/pipelines.py	/^class DoubanLoginPipeline(object):$/;"	c
+DoubanLoginSpiderMiddleware	learn/python3/day09/douban_login/douban_login/middlewares.py	/^class DoubanLoginSpiderMiddleware(object):$/;"	c
+DoubanSpider	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^class DoubanSpider(scrapy.Spider):$/;"	c
+DrawingThread	learn/python3/day06/thread_class.py	/^class DrawingThread(threading.Thread):$/;"	c
+EC	learn/python3/day07/selenium_wait.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	i
+ESFHouseItem	learn/python3/day11/fang/fang/items.py	/^class ESFHouseItem(scrapy.Item):$/;"	c
+ESFHouseItem	learn/python3/day11/fang/fang/spiders/sfw.py	/^from fang.items import ESFHouseItem$/;"	i
+EmailSpiderItem	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/items.py	/^class EmailSpiderItem(scrapy.Item):$/;"	c
+EmailSpiderItem	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^from tianyaspider.items import EmailSpiderItem$/;"	i
+FangDownloaderMiddleware	learn/python3/day11/fang/fang/middlewares.py	/^class FangDownloaderMiddleware(object):$/;"	c
+FangPipeline	learn/python3/day11/fang/fang/pipelines.py	/^class FangPipeline(object):$/;"	c
+FangSpiderMiddleware	learn/python3/day11/fang/fang/middlewares.py	/^class FangSpiderMiddleware(object):$/;"	c
+G_CONDITION	learn/python3/day06/pc_condition.py	/^G_CONDITION = threading.Condition()$/;"	v
+G_LOCK	learn/python3/day06/produce_consumer.py	/^G_LOCK = threading.Lock()$/;"	v
+G_MONEY	learn/python3/day06/pc_condition.py	/^G_MONEY = 1000$/;"	v
+G_MONEY	learn/python3/day06/produce_consumer.py	/^G_MONEY = 1000$/;"	v
+G_TIMES	learn/python3/day06/pc_condition.py	/^G_TIMES = 0$/;"	v
+G_TIMES	learn/python3/day06/produce_consumer.py	/^G_TIMES = 0$/;"	v
+G_TOTAL_TIMES	learn/python3/day06/pc_condition.py	/^G_TOTAL_TIMES = 10$/;"	v
+G_TOTAL_TIMES	learn/python3/day06/produce_consumer.py	/^G_TOTAL_TIMES = 10$/;"	v
+HEADERS	learn/python3/day07/selenium_lagou.py	/^HEADERS = {$/;"	v
+HEADERS	电影天堂/movie_list.py	/^HEADERS = {$/;"	v
+HtmlResponse	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^from scrapy.http.response.html import HtmlResponse$/;"	i
+IMAGES_STORE	learn/python3/day09/bmw/bmw/settings.py	/^IMAGES_STORE = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'images')$/;"	v
+IPProxyDownloadMiddleware	learn/python3/day10/boss/boss/middlewares.py	/^class IPProxyDownloadMiddleware(object):$/;"	c
+ITEM_PIPELINES	learn/python3/day09/bmw/bmw/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/day09/renren_login/renren_login/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/day09/wxapp/wxapp/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/day10/boss/boss/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/day11/fang/fang/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/深度爬虫/scrapy/Tencent/Tencent/settings.py	/^ITEM_PIPELINES = {$/;"	v
+ITEM_PIPELINES	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/settings.py	/^ITEM_PIPELINES = {$/;"	v
+Image	learn/python3/day08/lagou_yanzhen.py	/^from PIL import Image$/;"	i
+Image	learn/python3/day08/pytesseract_test.py	/^from PIL import Image$/;"	i
+Image	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^from PIL import Image$/;"	i
+Image	learn/python3/图形处理/验证码生成.py	/^from PIL import Image$/;"	i
+ImageDraw	learn/python3/图形处理/验证码生成.py	/^from PIL import ImageDraw$/;"	i
+ImagesPipeline	learn/python3/day09/bmw/bmw/pipelines.py	/^from scrapy.pipelines.images import ImagesPipeline$/;"	i
+JianshuSpiderItem	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^class JianshuSpiderItem(scrapy.Item):$/;"	c
+JianshuSpiderItem	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^from jianshu_spider.items import JianshuSpiderItem$/;"	i
+JianshuTwistedPipeline	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^class JianshuTwistedPipeline(object):$/;"	c
+JsSpider	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^class JsSpider(CrawlSpider):$/;"	c
+JsonItemExporter	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^from scrapy.exporters import JsonItemExporter, JsonLinesItemExporter$/;"	i
+JsonLinesItemExporter	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^from scrapy.exporters import JsonItemExporter, JsonLinesItemExporter$/;"	i
+JsonLinesItemExporter	learn/python3/day09/wxapp/wxapp/pipelines.py	/^from scrapy.exporters import JsonLinesItemExporter$/;"	i
+JsonLinesItemExporter	learn/python3/day10/boss/boss/pipelines.py	/^from scrapy.exporters import JsonLinesItemExporter$/;"	i
+JsonLinesItemExporter	learn/python3/day11/fang/fang/pipelines.py	/^from scrapy.exporters import JsonLinesItemExporter$/;"	i
+LinkExtractor	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^from scrapy.linkextractors import LinkExtractor$/;"	i
+LinkExtractor	learn/python3/day10/boss/boss/spiders/zhiping.py	/^from scrapy.linkextractors import LinkExtractor$/;"	i
+LinkExtractor	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^from scrapy.linkextractors import LinkExtractor$/;"	i
+LinkExtractor	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^from scrapy.linkextractor import LinkExtractor$/;"	i
+MozillaCookieJar	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^from http.cookiejar import MozillaCookieJar$/;"	i
+NEWSPIDER_MODULE	learn/python3/day09/bmw/bmw/settings.py	/^NEWSPIDER_MODULE = 'bmw.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day09/douban_login/douban_login/settings.py	/^NEWSPIDER_MODULE = 'douban_login.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^NEWSPIDER_MODULE = 'qsbk_spider.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day09/renren_login/renren_login/settings.py	/^NEWSPIDER_MODULE = 'renren_login.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day09/wxapp/wxapp/settings.py	/^NEWSPIDER_MODULE = 'wxapp.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day10/boss/boss/settings.py	/^NEWSPIDER_MODULE = 'boss.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^NEWSPIDER_MODULE = 'jianshu_spider.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/day11/fang/fang/settings.py	/^NEWSPIDER_MODULE = 'fang.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/深度爬虫/scrapy/Tencent/Tencent/settings.py	/^NEWSPIDER_MODULE = 'Tencent.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/settings.py	/^NEWSPIDER_MODULE = 'baidubaike.spiders'$/;"	v
+NEWSPIDER_MODULE	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/settings.py	/^NEWSPIDER_MODULE = 'tianyaspider.spiders'$/;"	v
+NewHouseItem	learn/python3/day11/fang/fang/items.py	/^class NewHouseItem(scrapy.Item):$/;"	c
+NewHouseItem	learn/python3/day11/fang/fang/spiders/sfw.py	/^from fang.items import NewHouseItem$/;"	i
+PIL	learn/python3/图形处理/验证码生成.py	/^import PIL$/;"	i
+PROXY_LIST	learn/python3/day10/boss/boss/middlewares.py	/^    PROXY_LIST = ['202.104.113.35:53281', '221.210.120.153:54402', '124.235.135.87:80', '222.171.251.43:40149',$/;"	v	class:IPProxyDownloadMiddleware
+Person	learn/python3/day05/json_test.py	/^class Person(object):$/;"	c
+Producer	learn/python3/day06/pc_condition.py	/^class Producer(threading.Thread):$/;"	c
+Producer	learn/python3/day06/produce_consumer.py	/^class Producer(threading.Thread):$/;"	c
+Producer	learn/python3/day07/doutu_threading.py	/^class Producer(threading.Thread):$/;"	c
+QsbkSpider	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^class QsbkSpider(scrapy.Spider):$/;"	c
+QsbkSpiderDownloaderMiddleware	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^class QsbkSpiderDownloaderMiddleware(object):$/;"	c
+QsbkSpiderItem	learn/python3/day09/qsbk_spider/qsbk_spider/items.py	/^class QsbkSpiderItem(scrapy.Item):$/;"	c
+QsbkSpiderItem	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^from qsbk_spider.items import QsbkSpiderItem$/;"	i
+QsbkSpiderPipeline	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^class QsbkSpiderPipeline(object):$/;"	c
+QsbkSpiderSpiderMiddleware	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^class QsbkSpiderSpiderMiddleware(object):$/;"	c
+Queue	learn/python3/day07/doutu_threading.py	/^from queue import Queue$/;"	i
+Queue	learn/python3/day07/queue_test.py	/^from queue import Queue$/;"	i
+Queue	learn/python3/分布式/分布式控制模型/server.py	/^from queue import Queue$/;"	i
+Queue	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^from queue import Queue$/;"	i
+ROBOTSTXT_OBEY	learn/python3/day09/bmw/bmw/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day09/douban_login/douban_login/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day09/renren_login/renren_login/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day09/wxapp/wxapp/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day10/boss/boss/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/day11/fang/fang/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/深度爬虫/scrapy/Tencent/Tencent/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/settings.py	/^ROBOTSTXT_OBEY = False$/;"	v
+ROBOTSTXT_OBEY	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/settings.py	/^ROBOTSTXT_OBEY = True$/;"	v
+RenrenLoginDownloaderMiddleware	learn/python3/day09/renren_login/renren_login/middlewares.py	/^class RenrenLoginDownloaderMiddleware(object):$/;"	c
+RenrenLoginItem	learn/python3/day09/renren_login/renren_login/items.py	/^class RenrenLoginItem(scrapy.Item):$/;"	c
+RenrenLoginPipeline	learn/python3/day09/renren_login/renren_login/pipelines.py	/^class RenrenLoginPipeline(object):$/;"	c
+RenrenLoginSpiderMiddleware	learn/python3/day09/renren_login/renren_login/middlewares.py	/^class RenrenLoginSpiderMiddleware(object):$/;"	c
+RenrenSpider	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^class RenrenSpider(scrapy.Spider):$/;"	c
+Rule	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^from scrapy.spiders import CrawlSpider, Rule$/;"	i
+Rule	learn/python3/day10/boss/boss/spiders/zhiping.py	/^from scrapy.spiders import CrawlSpider, Rule$/;"	i
+Rule	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^from scrapy.spiders import CrawlSpider, Rule$/;"	i
+Rule	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^from scrapy.spider import CrawlSpider, Rule$/;"	i
+SPIDER_MODULES	learn/python3/day09/bmw/bmw/settings.py	/^SPIDER_MODULES = ['bmw.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day09/douban_login/douban_login/settings.py	/^SPIDER_MODULES = ['douban_login.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day09/qsbk_spider/qsbk_spider/settings.py	/^SPIDER_MODULES = ['qsbk_spider.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day09/renren_login/renren_login/settings.py	/^SPIDER_MODULES = ['renren_login.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day09/wxapp/wxapp/settings.py	/^SPIDER_MODULES = ['wxapp.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day10/boss/boss/settings.py	/^SPIDER_MODULES = ['boss.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day10/jianshu_spider/jianshu_spider/settings.py	/^SPIDER_MODULES = ['jianshu_spider.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/day11/fang/fang/settings.py	/^SPIDER_MODULES = ['fang.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/深度爬虫/scrapy/Tencent/Tencent/settings.py	/^SPIDER_MODULES = ['Tencent.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/settings.py	/^SPIDER_MODULES = ['baidubaike.spiders']$/;"	v
+SPIDER_MODULES	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/settings.py	/^SPIDER_MODULES = ['tianyaspider.spiders']$/;"	v
+SeleniumDownloadMiddleware	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^class SeleniumDownloadMiddleware(object):$/;"	c
+SetEncoder	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^class SetEncoder(json.JSONEncoder):$/;"	c
+SetEncoder	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^class SetEncoder(json.JSONEncoder):$/;"	c
+SetEncoder	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^class SetEncoder(json.JSONEncoder):$/;"	c
+SfwSpider	learn/python3/day11/fang/fang/spiders/sfw.py	/^class SfwSpider(scrapy.Spider):$/;"	c
+TencentDownloaderMiddleware	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^class TencentDownloaderMiddleware(object):$/;"	c
+TencentHrSpider	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^class TencentHrSpider(scrapy.Spider):$/;"	c
+TencentItem	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^class TencentItem(scrapy.Item):$/;"	c
+TencentItem	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^from Tencent.items import TencentItem$/;"	i
+TencentPipeline	learn/python3/深度爬虫/scrapy/Tencent/Tencent/pipelines.py	/^class TencentPipeline(object):$/;"	c
+TencentSpiderMiddleware	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^class TencentSpiderMiddleware(object):$/;"	c
+TianyaSpider	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^class TianyaSpider(scrapy.Spider):$/;"	c
+TianyaspiderDownloaderMiddleware	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^class TianyaspiderDownloaderMiddleware(object):$/;"	c
+TianyaspiderItem	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/items.py	/^class TianyaspiderItem(scrapy.Item):$/;"	c
+TianyaspiderPipeline	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/pipelines.py	/^class TianyaspiderPipeline(object):$/;"	c
+TianyaspiderSpiderMiddleware	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^class TianyaspiderSpiderMiddleware(object):$/;"	c
+URL	learn/python3/day12/协程/project/get.py	/^URL = 'http:\/\/www.hshfy.sh.cn\/shfy\/gweb2017\/channel_zx_list.jsp?'$/;"	v
+URL	learn/python3/day12/协程/project/协程.py	/^URL = 'http:\/\/www.hshfy.sh.cn\/shfy\/gweb2017\/ktgg_search.jsp?'$/;"	v
+USER_AGENT	learn/python3/day10/boss/boss/middlewares.py	/^    USER_AGENT = [$/;"	v	class:UserAgentDownloadMiddleware
+UserAgentDownloadMiddleware	learn/python3/day10/boss/boss/middlewares.py	/^class UserAgentDownloadMiddleware(object):$/;"	c
+VALUE	learn/python3/day06/threading_lock.py	/^VALUE = 0$/;"	v
+WebDriverWait	learn/python3/day07/selenium_wait.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	i
+WxappDownloaderMiddleware	learn/python3/day09/wxapp/wxapp/middlewares.py	/^class WxappDownloaderMiddleware(object):$/;"	c
+WxappItem	learn/python3/day09/wxapp/wxapp/items.py	/^class WxappItem(scrapy.Item):$/;"	c
+WxappItem	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^from wxapp.items import WxappItem$/;"	i
+WxappPipeline	learn/python3/day09/wxapp/wxapp/pipelines.py	/^class WxappPipeline(object):$/;"	c
+WxappSpiderMiddleware	learn/python3/day09/wxapp/wxapp/middlewares.py	/^class WxappSpiderMiddleware(object):$/;"	c
+WxappSpiderSpider	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^class WxappSpiderSpider(CrawlSpider):$/;"	c
+ZhipingSpider	learn/python3/day10/boss/boss/spiders/zhiping.py	/^class ZhipingSpider(CrawlSpider):$/;"	c
+__author__	learn/python3/day09/bmw/bmw/start.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day10/boss/boss/start.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day10/jianshu_spider/start.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day11/fang/start.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day12/协程/download.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day12/协程/project/get.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day12/协程/project/test.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day12/协程/project/协程.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day12/协程/test.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/day12/协程/xiecheng_test.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/分布式/分布式控制模型/client.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/分布式/分布式控制模型/server.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/图形处理/验证码生成.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/深度爬虫/进程与线程/进程池锁定.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/深度爬虫/进程与线程/进程锁定barrier.py	/^__author__ = 'xiao'$/;"	v
+__author__	learn/python3/阳光问政/parse_url.py	/^__author__ = 'xiao'$/;"	v
+__date__	learn/python3/day09/bmw/bmw/start.py	/^__date__ = '2018\/11\/27 12:15 PM'$/;"	v
+__date__	learn/python3/day10/boss/boss/start.py	/^__date__ = '2018-11-28 16:16'$/;"	v
+__date__	learn/python3/day10/jianshu_spider/start.py	/^__date__ = '2018-11-29 09:49'$/;"	v
+__date__	learn/python3/day11/fang/start.py	/^__date__ = '2018-12-01 11:25'$/;"	v
+__date__	learn/python3/day12/协程/download.py	/^__date__ = '2018-12-03 13:34'$/;"	v
+__date__	learn/python3/day12/协程/project/get.py	/^__date__ = '2018-12-03 20:58'$/;"	v
+__date__	learn/python3/day12/协程/project/test.py	/^__date__ = '2018-12-04 09:56'$/;"	v
+__date__	learn/python3/day12/协程/project/协程.py	/^__date__ = '2018-12-04 11:20'$/;"	v
+__date__	learn/python3/day12/协程/test.py	/^__date__ = '2018-12-03 13:02'$/;"	v
+__date__	learn/python3/day12/协程/xiecheng_test.py	/^__date__ = '2018-12-03 12:52'$/;"	v
+__date__	learn/python3/分布式/分布式控制模型/client.py	/^__date__ = '2018-12-04 15:07'/;"	v
+__date__	learn/python3/分布式/分布式控制模型/server.py	/^__date__ = '2018-12-04 15:07'$/;"	v
+__date__	learn/python3/图形处理/验证码生成.py	/^__date__ = '2018-12-04 15:28'$/;"	v
+__date__	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^__date__ = '2018-12-05 11:26'$/;"	v
+__date__	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^__date__ = '2018-12-04 16:01'$/;"	v
+__date__	learn/python3/深度爬虫/进程与线程/进程池锁定.py	/^__date__ = '2018-12-04 16:01'$/;"	v
+__date__	learn/python3/深度爬虫/进程与线程/进程锁定barrier.py	/^__date__ = '2018-12-04 16:23'$/;"	v
+__date__	learn/python3/阳光问政/parse_url.py	/^__date__ = '2018-12-04 11:58'$/;"	v
+__del__	learn/python3/深度爬虫/scrapy/Tencent/Tencent/pipelines.py	/^    def __del__(self):$/;"	m	class:TencentPipeline	file:
+__del__	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/pipelines.py	/^    def __del__(self):$/;"	m	class:TianyaspiderPipeline	file:
+__init__	learn/python3/day07/doutu_threading.py	/^    def __init__(self, page_queue, img_queue,  *args, **kwargs):$/;"	m	class:Producer
+__init__	learn/python3/day07/doutu_threading.py	/^    def __init__(self, page_queue, img_queue, *args, **kwargs):$/;"	m	class:Consumer
+__init__	learn/python3/day09/bmw/bmw/pipelines.py	/^    def __init__(self):$/;"	m	class:BmwPipeline
+__init__	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^    def __init__(self):$/;"	m	class:QsbkSpiderPipeline
+__init__	learn/python3/day09/wxapp/wxapp/pipelines.py	/^    def __init__(self):$/;"	m	class:WxappPipeline
+__init__	learn/python3/day10/boss/boss/pipelines.py	/^    def __init__(self) -> None:$/;"	m	class:BossPipeline
+__init__	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^    def __init__(self) -> None:$/;"	m	class:SeleniumDownloadMiddleware
+__init__	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^    def __init__(self) -> None:$/;"	m	class:JianshuTwistedPipeline
+__init__	learn/python3/day11/fang/fang/pipelines.py	/^    def __init__(self) -> None:$/;"	m	class:FangPipeline
+__init__	learn/python3/深度爬虫/scrapy/Tencent/Tencent/pipelines.py	/^    def __init__(self):$/;"	m	class:TencentPipeline
+__init__	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/pipelines.py	/^    def __init__(self):$/;"	m	class:TianyaspiderPipeline
+a	learn/python3/day03/数据提取/xpath/tenxun.html	/^    	<a name="a" id="a"><\/a>$/;"	a
+a	learn/python3/day04/tencent.html	/^  <a id="a" name="a">$/;"	a
+a	learn/python3/day05/json_test.py	/^a = {$/;"	v
+a	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^    a = A()$/;"	v
+a	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^    a = A()$/;"	v
+a	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^    a = A()$/;"	v
+a_list	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^a_list = html.xpath('\/\/a\/@href')$/;"	v
+actors	豆瓣/douban_spider.py	/^    actors = li.xpath('@data-actors')$/;"	v
+adbapi	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^from twisted.enterprise import adbapi$/;"	i
+add_value	learn/python3/day06/threading_lock.py	/^def add_value():$/;"	f
+address	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    address = tr.xpath('.\/td[4]\/text()')$/;"	v
+address	learn/python3/day11/fang/fang/items.py	/^    address = scrapy.Field()$/;"	v	class:ESFHouseItem
+address	learn/python3/day11/fang/fang/items.py	/^    address = scrapy.Field()$/;"	v	class:NewHouseItem
+age	learn/python3/day05/pymysql_insert.py	/^age = 21$/;"	v
+allowed_domains	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^    allowed_domains = ['car.autohome.com.cn']$/;"	v	class:Bmw5Spider
+allowed_domains	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    allowed_domains = ['douban.com']$/;"	v	class:DoubanSpider
+allowed_domains	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^    allowed_domains = ['qiushibaike.com']$/;"	v	class:QsbkSpider
+allowed_domains	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^    allowed_domains = ['renren.com']$/;"	v	class:RenrenSpider
+allowed_domains	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^    allowed_domains = ['wxapp-union.com']$/;"	v	class:WxappSpiderSpider
+allowed_domains	learn/python3/day10/boss/boss/spiders/zhiping.py	/^    allowed_domains = ['zhipin.com']$/;"	v	class:ZhipingSpider
+allowed_domains	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^    allowed_domains = ['jianshu.com']$/;"	v	class:JsSpider
+allowed_domains	learn/python3/day11/fang/fang/spiders/sfw.py	/^    allowed_domains = ['fang.com']$/;"	v	class:SfwSpider
+allowed_domains	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^    allowed_domains = ['hr.tencent.com']$/;"	v	class:TencentHrSpider
+allowed_domains	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    allowed_domains = ['baike.baidu.com']$/;"	v	class:BaikeSpider
+allowed_domains	learn/python3/深度爬虫/scrapy/baike.py	/^    allowed_domains = ['baike.baidu.com']$/;"	v	class:BaikeSpider
+allowed_domains	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^    allowed_domains = ['tianya.com']$/;"	v	class:TianyaSpider
+area	learn/python3/day11/fang/fang/items.py	/^    area = scrapy.Field()$/;"	v	class:ESFHouseItem
+article_id	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    article_id = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+author	learn/python3/day09/qsbk_spider/qsbk_spider/items.py	/^    author = scrapy.Field()$/;"	v	class:QsbkSpiderItem
+author	learn/python3/day09/wxapp/wxapp/items.py	/^    author = scrapy.Field()$/;"	v	class:WxappItem
+author	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    author = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+autodocparameters	learn/python3/深度爬虫/scrapy/baike.py	/^import autodocparameters$/;"	i
+avatar	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    avatar = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+ba_name	learn/python3/tieba.py	/^ba_name = input('吧名:')$/;"	v
+base_domain	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^    base_domain = 'https:\/\/www.qiushibaike.com'$/;"	v	class:QsbkSpider
+callback	learn/python3/day11/fang/fang/spiders/sfw.py	/^from _cffi_backend import callback$/;"	i
+category	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    category = tr.xpath('.\/td[2]\/text()')$/;"	v
+category	learn/python3/day09/bmw/bmw/items.py	/^    category = scrapy.Field()$/;"	v	class:BmwItem
+changeWindowSize	learn/python3/day09/douban_login/douban_login.html	/^ function changeWindowSize(){var e=document.documentElement,n=document.getElementById("header").offsetHeight+document.getElementById("content").offsetHeight+document.getElementById("side-nav").offsetHeight;e.offsetWidth<=500||e.offsetHeight<=n?(changeWindowSize.changed||(window.resizeTo(500,n),changeWindowSize.changed=!0),e.className="narrow-layout",resizeEvent(!0)):(e.className="",resizeEvent(!1))}function resizeEvent(e){return e?void(window.onresize=function(){var e;return function(){e&&window.clearTimeout(e),e=window.setTimeout(changeWindowSize,100)}}()):void(window.onresize=null)}$/;"	f
+city	learn/python3/ajax_post.py	/^city = input('城市：')$/;"	v
+city	learn/python3/day10/boss/boss/items.py	/^    city = scrapy.Field()$/;"	v	class:BossItem
+city	learn/python3/day11/fang/fang/items.py	/^    city = scrapy.Field()$/;"	v	class:ESFHouseItem
+city	learn/python3/day11/fang/fang/items.py	/^    city = scrapy.Field()$/;"	v	class:NewHouseItem
+client	learn/python3/day06/pymongo_test.py	/^client = pymongo.MongoClient('127.0.0.1', port=27017)$/;"	v
+close_spider	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^    def close_spider(self, spider):$/;"	m	class:QsbkSpiderPipeline
+close_spider	learn/python3/day09/wxapp/wxapp/pipelines.py	/^    def close_spider(self, spider):$/;"	m	class:WxappPipeline
+close_spider	learn/python3/day10/boss/boss/pipelines.py	/^    def close_spider(self, spider):$/;"	m	class:BossPipeline
+close_spider	learn/python3/day11/fang/fang/pipelines.py	/^    def close_spider(self, spider):$/;"	m	class:FangPipeline
+cmdline	learn/python3/day09/bmw/bmw/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/day09/douban_login/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/day09/qsbk_spider/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/day09/renren_login/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/day10/boss/boss/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/day10/jianshu_spider/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/day11/fang/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/深度爬虫/scrapy/baidubaike/start.py	/^from scrapy import cmdline$/;"	i
+cmdline	learn/python3/深度爬虫/scrapy/tianyaspider/start.py	/^from scrapy import cmdline$/;"	i
+coding	learn/python3/day06/threading_normal.py	/^def coding():$/;"	f
+collection	learn/python3/day06/pymongo_test.py	/^collection = db.qa$/;"	v
+comment_count	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    comment_count = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+company	learn/python3/day10/boss/boss/items.py	/^    company = scrapy.Field()$/;"	v	class:BossItem
+conn	learn/python3/day05/pymysql_delete.py	/^conn = pymysql.connect($/;"	v
+conn	learn/python3/day05/pymysql_insert.py	/^conn = pymysql.connect($/;"	v
+conn	learn/python3/day05/pymysql_search.py	/^conn = pymysql.connect($/;"	v
+conn	learn/python3/day05/pymysql_test.py	/^conn = pymysql.connect($/;"	v
+content	learn/python3/day09/qsbk_spider/qsbk_spider/items.py	/^    content = scrapy.Field()$/;"	v	class:QsbkSpiderItem
+content	learn/python3/day09/wxapp/wxapp/items.py	/^    content = scrapy.Field()$/;"	v	class:WxappItem
+content	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    content = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+content	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/items.py	/^    content = scrapy.Field()$/;"	v	class:BaidubaikeItem
+cookiejar	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^cookiejar = MozillaCookieJar('cookies.txt')$/;"	v
+cookiejar	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^cookiejar = CookieJar()$/;"	v
+country	learn/python3/day05/json_test.py	/^    country = 'china'$/;"	v	class:Person
+crc32	北京.html	/^    function crc32 (str) {$/;"	f
+csv	learn/python3/day05/csv_test.py	/^import csv$/;"	i
+csv	learn/python3/day05/csv_write.py	/^import csv$/;"	i
+cursor	learn/python3/day05/pymysql_delete.py	/^cursor = conn.cursor()$/;"	v
+cursor	learn/python3/day05/pymysql_insert.py	/^cursor = conn.cursor()$/;"	v
+cursor	learn/python3/day05/pymysql_search.py	/^cursor = conn.cursor()$/;"	v
+cursor	learn/python3/day05/pymysql_test.py	/^cursor = conn.cursor()$/;"	v
+cursors	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^from pymysql import cursors$/;"	i
+data	learn/python3/ajax_get.py	/^data = {$/;"	v
+data	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^data = parse.urlencode(data).encode()$/;"	v
+data	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^data = {$/;"	v
+data	learn/python3/day02/request/request_pose_lagou.py	/^data = {$/;"	v
+data	learn/python3/day02/request/session_renren.py	/^data = {$/;"	v
+data	learn/python3/get.py	/^data = {$/;"	v
+data	learn/python3/tieba.py	/^    data = urllib.parse.urlencode(data)$/;"	v
+data	learn/python3/tieba.py	/^    data = {$/;"	v
+data	learn/python3/urlencode.py	/^data = {$/;"	v
+database	learn/python3/day05/pymysql_delete.py	/^    database='spider',$/;"	v
+database	learn/python3/day05/pymysql_insert.py	/^    database='spider',$/;"	v
+database	learn/python3/day05/pymysql_search.py	/^    database='spider',$/;"	v
+database	learn/python3/day05/pymysql_test.py	/^    database='spider',$/;"	v
+db	learn/python3/day06/pymongo_test.py	/^db = client.zhihu$/;"	v
+default	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^    def default(self, obj):$/;"	m	class:SetEncoder
+default	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^    def default(self, obj):$/;"	m	class:SetEncoder
+default	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^    def default(self, obj):$/;"	m	class:SetEncoder
+detail_link	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^    detail_link = scrapy.Field()$/;"	v	class:TencentItem
+director	豆瓣/douban_spider.py	/^    director = li.xpath('@data-director')$/;"	v
+div	豆瓣/douban_showing_soon.py	/^div = html.xpath('\/\/*[@id="showing-soon"]')[0]$/;"	v
+divs	豆瓣/douban_showing_soon.py	/^divs = div.xpath('\/\/div[@class="item mod "]')$/;"	v
+divs_odd	豆瓣/douban_showing_soon.py	/^divs_odd = div.xpath('\/\/div[@class="item mod odd"]')$/;"	v
+download	learn/python3/day12/协程/download.py	/^def download(url: str):$/;"	f
+download	learn/python3/day12/协程/project/协程.py	/^def download(url, start, end, file):$/;"	f
+draw	learn/python3/day06/threading_normal.py	/^def draw():$/;"	f
+draw	learn/python3/图形处理/验证码生成.py	/^draw = ImageDraw.Draw(image, mode='RGB')$/;"	v
+driver	learn/python3/day07/proxy_selenium.py	/^driver = webdriver.Chrome(chrome_options=options)$/;"	v
+driver	learn/python3/day07/selenium_chromedriver.py	/^driver = webdriver.Chrome()$/;"	v
+driver	learn/python3/day07/selenium_cookies.py	/^driver = webdriver.Chrome()$/;"	v
+driver	learn/python3/day07/selenium_demo02.py	/^driver = webdriver.Chrome()$/;"	v
+driver	learn/python3/day07/selenium_tab.py	/^driver = webdriver.Chrome()$/;"	v
+driver	learn/python3/day07/selenium_wait.py	/^driver = webdriver.Chrome()$/;"	v
+driver	learn/python3/day12/协程/project/test.py	/^driver = webdriver.Chrome()$/;"	v
+duration	豆瓣/douban_spider.py	/^    duration = li.xpath('@data-duration')$/;"	v
+edit_signture_url	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    edit_signture_url = 'https:\/\/www.douban.com\/j\/people\/187855075\/edit_signature'$/;"	v	class:DoubanSpider
+education	learn/python3/day10/boss/boss/items.py	/^    education = scrapy.Field()$/;"	v	class:BossItem
+element	learn/python3/day07/selenium_wait.py	/^element = WebDriverWait(driver, 5).until($/;"	v
+email	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/items.py	/^    email = scrapy.Field()$/;"	v	class:EmailSpiderItem
+email_queue	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^    email_queue = multiprocessing.managers.queue()$/;"	v
+email_queue	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^email_queue = Queue()$/;"	v
+end_page	learn/python3/tieba.py	/^end_page = int(input('结束页码:'))$/;"	v
+error	learn/python3/error.py	/^import urllib.error$/;"	i
+etree	learn/python3/day03/数据提取/xpath/lxml_test.py	/^from lxml import etree$/;"	i
+etree	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^from lxml import etree$/;"	i
+etree	learn/python3/day07/doutu_spider.py	/^from lxml import etree$/;"	i
+etree	learn/python3/day07/doutu_threading.py	/^from lxml import etree$/;"	i
+etree	learn/python3/day07/selenium_lagou.py	/^from lxml import etree$/;"	i
+etree	learn/python3/阳光问政/parse_url.py	/^from lxml import etree$/;"	i
+etree	tencent/hr/tencent_hr.py	/^from lxml import etree$/;"	i
+etree	电影天堂/movie_list.py	/^from lxml import etree$/;"	i
+etree	豆瓣/douban_showing_soon.py	/^from lxml import etree$/;"	i
+etree	豆瓣/douban_spider.py	/^from lxml import etree$/;"	i
+experience	learn/python3/day10/boss/boss/items.py	/^    experience = scrapy.Field()$/;"	v	class:BossItem
+f	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^        def f(self, a, b):$/;"	m	class:.A
+f	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^        def f(self, a, b):$/;"	m	class:.A
+f	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^        def f(self, a, b):$/;"	m	class:.A
+fail_ie7	北京.html	/^    function fail_ie7(){$/;"	f
+file	learn/python3/day12/协程/project/协程.py	/^file = open('save.txt', 'wb')$/;"	v
+file_path	learn/python3/day09/bmw/bmw/pipelines.py	/^    def file_path(self, request, response=None, info=None):$/;"	m	class:BMWImagesPipeline
+filename	learn/python3/get.py	/^filename = word + '.html'$/;"	v
+filename	learn/python3/tieba.py	/^    filename = ba_name + '_' + str(page) + '.html'  # 拼接文件名$/;"	v
+filepath	learn/python3/tieba.py	/^    filepath = ba_name + '\/' + filename  # 拼接文件路径$/;"	v
+filter	北京.html	/^            function filter(img){$/;"	f
+floor	learn/python3/day11/fang/fang/items.py	/^    floor = scrapy.Field()$/;"	v	class:ESFHouseItem
+follow	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^             follow=True),$/;"	v	class:WxappSpiderSpider
+form_data	learn/python3/ajax_post.py	/^form_data = urllib.parse.urlencode(form_data).encode()$/;"	v
+form_data	learn/python3/ajax_post.py	/^form_data = {$/;"	v
+form_data	learn/python3/day01/urllib_learn/lagou_request.py	/^form_data = parse.urlencode(form_data).encode()$/;"	v
+form_data	learn/python3/day01/urllib_learn/lagou_request.py	/^form_data = {$/;"	v
+form_data	learn/python3/post_test.py	/^form_data = urllib.parse.urlencode(form_data).encode()$/;"	v
+form_data	learn/python3/post_test.py	/^form_data = {$/;"	v
+from_crawler	learn/python3/day09/bmw/bmw/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:BmwDownloaderMiddleware
+from_crawler	learn/python3/day09/bmw/bmw/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:BmwSpiderMiddleware
+from_crawler	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:DoubanLoginDownloaderMiddleware
+from_crawler	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:DoubanLoginSpiderMiddleware
+from_crawler	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:QsbkSpiderDownloaderMiddleware
+from_crawler	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:QsbkSpiderSpiderMiddleware
+from_crawler	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:RenrenLoginDownloaderMiddleware
+from_crawler	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:RenrenLoginSpiderMiddleware
+from_crawler	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:WxappDownloaderMiddleware
+from_crawler	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:WxappSpiderMiddleware
+from_crawler	learn/python3/day11/fang/fang/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:FangDownloaderMiddleware
+from_crawler	learn/python3/day11/fang/fang/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:FangSpiderMiddleware
+from_crawler	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:TencentDownloaderMiddleware
+from_crawler	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:TencentSpiderMiddleware
+from_crawler	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:BaidubaikeDownloaderMiddleware
+from_crawler	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:BaidubaikeSpiderMiddleware
+from_crawler	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:TianyaspiderDownloaderMiddleware
+from_crawler	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def from_crawler(cls, crawler):$/;"	m	class:TianyaspiderSpiderMiddleware
+from_data	learn/python3/post.py	/^from_data = urllib.parse.urlencode(from_data).encode()$/;"	v
+from_data	learn/python3/post.py	/^from_data = {$/;"	v
+fullurl	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    fullurl = 'http:\/\/tr.tencent.com\/' + href$/;"	v
+g	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^    def g(b):$/;"	f
+g	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^    def g(b):$/;"	f
+g	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^    def g(b):$/;"	f
+g1	learn/python3/day12/协程/test.py	/^g1 = gevent.spawn(showwait, 'xiao', 10)$/;"	v
+g2	learn/python3/day12/协程/test.py	/^g2 = gevent.spawn(showwait, 'li', 10)$/;"	v
+g3	learn/python3/day12/协程/test.py	/^g3 = gevent.spawn(showwait, 'zhang', 10)$/;"	v
+gLock	learn/python3/day06/threading_lock.py	/^gLock = threading.Lock()$/;"	v
+get_abs_url	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def get_abs_url(url, data):$/;"	f
+get_abs_url	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def get_abs_url(url, data):$/;"	f
+get_all_email	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def get_all_email(data):$/;"	f
+get_all_http	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def get_all_http(data):$/;"	f
+get_all_http	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def get_all_http(data):$/;"	f
+get_content	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    def get_content(self, pagedata):$/;"	m	class:BaikeSpider
+get_content	learn/python3/深度爬虫/scrapy/baike.py	/^    def get_content(self, pagedata):$/;"	m	class:BaikeSpider
+get_data	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def get_data(url):$/;"	f
+get_data	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def get_data(url):$/;"	f
+get_data	learn/python3/深度爬虫/进程与线程/进程池锁定.py	/^def get_data(data):$/;"	f
+get_data	learn/python3/深度爬虫/进程与线程/进程锁定barrier.py	/^def get_data(data):$/;"	f
+get_detail_urls	tencent/hr/tencent_hr.py	/^def get_detail_urls():$/;"	f
+get_detail_urls	电影天堂/movie_list.py	/^def get_detail_urls(url):$/;"	f
+get_email	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def get_email(data):$/;"	f
+get_every_url	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def get_every_url(data):$/;"	f
+get_every_url	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def get_every_url(data):$/;"	f
+get_host_name	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def get_host_name(httpstr):$/;"	f
+get_host_name	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def get_host_name(httpstr):$/;"	f
+get_html_get	learn/python3/day12/协程/project/get.py	/^def get_html_get(url):$/;"	f
+get_html_post	learn/python3/day12/协程/project/get.py	/^def get_html_post(url: str, data):$/;"	f
+get_media_requests	learn/python3/day09/bmw/bmw/pipelines.py	/^    def get_media_requests(self, item, info):$/;"	m	class:BMWImagesPipeline
+get_number	learn/python3/阳光问政/parse_url.py	/^def get_number(url):$/;"	f
+get_proxies	learn/python3/xici_proxy.py	/^def get_proxies():$/;"	f
+get_proxy	learn/python3/day10/boss/boss/middlewares.py	/^    def get_proxy(self):$/;"	m	class:IPProxyDownloadMiddleware
+get_title	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    def get_title(self, pagedata):$/;"	m	class:BaikeSpider
+get_title	learn/python3/深度爬虫/scrapy/baike.py	/^    def get_title(self, pagedata):$/;"	m	class:BaikeSpider
+get_url	tencent/hr/tencent_hr.py	/^def get_url():$/;"	f
+get_user_agent	learn/python3/xici_proxy.py	/^def get_user_agent():$/;"	f
+get_value	learn/python3/day07/queue_test.py	/^def get_value(q):$/;"	f
+gettypename	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^def gettypename(sth):$/;"	f
+gettypename	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^def gettypename(sth):$/;"	f
+gettypename	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^def gettypename(sth):$/;"	f
+gevent	learn/python3/day12/协程/download.py	/^import gevent$/;"	i
+gevent	learn/python3/day12/协程/download.py	/^import gevent.monkey$/;"	i
+gevent	learn/python3/day12/协程/project/协程.py	/^import gevent$/;"	i
+gevent	learn/python3/day12/协程/test.py	/^import gevent$/;"	i
+gevent	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^import gevent$/;"	i
+go1	learn/python3/day12/协程/xiecheng_test.py	/^def go1():$/;"	f
+go2	learn/python3/day12/协程/xiecheng_test.py	/^def go2():$/;"	f
+goPAGE	learn/python3/day01/urllib_learn/download/my_renren.html	/^function goPAGE() {$/;"	f
+goPAGE	learn/python3/day01/urllib_learn/download/renren.html	/^function goPAGE() {$/;"	f
+goPAGE	learn/python3/day02/request/download/renren.html	/^function goPAGE() {$/;"	f
+greenlet	learn/python3/day12/协程/xiecheng_test.py	/^import greenlet$/;"	i
+h	baidu.html	/^function h(obj){$/;"	f
+h	baidu_01.html	/^function h(obj){$/;"	f
+h	learn/python3/day01/urllib_learn/download/baidu.html	/^function h(obj){$/;"	f
+h	learn/python3/day02/request/download/baidu.html	/^function h(obj){$/;"	f
+handle_error	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^    def handle_error(self, error, item, spider):$/;"	m	class:JianshuTwistedPipeline
+handler	learn/python3/agency.py	/^handler = urllib.request.ProxyHandler({$/;"	v
+handler	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^handler = request.HTTPCookieProcessor(cookiejar)$/;"	v
+handler	learn/python3/day01/urllib_learn/nehan_homework.py	/^handler = request.ProxyHandler({$/;"	v
+handler	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^handler = request.HTTPCookieProcessor(cookiejar)$/;"	v
+handler	learn/python3/handler.py	/^handler = urllib.request.HTTPHandler()$/;"	v
+headers	learn/python3/agency.py	/^headers = {$/;"	v
+headers	learn/python3/ajax_get.py	/^headers = {$/;"	v
+headers	learn/python3/ajax_post.py	/^headers = {$/;"	v
+headers	learn/python3/day01/urllib_learn/lagou_request.py	/^headers = {$/;"	v
+headers	learn/python3/day01/urllib_learn/renren_cookies.py	/^headers = {$/;"	v
+headers	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^headers = {$/;"	v
+headers	learn/python3/day02/request/demo01.py	/^headers = {$/;"	v
+headers	learn/python3/day02/request/request_pose_lagou.py	/^headers = {$/;"	v
+headers	learn/python3/day02/request/session_renren.py	/^headers = {$/;"	v
+headers	learn/python3/day07/doutu_threading.py	/^    headers = {$/;"	v	class:Producer
+headers	learn/python3/handler.py	/^headers = {$/;"	v
+headers	learn/python3/head.py	/^headers = {$/;"	v
+headers	learn/python3/post.py	/^headers = {$/;"	v
+headers	learn/python3/post_test.py	/^headers = {$/;"	v
+headers	learn/python3/tieba.py	/^headers = {$/;"	v
+headers	learn/python3/xici_proxy.py	/^headers = {'User-Agent': 'Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.3'$/;"	v
+headers	豆瓣/douban_showing_soon.py	/^headers = {$/;"	v
+headers	豆瓣/douban_spider.py	/^headers = {$/;"	v
+home_url	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    home_url = 'https:\/\/www.douban.com\/people\/187855075\/'$/;"	v	class:DoubanSpider
+host	learn/python3/day05/pymysql_delete.py	/^    host='localhost',$/;"	v
+host	learn/python3/day05/pymysql_insert.py	/^    host='localhost',$/;"	v
+host	learn/python3/day05/pymysql_search.py	/^    host='localhost',$/;"	v
+host	learn/python3/day05/pymysql_test.py	/^    host='localhost',$/;"	v
+href	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    href = tr.xpath('.\/\/a\/@href')[0]$/;"	v
+html	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^html = etree.parse('tenxun.html', parser=parser)$/;"	v
+html	豆瓣/douban_showing_soon.py	/^html = etree.HTML(text)$/;"	v
+html	豆瓣/douban_spider.py	/^html = etree.HTML(text)$/;"	v
+image	learn/python3/day08/pytesseract_test.py	/^image = Image.open('te.png')$/;"	v
+image	learn/python3/图形处理/验证码生成.py	/^image = Image.new(mode='RGB', size=(120, 30), color=(255, 255, 255))$/;"	v
+image_url	learn/python3/urlopen.py	/^image_url = 'http:\/\/pic29.nipic.com\/20130511\/9252150_174018365301_2.jpg'$/;"	v
+image_urls	learn/python3/day09/bmw/bmw/items.py	/^    image_urls = scrapy.Field()$/;"	v	class:BmwItem
+images	learn/python3/day09/bmw/bmw/items.py	/^    images = scrapy.Field()$/;"	v	class:BmwItem
+ime_hw	baidu.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="8844bf980002bae6"><input type="hidden" name="rsv_t" value="5cdfPyG9PHeV+YlX0yQAtmw5rcwwlB6oUv9mOBaloIeLkG8vFgRdbm9AliM"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+ime_hw	baidu_01.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="fad99f1d0003b60e"><input type="hidden" name="rsv_t" value="c80cT\/VsjjpFHhXSouwz3\/8ymU5ewz7mDxouvVxsLkFTeHwFoP4bcMxaXT4"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+ime_hw	learn/python3/day01/urllib_learn/download/baidu.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="97ab45af00005747"><input type="hidden" name="rsv_t" value="ab25e92+cXzTXGUra4Rr7mcz2etLXHe4jDtfC+RwTvC\/0grsPPpppHFYFEg"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+ime_hw	learn/python3/day02/request/download/baidu.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" class='index-logo-src' src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129" usemap="#mp"><img hidefocus="true" class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/bd_logo1.png?qua=high" width="270" height="129" usemap="#mp"><map name="mp"><area style="outline:none;" hidefocus="true" shape="rect" coords="0,0,270,129" href="\/\/www.baidu.com\/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs" onmousedown="return ns_c({fm: 'tab', tab: 'felogo', rsv_platform: 'wwwhome' })" target="_blank" title="点击一下，了解更多"onmousedown="return ns_c({'fm':'behs','tab':'bdlogo'})"><\/map><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type="hidden" name="rsv_idx" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="rn" value=""><input type="hidden" name="oq" value=""><input type="hidden" name="rsv_pq" value="e2d41d790000dc40"><input type="hidden" name="rsv_t" value="3e76FwucG5PJoUTAodYSPubk7QuocHqxA5dqApJwMYrkdEEqrtz+\/Ye8TBw"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+ime_hw	北京.html	/^<script>if(window.bds&&bds.util&&bds.util.setContainerWidth){bds.util.setContainerWidth();}<\/script><div id="head"><div class="head_wrapper"><div class="s_form"><div class="s_form_wrapper"><style>.index-logo-srcnew {display: none;}@media (-webkit-min-device-pixel-ratio: 2),(min--moz-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2){.index-logo-src {display: none;}.index-logo-srcnew {display: inline;}}<\/style><div id="lg"><img hidefocus="true" src="\/\/www.baidu.com\/img\/bd_logo1.png" width="270" height="129"><\/div><a href="\/" id="result_logo" onmousedown="return c({'fm':'tab','tab':'logo'})"><img class='index-logo-src' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><img class='index-logo-srcnew' src="\/\/www.baidu.com\/img\/baidu_jgylogo3.gif" alt="到百度首页" title="到百度首页"><\/a><form id="form" name="f" action="\/s" class="fm"><input type="hidden" name="ie" value="utf-8"><input type="hidden" name="f" value="8"><input type="hidden" name="rsv_bp" value="1"><input type=hidden name=ch value=""><input type=hidden name=tn value="baidu"><input type=hidden name=bar value=""><span class="bg s_ipt_wr"><input id="kw" name="wd" class="s_ipt" value="北京" maxlength="255" autocomplete="off"><\/span><span class="bg s_btn_wr"><input type="submit" id="su" value="百度一下" class="bg s_btn"><\/span><span class="tools"><span id="mHolder"><div id="mCon"><span>输入法<\/span><\/div><ul id="mMenu"><li><a href="javascript:;" name="ime_hw">手写<\/a><\/li><li><a href="javascript:;" name="ime_py">拼音<\/a><\/li><li class="ln"><\/li><li><a href="javascript:;" name="ime_cl">关闭<\/a><\/li><\/ul><\/span><\/span><input type="hidden" name="oq" value="北京"><input type="hidden" name="rsv_pq" value="da73173c00034fca"><input type="hidden" name="rsv_t" value="edb6Cez3WYlBftBxOM8s9WgFxxVCru2nE8npQjMdRO3Vcu2kAhPcS0D3w+8"><input type="hidden" name="rqlang" value="cn"><\/form><div id="m"><\/div><\/div><\/div><div id="u"><a class="toindex" href="\/">百度首页<\/a><a href="javascript:;" name="tj_settingicon" class="pf">设置<i class="c-icon c-icon-triangle-down"><\/i><\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><\/div><div id="u1"><a href="http:\/\/news.baidu.com" name="tj_trnews" class="mnav">新闻<\/a><a href="https:\/\/www.hao123.com" name="tj_trhao123" class="mnav">hao123<\/a><a href="http:\/\/map.baidu.com" name="tj_trmap" class="mnav">地图<\/a><a href="http:\/\/v.baidu.com" name="tj_trvideo" class="mnav">视频<\/a><a href="http:\/\/tieba.baidu.com" name="tj_trtieba" class="mnav">贴吧<\/a><a href="http:\/\/xueshu.baidu.com" name="tj_trxueshu" class="mnav">学术<\/a><a href="https:\/\/passport.baidu.com\/v2\/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5" name="tj_login" class="lb" onclick="return false;">登录<\/a><a href="http:\/\/www.baidu.com\/gaoji\/preferences.html" name="tj_settingicon" class="pf">设置<\/a><a href="http:\/\/www.baidu.com\/more\/" name="tj_briicon" class="bri" style="display: block;">更多产品<\/a><\/div><\/div><\/div>$/;"	a
+infos	learn/python3/day04/bs4_test.py	/^    infos = list(tr.stripped_strings)$/;"	v
+init_proxies	learn/python3/xici_proxy.py	/^    init_proxies = get_proxies()  # 获取原始代理IP$/;"	v
+input_tag	learn/python3/day07/selenium_chromedriver.py	/^input_tag = driver.find_element_by_id('kw')$/;"	v
+insert_item	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^    def insert_item(self, cursor, item):$/;"	m	class:JianshuTwistedPipeline
+items	learn/python3/深度爬虫/scrapy/baike.py	/^from baidubaike import items$/;"	i
+itertools	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^import itertools$/;"	i
+itertools	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^import itertools$/;"	i
+itertools	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^import itertools$/;"	i
+js-footer	learn/python3/深度爬虫/scrapy/tianyaspider/tianya.html	/^                <a name="js-footer" id="js_2_bottom"><\/a>$/;"	a
+json	learn/python3/day05/json_load.py	/^import json$/;"	i
+json	learn/python3/day05/json_test.py	/^import json$/;"	i
+json	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^import json$/;"	i
+json	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^import json$/;"	i
+json	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^import json$/;"	i
+kind	豆瓣/douban_showing_soon.py	/^    kind = div.xpath('.\/\/ul\/li[2]\/text()')[0]$/;"	v
+like_count	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    like_count = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+lis	豆瓣/douban_spider.py	/^lis = ul.xpath('.\/\/li')$/;"	v
+logfunctionparameters	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^def logfunctionparameters():$/;"	f
+logfunctionparameters	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^def logfunctionparameters():$/;"	f
+logfunctionparameters	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^def logfunctionparameters():$/;"	f
+login_url	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^login_url = 'http:\/\/www.renren.com\/relogin.do'$/;"	v
+login_url	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    login_url = 'https:\/\/accounts.douban.com\/login'$/;"	v	class:DoubanSpider
+main	learn/python3/day04/goushi_re.py	/^def main():$/;"	f
+main	learn/python3/day04/weather_spider.py	/^def main():$/;"	f
+main	learn/python3/day06/pc_condition.py	/^def main():$/;"	f
+main	learn/python3/day06/produce_consumer.py	/^def main():$/;"	f
+main	learn/python3/day06/thread_class.py	/^def main():$/;"	f
+main	learn/python3/day06/threading_lock.py	/^def main():$/;"	f
+main	learn/python3/day06/threading_normal.py	/^def main():$/;"	f
+main	learn/python3/day07/doutu_spider.py	/^def main():$/;"	f
+main	learn/python3/day07/doutu_threading.py	/^def main():$/;"	f
+main	learn/python3/day07/queue_test.py	/^def main():$/;"	f
+main	learn/python3/day07/selenium_lagou.py	/^def main():$/;"	f
+main	learn/python3/day08/lagou_yanzhen.py	/^def main():$/;"	f
+make_url_list	learn/python3/阳光问政/parse_url.py	/^def make_url_list(number):$/;"	f
+managers	learn/python3/分布式/分布式控制模型/server.py	/^from multiprocessing import managers  # 分布式进程管理器$/;"	i
+monkey	learn/python3/day12/协程/download.py	/^import gevent.monkey$/;"	i
+monkey	learn/python3/day12/协程/project/协程.py	/^from gevent import monkey$/;"	i
+monkey	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^from gevent import monkey$/;"	i
+movie	豆瓣/douban_spider.py	/^    movie = {$/;"	v
+movies	豆瓣/douban_showing_soon.py	/^movies = []$/;"	v
+movies	豆瓣/douban_spider.py	/^movies = []$/;"	v
+multiprocessing	learn/python3/分布式/分布式控制模型/server.py	/^import multiprocessing  # 分布式进程$/;"	i
+multiprocessing	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^import multiprocessing$/;"	i
+multiprocessing	learn/python3/深度爬虫/进程与线程/进程池锁定.py	/^import multiprocessing$/;"	i
+multiprocessing	learn/python3/深度爬虫/进程与线程/进程锁定barrier.py	/^import multiprocessing$/;"	i
+my_home_url	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^my_home_url = 'http:\/\/www.renren.com\/968662672'$/;"	v
+my_list	learn/python3/阳光问政/parse_url.py	/^my_list = make_url_list(8000433)$/;"	v
+my_thread	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^def my_thread(name):$/;"	f
+name	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^    name = 'bmw5'$/;"	v	class:Bmw5Spider
+name	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    name = 'douban'$/;"	v	class:DoubanSpider
+name	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^    name = 'qsbk'$/;"	v	class:QsbkSpider
+name	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^    name = 'renren'$/;"	v	class:RenrenSpider
+name	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^    name = 'wxapp_spider'$/;"	v	class:WxappSpiderSpider
+name	learn/python3/day10/boss/boss/spiders/zhiping.py	/^    name = 'zhipin'$/;"	v	class:ZhipingSpider
+name	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^    name = 'js'$/;"	v	class:JsSpider
+name	learn/python3/day11/fang/fang/items.py	/^    name = scrapy.Field()  # 小区名$/;"	v	class:NewHouseItem
+name	learn/python3/day11/fang/fang/items.py	/^    name = scrapy.Field()$/;"	v	class:ESFHouseItem
+name	learn/python3/day11/fang/fang/spiders/sfw.py	/^    name = 'sfw'$/;"	v	class:SfwSpider
+name	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^    name = scrapy.Field()$/;"	v	class:TencentItem
+name	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^    name = 'tencent_hr'$/;"	v	class:TencentHrSpider
+name	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/items.py	/^    name = scrapy.Field()$/;"	v	class:BaidubaikeItem
+name	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    name = 'baike'$/;"	v	class:BaikeSpider
+name	learn/python3/深度爬虫/scrapy/baike.py	/^    name = 'bakei'$/;"	v	class:BaikeSpider
+name	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^    name = 'tianya'$/;"	v	class:TianyaSpider
+number	learn/python3/ajax_get.py	/^number = 20$/;"	v
+nums	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    nums = tr.xpath('.\/td[3]\/text()')$/;"	v
+offset	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^    offset = 0$/;"	v	class:TencentHrSpider
+open_spider	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^    def open_spider(self, spider):$/;"	m	class:QsbkSpiderPipeline
+opener	learn/python3/agency.py	/^opener = urllib.request.build_opener(handler)$/;"	v
+opener	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^opener = request.build_opener(handler)$/;"	v
+opener	learn/python3/day01/urllib_learn/nehan_homework.py	/^opener = request.build_opener(handler)$/;"	v
+opener	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^opener = request.build_opener(handler)$/;"	v
+opener	learn/python3/handler.py	/^opener = urllib.request.build_opener(handler)$/;"	v
+options	learn/python3/day07/proxy_selenium.py	/^options = webdriver.ChromeOptions()$/;"	v
+origin_url	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    origin_url = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+origin_url	learn/python3/day11/fang/fang/items.py	/^    origin_url = scrapy.Field()  # 详情url$/;"	v	class:NewHouseItem
+origin_url	learn/python3/day11/fang/fang/items.py	/^    origin_url = scrapy.Field()$/;"	v	class:ESFHouseItem
+os	learn/python3/day07/doutu_spider.py	/^import os$/;"	i
+os	learn/python3/day07/doutu_threading.py	/^import os$/;"	i
+os	learn/python3/day09/bmw/bmw/pipelines.py	/^import os$/;"	i
+os	learn/python3/day09/bmw/bmw/settings.py	/^import os$/;"	i
+os	learn/python3/tieba.py	/^import os$/;"	i
+os	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^import os$/;"	i
+os	learn/python3/深度爬虫/进程与线程/进程池锁定.py	/^import os$/;"	i
+os	learn/python3/深度爬虫/进程与线程/进程锁定barrier.py	/^import os$/;"	i
+page	learn/python3/ajax_get.py	/^page = int(input('请输入想要第几页的数据:'))$/;"	v
+pagelinks	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    pagelinks = LinkExtractor(allow=('\/item\/.*'))$/;"	v	class:BaikeSpider
+params	learn/python3/day02/request/demo01.py	/^params = {$/;"	v
+parse	learn/python3/agency.py	/^import urllib.parse$/;"	i
+parse	learn/python3/ajax_get.py	/^import urllib.parse$/;"	i
+parse	learn/python3/ajax_post.py	/^import urllib.parse$/;"	i
+parse	learn/python3/day01/urllib_learn/demo_urllib.py	/^from urllib import parse$/;"	i
+parse	learn/python3/day01/urllib_learn/lagou_request.py	/^from urllib import parse$/;"	i
+parse	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from urllib import parse$/;"	i
+parse	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^    def parse(self, response):$/;"	m	class:Bmw5Spider
+parse	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    def parse(self, response):$/;"	m	class:DoubanSpider
+parse	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^    def parse(self, response):$/;"	m	class:QsbkSpider
+parse	learn/python3/day11/fang/fang/spiders/sfw.py	/^    def parse(self, response):$/;"	m	class:SfwSpider
+parse	learn/python3/error.py	/^import urllib.parse$/;"	i
+parse	learn/python3/get.py	/^import urllib.parse$/;"	i
+parse	learn/python3/handler.py	/^import urllib.parse$/;"	i
+parse	learn/python3/head.py	/^import urllib.parse$/;"	i
+parse	learn/python3/parse.py	/^import urllib.parse$/;"	i
+parse	learn/python3/post.py	/^import urllib.parse$/;"	i
+parse	learn/python3/post_test.py	/^import urllib.parse$/;"	i
+parse	learn/python3/tieba.py	/^import urllib.parse$/;"	i
+parse	learn/python3/urlencode.py	/^import urllib.parse$/;"	i
+parse	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^    def parse(self, response):$/;"	m	class:TencentHrSpider
+parse	learn/python3/深度爬虫/scrapy/baike.py	/^    def parse(self, response):$/;"	m	class:BaikeSpider
+parse	learn/python3/深度爬虫/scrapy/baike.py	/^from urllib import parse$/;"	i
+parse	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^    def parse(self, response):$/;"	m	class:TianyaSpider
+parse_after_login	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    def parse_after_login(self, response):$/;"	m	class:DoubanSpider
+parse_detail	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^    def parse_detail(self, response):$/;"	m	class:WxappSpiderSpider
+parse_detail	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^    def parse_detail(self, response):$/;"	m	class:JsSpider
+parse_detail_page	电影天堂/movie_list.py	/^def parse_detail_page(url):$/;"	f
+parse_esf	learn/python3/day11/fang/fang/spiders/sfw.py	/^    def parse_esf(self, response):$/;"	m	class:SfwSpider
+parse_home	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    def parse_home(self, response):$/;"	m	class:DoubanSpider
+parse_item	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    def parse_item(self, response):$/;"	m	class:BaikeSpider
+parse_job	learn/python3/day10/boss/boss/spiders/zhiping.py	/^    def parse_job(self, response):$/;"	m	class:ZhipingSpider
+parse_lagou_file	learn/python3/day03/数据提取/xpath/lxml_test.py	/^def parse_lagou_file():$/;"	f
+parse_newhouse	learn/python3/day11/fang/fang/spiders/sfw.py	/^    def parse_newhouse(self, response):$/;"	m	class:SfwSpider
+parse_page	learn/python3/day04/goushi_re.py	/^def parse_page(url):$/;"	f
+parse_page	learn/python3/day04/weather_spider.py	/^def parse_page(url):$/;"	f
+parse_page	learn/python3/day07/doutu_spider.py	/^def parse_page(url):$/;"	f
+parse_page	learn/python3/day07/doutu_threading.py	/^    def parse_page(self, url):$/;"	m	class:Producer
+parse_page	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^    def parse_page(self, response):$/;"	m	class:RenrenSpider
+parse_position_detail	learn/python3/day07/selenium_lagou.py	/^def parse_position_detail(url):$/;"	f
+parser	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^parser = etree.HTMLParser(encoding='utf-8')$/;"	v
+password	learn/python3/day05/pymysql_delete.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_insert.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_insert.py	/^password = '199110'$/;"	v
+password	learn/python3/day05/pymysql_search.py	/^    password='xzx199110',$/;"	v
+password	learn/python3/day05/pymysql_test.py	/^    password='xzx199110',$/;"	v
+people_number	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^    people_number = scrapy.Field()$/;"	v	class:TencentItem
+persons	learn/python3/day05/json_load.py	/^    persons = json.load(fp)$/;"	v
+persons	learn/python3/day05/json_test.py	/^persons = [$/;"	v
+port	learn/python3/day05/pymysql_delete.py	/^    port=3306,$/;"	v
+port	learn/python3/day05/pymysql_insert.py	/^    port=3306,$/;"	v
+port	learn/python3/day05/pymysql_search.py	/^    port=3306,$/;"	v
+port	learn/python3/day05/pymysql_test.py	/^    port=3306,$/;"	v
+position	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    position = {$/;"	v
+position_info	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^    position_info = scrapy.Field()$/;"	v	class:TencentItem
+positions	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^positions = []$/;"	v
+post_data	learn/python3/day12/协程/project/get.py	/^post_data = {$/;"	v
+post_url	learn/python3/post.py	/^post_url = 'https:\/\/fanyi.baidu.com\/sug'$/;"	v
+post_url	learn/python3/post_test.py	/^post_url = 'https:\/\/fanyi.baidu.com\/v2transapi'$/;"	v
+price	learn/python3/day11/fang/fang/items.py	/^    price = scrapy.Field()  # 总价$/;"	v	class:ESFHouseItem
+price	learn/python3/day11/fang/fang/items.py	/^    price = scrapy.Field()$/;"	v	class:NewHouseItem
+process_exception	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:BmwDownloaderMiddleware
+process_exception	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:DoubanLoginDownloaderMiddleware
+process_exception	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:QsbkSpiderDownloaderMiddleware
+process_exception	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:RenrenLoginDownloaderMiddleware
+process_exception	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:WxappDownloaderMiddleware
+process_exception	learn/python3/day11/fang/fang/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:FangDownloaderMiddleware
+process_exception	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:TencentDownloaderMiddleware
+process_exception	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:BaidubaikeDownloaderMiddleware
+process_exception	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_exception(self, request, exception, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+process_item	learn/python3/day09/bmw/bmw/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:BmwPipeline
+process_item	learn/python3/day09/douban_login/douban_login/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:DoubanLoginPipeline
+process_item	learn/python3/day09/qsbk_spider/qsbk_spider/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:QsbkSpiderPipeline
+process_item	learn/python3/day09/renren_login/renren_login/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:RenrenLoginPipeline
+process_item	learn/python3/day09/wxapp/wxapp/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:WxappPipeline
+process_item	learn/python3/day10/boss/boss/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:BossPipeline
+process_item	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:JianshuTwistedPipeline
+process_item	learn/python3/day11/fang/fang/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:FangPipeline
+process_item	learn/python3/深度爬虫/scrapy/Tencent/Tencent/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:TencentPipeline
+process_item	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:BaidubaikePipeline
+process_item	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/pipelines.py	/^    def process_item(self, item, spider):$/;"	m	class:TianyaspiderPipeline
+process_request	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:BmwDownloaderMiddleware
+process_request	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:DoubanLoginDownloaderMiddleware
+process_request	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:QsbkSpiderDownloaderMiddleware
+process_request	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:RenrenLoginDownloaderMiddleware
+process_request	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:WxappDownloaderMiddleware
+process_request	learn/python3/day10/boss/boss/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:IPProxyDownloadMiddleware
+process_request	learn/python3/day10/boss/boss/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:UserAgentDownloadMiddleware
+process_request	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:SeleniumDownloadMiddleware
+process_request	learn/python3/day11/fang/fang/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:FangDownloaderMiddleware
+process_request	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:TencentDownloaderMiddleware
+process_request	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:BaidubaikeDownloaderMiddleware
+process_request	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_request(self, request, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+process_response	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:BmwDownloaderMiddleware
+process_response	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:DoubanLoginDownloaderMiddleware
+process_response	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:QsbkSpiderDownloaderMiddleware
+process_response	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:RenrenLoginDownloaderMiddleware
+process_response	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:WxappDownloaderMiddleware
+process_response	learn/python3/day10/boss/boss/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:IPProxyDownloadMiddleware
+process_response	learn/python3/day11/fang/fang/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:FangDownloaderMiddleware
+process_response	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:TencentDownloaderMiddleware
+process_response	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:BaidubaikeDownloaderMiddleware
+process_response	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_response(self, request, response, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+process_spider_exception	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:BmwSpiderMiddleware
+process_spider_exception	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:DoubanLoginSpiderMiddleware
+process_spider_exception	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:QsbkSpiderSpiderMiddleware
+process_spider_exception	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:RenrenLoginSpiderMiddleware
+process_spider_exception	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:WxappSpiderMiddleware
+process_spider_exception	learn/python3/day11/fang/fang/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:FangSpiderMiddleware
+process_spider_exception	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:TencentSpiderMiddleware
+process_spider_exception	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:BaidubaikeSpiderMiddleware
+process_spider_exception	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_spider_exception(self, response, exception, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+process_spider_input	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:BmwSpiderMiddleware
+process_spider_input	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:DoubanLoginSpiderMiddleware
+process_spider_input	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:QsbkSpiderSpiderMiddleware
+process_spider_input	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:RenrenLoginSpiderMiddleware
+process_spider_input	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:WxappSpiderMiddleware
+process_spider_input	learn/python3/day11/fang/fang/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:FangSpiderMiddleware
+process_spider_input	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:TencentSpiderMiddleware
+process_spider_input	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:BaidubaikeSpiderMiddleware
+process_spider_input	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_spider_input(self, response, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+process_spider_output	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:BmwSpiderMiddleware
+process_spider_output	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:DoubanLoginSpiderMiddleware
+process_spider_output	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:QsbkSpiderSpiderMiddleware
+process_spider_output	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:RenrenLoginSpiderMiddleware
+process_spider_output	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:WxappSpiderMiddleware
+process_spider_output	learn/python3/day11/fang/fang/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:FangSpiderMiddleware
+process_spider_output	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:TencentSpiderMiddleware
+process_spider_output	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:BaidubaikeSpiderMiddleware
+process_spider_output	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_spider_output(self, response, result, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+process_start_requests	learn/python3/day09/bmw/bmw/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:BmwSpiderMiddleware
+process_start_requests	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:DoubanLoginSpiderMiddleware
+process_start_requests	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:QsbkSpiderSpiderMiddleware
+process_start_requests	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:RenrenLoginSpiderMiddleware
+process_start_requests	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:WxappSpiderMiddleware
+process_start_requests	learn/python3/day11/fang/fang/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:FangSpiderMiddleware
+process_start_requests	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:TencentSpiderMiddleware
+process_start_requests	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:BaidubaikeSpiderMiddleware
+process_start_requests	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def process_start_requests(self, start_requests, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+project_opened	.vscode/.ropeproject/config.py	/^def project_opened(project):$/;"	f
+project_opened	learn/python3/深度爬虫/scrapy/.vscode/.ropeproject/config.py	/^def project_opened(project):$/;"	f
+province	learn/python3/day11/fang/fang/items.py	/^    province = scrapy.Field()$/;"	v	class:ESFHouseItem
+province	learn/python3/day11/fang/fang/items.py	/^    province = scrapy.Field()$/;"	v	class:NewHouseItem
+proxy	learn/python3/day02/request/proxy_requests_test.py	/^proxy = {$/;"	v
+pub_time	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    pub_time = tr.xpath('.\/td[5]\/text()')$/;"	v
+pub_time	learn/python3/day09/wxapp/wxapp/items.py	/^    pub_time = scrapy.Field()$/;"	v	class:WxappItem
+pub_time	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    pub_time = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+publish_time	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^    publish_time = scrapy.Field()$/;"	v	class:TencentItem
+pymongo	learn/python3/day06/pymongo_test.py	/^import pymongo$/;"	i
+pymysql	learn/python3/day05/pymysql_delete.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day05/pymysql_insert.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day05/pymysql_search.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day05/pymysql_test.py	/^import pymysql$/;"	i
+pymysql	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^import pymysql$/;"	i
+pytesseract	learn/python3/day08/lagou_yanzhen.py	/^import pytesseract$/;"	i
+pytesseract	learn/python3/day08/pytesseract_test.py	/^import pytesseract$/;"	i
+query_string	learn/python3/ajax_get.py	/^query_string = urllib.parse.urlencode(data)$/;"	v
+query_string	learn/python3/urlencode.py	/^query_string = urllib.parse.urlencode(query=data)$/;"	v
+queue	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^import queue$/;"	i
+r	learn/python3/day04/re_method.py	/^r = re.compile('\\d+\\.?\\d*')$/;"	v
+random	learn/python3/day06/pc_condition.py	/^import random$/;"	i
+random	learn/python3/day06/produce_consumer.py	/^import random$/;"	i
+random	learn/python3/day10/boss/boss/middlewares.py	/^import random$/;"	i
+random	learn/python3/xici_proxy.py	/^import random$/;"	i
+random	learn/python3/分布式/分布式控制模型/server.py	/^import random$/;"	i
+re	learn/python3/day04/goushi_re.py	/^import re$/;"	i
+re	learn/python3/day04/re_learn.py	/^import re$/;"	i
+re	learn/python3/day04/re_method.py	/^import re$/;"	i
+re	learn/python3/day04/re_test.py	/^import re$/;"	i
+re	learn/python3/day04/re_test_demo.py	/^import re$/;"	i
+re	learn/python3/day07/selenium_lagou.py	/^import re$/;"	i
+re	learn/python3/day11/fang/fang/spiders/sfw.py	/^import re$/;"	i
+re	learn/python3/xici_proxy.py	/^import re$/;"	i
+re	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^import re$/;"	i
+re	learn/python3/深度爬虫/scrapy/baike.py	/^import re$/;"	i
+re	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^import re$/;"	i
+re	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^import re$/;"	i
+re	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^import re$/;"	i
+re	learn/python3/阳光问政/parse_url.py	/^import re$/;"	i
+read_count	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    read_count = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+read_csv_demo1	learn/python3/day05/csv_test.py	/^def read_csv_demo1():$/;"	f
+read_csv_demo2	learn/python3/day05/csv_test.py	/^def read_csv_demo2():$/;"	f
+recordparametertype	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^def recordparametertype(func):$/;"	f
+recordparametertype	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^def recordparametertype(func):$/;"	f
+recordparametertype	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^def recordparametertype(func):$/;"	f
+recordparametertype	learn/python3/深度爬虫/scrapy/baike.py	/^from autodocparameters import recordparametertype$/;"	i
+region	豆瓣/douban_showing_soon.py	/^    region = div.xpath('.\/\/ul\/li[3]\/text()')[0]$/;"	v
+region	豆瓣/douban_spider.py	/^    region = li.xpath('@data-region')$/;"	v
+regonize_captcha	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    def regonize_captcha(self, ima_url):$/;"	m	class:DoubanSpider
+report_ps	learn/python3/day09/douban_login/douban_login.html	/^function report_ps(r){$/;"	f
+req	learn/python3/day01/urllib_learn/lagou_request.py	/^req = request.Request(post_url, headers=headers, data=form_data, method='post')$/;"	v
+req	learn/python3/day01/urllib_learn/renren_cookies.py	/^req = request.Request(url, headers=headers)$/;"	v
+req	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^req = request.Request(my_home_url, headers=headers)$/;"	v
+req	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^req = request.Request(url=login_url,data=data,headers=headers)$/;"	v
+request	learn/python3/agency.py	/^import urllib.request$/;"	i
+request	learn/python3/agency.py	/^request = urllib.request.Request(url, headers=headers)$/;"	v
+request	learn/python3/ajax_get.py	/^import urllib.request$/;"	i
+request	learn/python3/ajax_get.py	/^request = urllib.request.Request(url=url, headers=headers)$/;"	v
+request	learn/python3/ajax_post.py	/^import urllib.request$/;"	i
+request	learn/python3/ajax_post.py	/^request = urllib.request.Request(url=post_url, headers=headers)$/;"	v
+request	learn/python3/day01/urllib_learn/demo_urllib.py	/^from urllib import request$/;"	i
+request	learn/python3/day01/urllib_learn/lagou_request.py	/^from urllib import request$/;"	i
+request	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^from urllib import request$/;"	i
+request	learn/python3/day01/urllib_learn/nehan_homework.py	/^from urllib import request$/;"	i
+request	learn/python3/day01/urllib_learn/renren_cookies.py	/^from urllib import request$/;"	i
+request	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^from urllib import request$/;"	i
+request	learn/python3/day07/doutu_spider.py	/^from urllib import request$/;"	i
+request	learn/python3/day07/doutu_threading.py	/^from urllib import request$/;"	i
+request	learn/python3/day08/lagou_yanzhen.py	/^from urllib import request$/;"	i
+request	learn/python3/day09/bmw/bmw/pipelines.py	/^from urllib import request$/;"	i
+request	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^from urllib import request$/;"	i
+request	learn/python3/day12/协程/download.py	/^from urllib import request$/;"	i
+request	learn/python3/day12/协程/project/协程.py	/^from urllib import request$/;"	i
+request	learn/python3/error.py	/^import urllib.request$/;"	i
+request	learn/python3/get.py	/^import urllib.request$/;"	i
+request	learn/python3/handler.py	/^import urllib.request$/;"	i
+request	learn/python3/handler.py	/^request = urllib.request.Request(url, headers=headers)$/;"	v
+request	learn/python3/head.py	/^import urllib.request$/;"	i
+request	learn/python3/head.py	/^request = urllib.request.Request(url=url, headers=headers)$/;"	v
+request	learn/python3/post.py	/^import urllib.request$/;"	i
+request	learn/python3/post.py	/^request = urllib.request.Request(url=post_url, headers=headers)$/;"	v
+request	learn/python3/post_test.py	/^import urllib.request$/;"	i
+request	learn/python3/post_test.py	/^request = urllib.request.Request(url=post_url, headers=headers)$/;"	v
+request	learn/python3/tieba.py	/^    request = urllib.request.Request(url=url_temp, headers=headers)$/;"	v
+request	learn/python3/tieba.py	/^import urllib.request$/;"	i
+request	learn/python3/urlopen.py	/^import urllib.request$/;"	i
+request	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^from urllib import request$/;"	i
+request	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^from urllib import request$/;"	i
+request	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^from urllib import request$/;"	i
+request_list_page	learn/python3/day07/selenium_lagou.py	/^def request_list_page():$/;"	f
+requests	learn/python3/day02/request/demo01.py	/^import requests$/;"	i
+requests	learn/python3/day02/request/proxy_requests_test.py	/^import requests$/;"	i
+requests	learn/python3/day02/request/request_cookies.py	/^import requests$/;"	i
+requests	learn/python3/day02/request/request_pose_lagou.py	/^import requests$/;"	i
+requests	learn/python3/day02/request/session_renren.py	/^import requests$/;"	i
+requests	learn/python3/day04/goushi_re.py	/^import requests$/;"	i
+requests	learn/python3/day04/weather_spider.py	/^import requests$/;"	i
+requests	learn/python3/day07/doutu_spider.py	/^import requests$/;"	i
+requests	learn/python3/day07/doutu_threading.py	/^import requests$/;"	i
+requests	learn/python3/day07/selenium_lagou.py	/^import requests$/;"	i
+requests	learn/python3/day12/协程/project/get.py	/^import requests$/;"	i
+requests	learn/python3/xici_proxy.py	/^import requests$/;"	i
+requests	learn/python3/阳光问政/parse_url.py	/^import requests$/;"	i
+requests	tencent/hr/tencent_hr.py	/^import requests$/;"	i
+requests	电影天堂/movie_list.py	/^import requests$/;"	i
+requests	豆瓣/douban_showing_soon.py	/^import requests$/;"	i
+requests	豆瓣/douban_spider.py	/^import requests$/;"	i
+response	learn/python3/agency.py	/^response = opener.open(request)$/;"	v
+response	learn/python3/ajax_get.py	/^response = urllib.request.urlopen(request)$/;"	v
+response	learn/python3/ajax_post.py	/^response = urllib.request.urlopen(request, data=form_data)$/;"	v
+response	learn/python3/day01/urllib_learn/lagou_request.py	/^response = request.urlopen(req)$/;"	v
+response	learn/python3/day01/urllib_learn/mozilla_cookies.py	/^response = opener.open('http:\/\/httpbin.org\/cookies')$/;"	v
+response	learn/python3/day01/urllib_learn/nehan_homework.py	/^response = opener.open(url)$/;"	v
+response	learn/python3/day01/urllib_learn/renren_cookies.py	/^response = request.urlopen(req)$/;"	v
+response	learn/python3/day01/urllib_learn/renren_cookies_collection.py	/^response = opener.open(req)$/;"	v
+response	learn/python3/day02/request/demo01.py	/^response = requests.get(url=url, params=params,headers=headers)$/;"	v
+response	learn/python3/day02/request/proxy_requests_test.py	/^response = requests.get('http:\/\/httpbin.org\/ip') $/;"	v
+response	learn/python3/day02/request/proxy_requests_test.py	/^response = requests.get('http:\/\/httpbin.org\/ip', proxies=proxy)$/;"	v
+response	learn/python3/day02/request/request_cookies.py	/^response = requests.get('http:\/\/www.baidu.com\/')$/;"	v
+response	learn/python3/day02/request/request_pose_lagou.py	/^response = requests.post(url=lagou_url, data=data, headers=headers)$/;"	v
+response	learn/python3/day02/request/session_renren.py	/^response = session.get('http:\/\/www.renren.com\/880151247\/profile')$/;"	v
+response	learn/python3/error.py	/^    response = urllib.request.urlopen(url)$/;"	v
+response	learn/python3/get.py	/^response = urllib.request.test(url)$/;"	v
+response	learn/python3/handler.py	/^response = opener.open(request)$/;"	v
+response	learn/python3/head.py	/^response = urllib.request.urlopen(request)$/;"	v
+response	learn/python3/post.py	/^response = urllib.request.urlopen(request, data=from_data)$/;"	v
+response	learn/python3/post_test.py	/^response = urllib.request.urlopen(url=post_url, data=form_data)$/;"	v
+response	learn/python3/tieba.py	/^    response = urllib.request.urlopen(request)$/;"	v
+response	learn/python3/urlopen.py	/^response = urllib.request.test(image_url)$/;"	v
+response	learn/python3/urlopen.py	/^response = urllib.request.test(url=url)$/;"	v
+response	豆瓣/douban_showing_soon.py	/^response = requests.get(url, headers=headers)$/;"	v
+response	豆瓣/douban_spider.py	/^response = requests.get(url, headers=headers)$/;"	v
+result	learn/python3/day05/pymysql_test.py	/^result = cursor.fetchone()$/;"	v
+result_queue	learn/python3/分布式/分布式控制模型/server.py	/^result_queue = Queue()  # 结果队列$/;"	v
+results	learn/python3/day05/pymysql_search.py	/^results = cursor.fetchall()$/;"	v
+ret	learn/python3/day04/re_learn.py	/^ret = re.search('.*(\\$\\d+).*(\\$\\d+)', text)$/;"	v
+ret	learn/python3/day04/re_method.py	/^ret = re.search(r, text)$/;"	v
+ret	learn/python3/day04/re_test.py	/^ret = re.match('[1-9]\\d?$|100$', text)$/;"	v
+ret	learn/python3/day04/re_test_demo.py	/^ret = re.match('\\\\\\\\n', text)$/;"	v
+return_result	learn/python3/分布式/分布式控制模型/server.py	/^def return_result():$/;"	f
+return_task	learn/python3/分布式/分布式控制模型/server.py	/^def return_task():$/;"	f
+rooms	learn/python3/day11/fang/fang/items.py	/^    rooms = scrapy.Field()  # 居室数（列表）$/;"	v	class:NewHouseItem
+rooms	learn/python3/day11/fang/fang/items.py	/^    rooms = scrapy.Field()$/;"	v	class:ESFHouseItem
+rules	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^    rules = ($/;"	v	class:WxappSpiderSpider
+rules	learn/python3/day10/boss/boss/spiders/zhiping.py	/^    rules = ($/;"	v	class:ZhipingSpider
+rules	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^    rules = ($/;"	v	class:JsSpider
+rules	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    rules = [Rule(pagelinks, callback='parse_item', follow=True)]$/;"	v	class:BaikeSpider
+run	learn/python3/day06/pc_condition.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day06/pc_condition.py	/^    def run(self):$/;"	m	class:Producer
+run	learn/python3/day06/produce_consumer.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day06/produce_consumer.py	/^    def run(self):$/;"	m	class:Producer
+run	learn/python3/day06/thread_class.py	/^    def run(self):$/;"	m	class:CodingThread
+run	learn/python3/day06/thread_class.py	/^    def run(self):$/;"	m	class:DrawingThread
+run	learn/python3/day07/doutu_threading.py	/^    def run(self):$/;"	m	class:Consumer
+run	learn/python3/day07/doutu_threading.py	/^    def run(self):$/;"	m	class:Producer
+salary	learn/python3/day10/boss/boss/items.py	/^    salary = scrapy.Field()$/;"	v	class:BossItem
+sale	learn/python3/day11/fang/fang/items.py	/^    sale = scrapy.Field()  # 是否在售$/;"	v	class:NewHouseItem
+save_mail	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^def save_mail():$/;"	f
+save_mail	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^def save_mail():$/;"	f
+score	豆瓣/douban_spider.py	/^    score = li.xpath('@data-score')$/;"	v
+scrapy	learn/python3/day09/bmw/bmw/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/douban_login/douban_login/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/qsbk_spider/qsbk_spider/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/renren_login/renren_login/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/wxapp/wxapp/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day10/boss/boss/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day10/boss/boss/spiders/zhiping.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day11/fang/fang/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/day11/fang/fang/spiders/sfw.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/Tencent/Tencent/spiders/tencent_hr.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/baike.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/items.py	/^import scrapy$/;"	i
+scrapy	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^import scrapy$/;"	i
+sem	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^    sem = threading.Semaphore(100)$/;"	v
+sendStats	learn/python3/day01/urllib_learn/download/my_renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
+sendStats	learn/python3/day01/urllib_learn/download/renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
+sendStats	learn/python3/day02/request/download/renren.html	/^function sendStats(url){var n="log_"+(new Date).getTime();var c=window[n]=new Image;c.onload=c.onerror=function(){window[n]=null};c.src=url;c=null}$/;"	f
+sep	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^sep = threading.Semaphore(3)$/;"	v
+session	learn/python3/day02/request/session_renren.py	/^session = requests.Session()$/;"	v
+setSrc	北京.html	/^    function setSrc(img,data){$/;"	f
+set_cookie	learn/python3/day09/douban_login/douban_login.html	/^ function set_cookie(e,t,n,o){var i,r,c=new Date;c.setTime(c.getTime()+24*(t||30)*60*60*1e3),i="; expires="+c.toGMTString();for(r in e)document.cookie=r+"="+e[r]+i+"; domain="+(n||"douban.com")+"; path="+(o||"\/")}function get_cookie(e){var t,n,o=e+"=",i=document.cookie.split(";");for(t=0;t<i.length;t++){for(n=i[t];" "==n.charAt(0);)n=n.substring(1,n.length);if(0===n.indexOf(o))return n.substring(o.length,n.length).replace(\/\\"\/g,"")}return null}$/;"	f
+set_prefs	.vscode/.ropeproject/config.py	/^def set_prefs(prefs):$/;"	f
+set_prefs	learn/python3/深度爬虫/scrapy/.vscode/.ropeproject/config.py	/^def set_prefs(prefs):$/;"	f
+set_value	learn/python3/day07/queue_test.py	/^def set_value(q):$/;"	f
+settings	learn/python3/day09/bmw/bmw/pipelines.py	/^from bmw import settings$/;"	i
+show_date	豆瓣/douban_showing_soon.py	/^    show_date = div.xpath('.\/\/ul\/li[1]\/text()')[0]$/;"	v
+show_soon_movie	豆瓣/douban_showing_soon.py	/^    show_soon_movie = {$/;"	v
+showwait	learn/python3/day12/协程/test.py	/^def showwait(name, n):$/;"	f
+signals	learn/python3/day09/bmw/bmw/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day09/douban_login/douban_login/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day09/renren_login/renren_login/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day09/wxapp/wxapp/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day10/boss/boss/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/day11/fang/fang/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^from scrapy import signals$/;"	i
+signals	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^from scrapy import signals$/;"	i
+soup	learn/python3/day04/bs4_test.py	/^soup = BeautifulSoup(html, 'lxml')$/;"	v
+soup	learn/python3/day12/协程/project/test.py	/^soup = BeautifulSoup(driver.page_source, 'lxml')$/;"	v
+spider	tencent/hr/tencent_hr.py	/^def spider():$/;"	f
+spider	电影天堂/movie_list.py	/^def spider():$/;"	f
+spider_opened	learn/python3/day09/bmw/bmw/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:BmwDownloaderMiddleware
+spider_opened	learn/python3/day09/bmw/bmw/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:BmwSpiderMiddleware
+spider_opened	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:DoubanLoginDownloaderMiddleware
+spider_opened	learn/python3/day09/douban_login/douban_login/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:DoubanLoginSpiderMiddleware
+spider_opened	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:QsbkSpiderDownloaderMiddleware
+spider_opened	learn/python3/day09/qsbk_spider/qsbk_spider/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:QsbkSpiderSpiderMiddleware
+spider_opened	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:RenrenLoginDownloaderMiddleware
+spider_opened	learn/python3/day09/renren_login/renren_login/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:RenrenLoginSpiderMiddleware
+spider_opened	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:WxappDownloaderMiddleware
+spider_opened	learn/python3/day09/wxapp/wxapp/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:WxappSpiderMiddleware
+spider_opened	learn/python3/day11/fang/fang/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:FangDownloaderMiddleware
+spider_opened	learn/python3/day11/fang/fang/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:FangSpiderMiddleware
+spider_opened	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:TencentDownloaderMiddleware
+spider_opened	learn/python3/深度爬虫/scrapy/Tencent/Tencent/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:TencentSpiderMiddleware
+spider_opened	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:BaidubaikeDownloaderMiddleware
+spider_opened	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:BaidubaikeSpiderMiddleware
+spider_opened	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:TianyaspiderDownloaderMiddleware
+spider_opened	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/middlewares.py	/^    def spider_opened(self, spider):$/;"	m	class:TianyaspiderSpiderMiddleware
+sql	learn/python3/day10/jianshu_spider/jianshu_spider/pipelines.py	/^    def sql(self):$/;"	m	class:JianshuTwistedPipeline
+start_page	learn/python3/tieba.py	/^start_page = int(input('起始页码：'))$/;"	v
+start_requests	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^    def start_requests(self):$/;"	m	class:RenrenSpider
+start_urls	learn/python3/day09/bmw/bmw/spiders/bmw5.py	/^    start_urls = ['https:\/\/car.autohome.com.cn\/pic\/series\/65.html#pvareaid=3454438']$/;"	v	class:Bmw5Spider
+start_urls	learn/python3/day09/douban_login/douban_login/spiders/douban.py	/^    start_urls = [$/;"	v	class:DoubanSpider
+start_urls	learn/python3/day09/qsbk_spider/qsbk_spider/spiders/qsbk.py	/^    start_urls = ['https:\/\/www.qiushibaike.com\/text\/page\/1\/']$/;"	v	class:QsbkSpider
+start_urls	learn/python3/day09/renren_login/renren_login/spiders/renren.py	/^    start_urls = ['http:\/\/renren.com\/']$/;"	v	class:RenrenSpider
+start_urls	learn/python3/day09/wxapp/wxapp/spiders/wxapp_spider.py	/^    start_urls = [$/;"	v	class:WxappSpiderSpider
+start_urls	learn/python3/day10/jianshu_spider/jianshu_spider/spiders/js.py	/^    start_urls = ['http:\/\/jianshu.com\/']$/;"	v	class:JsSpider
+start_urls	learn/python3/day11/fang/fang/spiders/sfw.py	/^    start_urls = ['http:\/\/www.fang.com\/SoufunFamily.htm']$/;"	v	class:SfwSpider
+start_urls	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/baike.py	/^    start_urls = ['https:\/\/baike.baidu.com\/item\/Python\/407313']$/;"	v	class:BaikeSpider
+start_urls	learn/python3/深度爬虫/scrapy/baike.py	/^    start_urls = ['http:\/\/baike.baidu.com\/']$/;"	v	class:BaikeSpider
+start_urls	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/spiders/tianya.py	/^    start_urls = ['http:\/\/bbs.tianya.cn\/m\/post-140-393974-1.shtml']$/;"	v	class:TianyaSpider
+subjects	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    subjects = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+submit_btn	learn/python3/day07/selenium_demo02.py	/^submit_btn =driver.find_element_by_id('su')$/;"	v
+submit_tag	learn/python3/day07/selenium_chromedriver.py	/^submit_tag = driver.find_element_by_id('su')$/;"	v
+table	learn/python3/day12/协程/project/test.py	/^table = soup.find(name='table', attrs={'id': 'report'})$/;"	v
+task_queue	learn/python3/分布式/分布式控制模型/server.py	/^task_queue = Queue()  # 任务队列$/;"	v
+tds	learn/python3/day12/协程/project/test.py	/^    tds = tr.find_all('td')$/;"	v
+test_proxy	learn/python3/xici_proxy.py	/^def test_proxy(ip):$/;"	f
+text	learn/python3/day04/re_learn.py	/^text = 'apple`s price $99, orange`s price is $10'$/;"	v
+text	learn/python3/day04/re_method.py	/^text = 'apple`s price , orange`s price is 10.20'$/;"	v
+text	learn/python3/day04/re_test.py	/^text = '1001'$/;"	v
+text	learn/python3/day04/re_test_demo.py	/^text = '\\\\n'$/;"	v
+text	learn/python3/day08/pytesseract_test.py	/^text = pytesseract.image_to_string(image, 'chi_sim')$/;"	v
+text	豆瓣/douban_showing_soon.py	/^text = response.text$/;"	v
+text	豆瓣/douban_spider.py	/^text = response.text$/;"	v
+thread_list	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^thread_list = []$/;"	v
+threading	learn/python3/day06/pc_condition.py	/^import threading$/;"	i
+threading	learn/python3/day06/produce_consumer.py	/^import threading$/;"	i
+threading	learn/python3/day06/thread_class.py	/^import threading$/;"	i
+threading	learn/python3/day06/threading_lock.py	/^import threading$/;"	i
+threading	learn/python3/day06/threading_normal.py	/^import threading$/;"	i
+threading	learn/python3/day07/doutu_threading.py	/^import threading$/;"	i
+threading	learn/python3/day07/queue_test.py	/^import threading$/;"	i
+threading	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^import threading$/;"	i
+threading	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^import threading$/;"	i
+thumbnail	豆瓣/douban_showing_soon.py	/^    thumbnail = div.xpath('.\/\/img\/@src')$/;"	v
+thumbnail	豆瓣/douban_spider.py	/^    thumbnail = li.xpath('.\/\/img\/@src')$/;"	v
+time	learn/python3/day06/pc_condition.py	/^import time$/;"	i
+time	learn/python3/day06/produce_consumer.py	/^import time$/;"	i
+time	learn/python3/day06/thread_class.py	/^import time$/;"	i
+time	learn/python3/day06/threading_normal.py	/^import time$/;"	i
+time	learn/python3/day07/queue_test.py	/^import time$/;"	i
+time	learn/python3/day07/selenium_lagou.py	/^import time$/;"	i
+time	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^import time$/;"	i
+time	learn/python3/day12/协程/project/test.py	/^import time$/;"	i
+time	learn/python3/day12/协程/project/协程.py	/^import time$/;"	i
+time	learn/python3/day12/协程/test.py	/^import time$/;"	i
+time	learn/python3/day12/协程/xiecheng_test.py	/^import time$/;"	i
+time	learn/python3/分布式/分布式控制模型/server.py	/^import time$/;"	i
+time	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^import time$/;"	i
+time	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^import time$/;"	i
+time	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^import time$/;"	i
+time	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^import time$/;"	i
+time	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^import time$/;"	i
+time	learn/python3/深度爬虫/进程与线程/线程信号量.py	/^import time$/;"	i
+time_thread	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^    time_thread = threading.Timer(5, save_mail)$/;"	v
+title	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^    title = tr.xpath('.\/td[1]\/\/text()')[0]$/;"	v
+title	learn/python3/day09/wxapp/wxapp/items.py	/^    title = scrapy.Field()$/;"	v	class:WxappItem
+title	learn/python3/day10/boss/boss/items.py	/^    title = scrapy.Field()$/;"	v	class:BossItem
+title	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    title = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+title	豆瓣/douban_showing_soon.py	/^    title = div.xpath('.\/\/a[@class=""]')[0].text$/;"	v
+title	豆瓣/douban_spider.py	/^    title = li.xpath('@data-title')$/;"	v
+tmp_proxies	learn/python3/xici_proxy.py	/^    tmp_proxies = []$/;"	v
+tmp_proxy	learn/python3/xici_proxy.py	/^        tmp_proxy = test_proxy(i)  # 逐个验证$/;"	v
+toward	learn/python3/day11/fang/fang/items.py	/^    toward = scrapy.Field()  # 朝向$/;"	v	class:ESFHouseItem
+trim	learn/python3/day09/douban_login/douban_login.html	/^function trim(e){return e.replace(\/^(\\s|\\u00A0)+\/,"").replace(\/(\\s|\\u00A0)+$\/,"")}function validateForm(e){var r=0,t=e.elements["captcha-solution"],l=e.elements.form_email,n=e.elements.form_password,a=document.getElementById("item-error");if(a&&(a.style.display="none"),t){var o=trim(t.value);""===o?(displayError(t,"请输入验证码"),r=1):o.length<4?(displayError(t,"请输入正确的验证码"),r=1):clearError(t)}if(l){var i=trim(l.value);""===i||"邮箱\/手机号\/用户名"===i?(displayError(l,"请输入正确的邮箱\/手机号\/用户名"),r=1):clearError(l)}return n&&(""===n.value?(displayError(n,"请输入密码"),r=1):n&&clearError(n)),!r}function displayError(e,r){var t=document.getElementById(e.name+"_err");t||(t=document.createElement("span"),t.id=e.name+"_err",t.className="error-tip",e.parentNode.appendChild(t)),t.style.display="inline",t.innerHTML=r}function clearError(e){var r=document.getElementById(e.name+"_err");r&&(r.style.display="none")}!function(e){var r=function(r){return e.getElementById(r)},t="邮箱\/手机号\/用户名",l=r("email"),n=r("password"),a=r("captcha_field");l.onfocus=function(){this.value==t&&(this.value="",this.style.color="#000")},l.onblur=function(){this.value||(this.value=t,this.style.color="#ccc")},l.value==t?l.style.color="#ccc":""===n.value?n.focus():a&&a.focus()}(document);$/;"	f
+trs	learn/python3/day03/数据提取/xpath/tenxun_xpath.py	/^trs = html.xpath('\/\/tr[position() > 1]')$/;"	v
+trs	learn/python3/day04/bs4_test.py	/^trs = soup.select('tr')$/;"	v
+trs	learn/python3/day12/协程/project/test.py	/^trs = table.find('tr').find_next_siblings()$/;"	v
+types	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^import types$/;"	i
+types	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^import types$/;"	i
+types	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^import types$/;"	i
+ul	豆瓣/douban_spider.py	/^ul = html.xpath('\/\/ul[@class="lists"]')[0]$/;"	v
+unit	learn/python3/day11/fang/fang/items.py	/^    unit = scrapy.Field()  # 单价$/;"	v	class:ESFHouseItem
+url	learn/python3/day01/urllib_learn/nehan_homework.py	/^url = 'http:\/\/httpbin.org\/ip'$/;"	v
+url	learn/python3/day01/urllib_learn/renren_cookies.py	/^url = 'http:\/\/www.renren.com\/968661159'$/;"	v
+url	learn/python3/day02/request/demo01.py	/^url = 'https:\/\/www.baidu.com\/'$/;"	v
+url	learn/python3/day02/request/session_renren.py	/^url = 'http:\/\/www.baidu.com\/PLogin.do'$/;"	v
+url	learn/python3/error.py	/^url = 'http:\/\/www.google.com'$/;"	v
+url	learn/python3/get.py	/^url = 'http:\/\/www.baidu.com\/s?'$/;"	v
+url	learn/python3/handler.py	/^url = 'http:\/\/www.baidu.com\/'$/;"	v
+url	learn/python3/head.py	/^url = 'http:\/\/www.baidu.com\/'$/;"	v
+url	learn/python3/tieba.py	/^url = 'https:\/\/tieba.baidu.com\/f?'$/;"	v
+url	learn/python3/urlencode.py	/^url = 'http:\/\/www.baidu.com\/index.html'$/;"	v
+url	learn/python3/urlopen.py	/^url = 'http:\/\/www.baidu.com'$/;"	v
+url	learn/python3/xici_proxy.py	/^url = 'http:\/\/www.xicidaili.com\/nn'$/;"	v
+url	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/items.py	/^    url = scrapy.Field()$/;"	v	class:BaidubaikeItem
+url	learn/python3/深度爬虫/scrapy/tianyaspider/tianyaspider/items.py	/^    url = scrapy.Field()$/;"	v	class:EmailSpiderItem
+url	电影天堂/movie_list.py	/^url = 'https:\/\/www.dytt8.net\/html\/gndy\/dyzz\/list_23_1.html'$/;"	v
+url	豆瓣/douban_showing_soon.py	/^url = 'https:\/\/movie.douban.com\/cinema\/later\/jian\/'$/;"	v
+url	豆瓣/douban_spider.py	/^url = 'https:\/\/movie.douban.com\/cinema\/nowplaying\/jian\/'$/;"	v
+url_queue	learn/python3/深度爬虫/url嵌套爬虫/多线程并发模式.py	/^    url_queue = multiprocessing.managers.queue()$/;"	v
+url_queue	learn/python3/深度爬虫/url嵌套爬虫/邮箱爬虫协程版.py	/^url_queue = Queue()$/;"	v
+url_temp	learn/python3/tieba.py	/^    url_temp = url + url$/;"	v
+urllib	learn/python3/agency.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/agency.py	/^import urllib.request$/;"	i
+urllib	learn/python3/ajax_get.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/ajax_get.py	/^import urllib.request$/;"	i
+urllib	learn/python3/ajax_post.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/ajax_post.py	/^import urllib.request$/;"	i
+urllib	learn/python3/error.py	/^import urllib.error$/;"	i
+urllib	learn/python3/error.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/error.py	/^import urllib.request$/;"	i
+urllib	learn/python3/get.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/get.py	/^import urllib.request$/;"	i
+urllib	learn/python3/handler.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/handler.py	/^import urllib.request$/;"	i
+urllib	learn/python3/head.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/head.py	/^import urllib.request$/;"	i
+urllib	learn/python3/parse.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/post.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/post.py	/^import urllib.request$/;"	i
+urllib	learn/python3/post_test.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/post_test.py	/^import urllib.request$/;"	i
+urllib	learn/python3/tieba.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/tieba.py	/^import urllib.request$/;"	i
+urllib	learn/python3/urlencode.py	/^import urllib.parse$/;"	i
+urllib	learn/python3/urlopen.py	/^import urllib.request$/;"	i
+user	learn/python3/day05/pymysql_delete.py	/^    user='root',$/;"	v
+user	learn/python3/day05/pymysql_insert.py	/^    user='root',$/;"	v
+user	learn/python3/day05/pymysql_search.py	/^    user='root',$/;"	v
+user	learn/python3/day05/pymysql_test.py	/^    user='root',$/;"	v
+username	learn/python3/day05/pymysql_insert.py	/^username = 'xiaojianjian'$/;"	v
+wd	learn/python3/parse.py	/^wd = urllib.parse.unquote(word)$/;"	v
+webdriver	learn/python3/day07/proxy_selenium.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day07/selenium_chromedriver.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day07/selenium_cookies.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day07/selenium_demo02.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day07/selenium_tab.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day07/selenium_wait.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day10/jianshu_spider/jianshu_spider/middlewares.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day12/协程/project/test.py	/^from selenium import webdriver$/;"	i
+webdriver	learn/python3/day12/协程/project/协程.py	/^from selenium import webdriver$/;"	i
+word	learn/python3/get.py	/^word = input('您想要搜索的内容：')$/;"	v
+word	learn/python3/parse.py	/^word = urllib.parse.quote(str(word))$/;"	v
+word	learn/python3/parse.py	/^word = {$/;"	v
+word	learn/python3/post.py	/^word = input('请输入要查询的英文单词：')$/;"	v
+word	learn/python3/post_test.py	/^word = 'hello'$/;"	v
+word_count	learn/python3/day10/jianshu_spider/jianshu_spider/items.py	/^    word_count = scrapy.Field()$/;"	v	class:JianshuSpiderItem
+work_location	learn/python3/深度爬虫/scrapy/Tencent/Tencent/items.py	/^    work_location = scrapy.Field()$/;"	v	class:TencentItem
+wrapper	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^    def wrapper(*args, **kwargs):$/;"	f	function:recordparametertype
+wrapper	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^    def wrapper(*args, **kwargs):$/;"	f	function:recordparametertype
+wrapper	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^    def wrapper(*args, **kwargs):$/;"	f	function:recordparametertype
+wraps	learn/python3/深度爬虫/scrapy/autodocparameters.py	/^from functools import wraps$/;"	i
+wraps	learn/python3/深度爬虫/scrapy/baidubaike/autodocparameters.py	/^from functools import wraps$/;"	i
+wraps	learn/python3/深度爬虫/scrapy/baidubaike/baidubaike/spiders/autodocparameters.py	/^from functools import wraps$/;"	i
+write_csv_demo1	learn/python3/day05/csv_write.py	/^def write_csv_demo1():$/;"	f
+write_csv_demo2	learn/python3/day05/csv_write.py	/^def write_csv_demo2():$/;"	f
+year	learn/python3/day11/fang/fang/items.py	/^    year = scrapy.Field()$/;"	v	class:ESFHouseItem
